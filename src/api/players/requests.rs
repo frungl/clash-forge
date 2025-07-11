@@ -3,7 +3,7 @@ use crate::api::players::models::{APIPlayer, APIVerifyTokenRequest, APIVerifyTok
 use crate::api::rest_manager::RestManager;
 use crate::errors::Result;
 
-macro_rules! encode_url {
+macro_rules! format_url {
     ($fmt:expr, $($arg:expr)*) => {
         format!("players/{}", format!($fmt, $($arg)*))
     };
@@ -19,7 +19,7 @@ impl RestManager {
     /// `Result` containing an `APIPlayer` if successful; if an error occurs, it contains an `Error`.
     pub async fn player(&self, tag: impl AsRef<str>) -> Result<APIPlayer> {
         let tag = utils::normalize_tag(tag.as_ref());
-        let url = encode_url!("{}", tag);
+        let url = format_url!("{}", tag);
         self.get(&url, None).await
     }
 
@@ -34,7 +34,7 @@ impl RestManager {
     pub async fn verify(&self, tag: impl AsRef<str>, token: impl AsRef<str>) -> Result<bool> {
         let tag = utils::normalize_tag(tag.as_ref());
         let token = token.as_ref().to_string();
-        let url = encode_url!("{}/verifytoken", tag);
+        let url = format_url!("{}/verifytoken", tag);
         let request = APIVerifyTokenRequest { token };
         self.post(&url, &request).await.map(|x: APIVerifyTokenResponse| x.status == "ok" )
     }

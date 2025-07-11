@@ -4,7 +4,7 @@ use crate::api::locations::models::{APIClanBuilderBaseRanking, APIClanCapitalRan
 use crate::api::rest_manager::RestManager;
 use crate::errors::Result;
 
-macro_rules! encode_url {
+macro_rules! format_url {
     ($fmt:expr, $($arg:expr)*) => {
         format!("locations/{}", format!($fmt, $($arg)*))
     };
@@ -19,7 +19,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APILocation>` if successful; if an error occurs, it contains an `Error`.
     pub async fn locations(&self, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APILocation>> {
-        let url = encode_url!("",);
+        let url = format_url!("",);
         self.get(&url, pagination_options.to_query_parameters().into()).await
     }
 
@@ -31,7 +31,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing the `APILocation` if successful; if an error occurs, it contains an `Error`.
     pub async fn location_info(&self, location_id: impl AsRef<str>) -> Result<APILocation> {
-        let url = encode_url!("{}", location_id.as_ref());
+        let url = format_url!("{}", location_id.as_ref());
         self.get(&url, None).await
     }
 
@@ -44,7 +44,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APIPlayerRanking>` if successful; if an error occurs, it contains an `Error`.
     pub async fn players_rankings(&self, location_id: impl AsRef<str>, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APIPlayerRanking>> {
-        let url = encode_url!("{}/rankings/players", location_id.as_ref());
+        let url = format_url!("{}/rankings/players", location_id.as_ref());
         self.get(&url, pagination_options.to_query_parameters().into()).await
     }
 
@@ -56,7 +56,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APIClanRanking>` if successful; if an error occurs, it contains an `Error`.
     pub async fn clans_rankings(&self, location_id: impl AsRef<str>, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APIClanRanking>> {
-        let url = encode_url!("{}/rankings/clans", location_id.as_ref());
+        let url = format_url!("{}/rankings/clans", location_id.as_ref());
         self.get(&url, pagination_options.to_query_parameters().into()).await
     }
 
@@ -69,7 +69,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APIPlayerBuilderBaseRanking>` if successful; if an error occurs, it contains an `Error`.
     pub async fn players_builder_base_rankings(&self, location_id: impl AsRef<str>, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APIPlayerBuilderBaseRanking>> {
-        let url = encode_url!("{}/rankings/players-builder-base", location_id.as_ref());
+        let url = format_url!("{}/rankings/players-builder-base", location_id.as_ref());
         self.get(&url, pagination_options.to_query_parameters().into()).await
     }
 
@@ -82,7 +82,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APIClanBuilderBaseRanking>` if successful; if an error occurs, it contains an `Error`.
     pub async fn clans_builder_base_rankings(&self, location_id: impl AsRef<str>, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APIClanBuilderBaseRanking>> {
-        let url = encode_url!("{}/rankings/clans-builder-base", location_id.as_ref());
+        let url = format_url!("{}/rankings/clans-builder-base", location_id.as_ref());
         self.get(&url, pagination_options.to_query_parameters().into()).await
     }
 
@@ -95,7 +95,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APIClanCapitalRanking>` if successful; if an error occurs, it contains an `Error`.
     pub async fn capitals_rankings(&self, location_id: impl AsRef<str>, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APIClanCapitalRanking>> {
-        let url = encode_url!("{}/rankings/capitals", location_id.as_ref());
+        let url = format_url!("{}/rankings/capitals", location_id.as_ref());
         self.get(&url, pagination_options.to_query_parameters().into()).await
     }
 }
