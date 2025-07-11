@@ -23,7 +23,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APIClan>` if successful; if an error occurs, it contains an `Error`.
     pub async fn clans(&self, search_options: ClanSearchOptions, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APIClan>> {
-        let url = format_url!("",);
+        let url = "clans".to_string();
         let mut parameters = search_options.to_query_parameters();
         parameters.extend(pagination_options.to_query_parameters());
         self.get(&url, parameters.into()).await
