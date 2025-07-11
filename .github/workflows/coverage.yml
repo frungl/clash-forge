@@ -1,7 +1,12 @@
-name: Coverage
+name: Generate Code Coverage
 
-on: [pull_request, push]
-
+on:
+  workflow_run:
+    workflows: ["CI"]
+    types:
+      - completed
+    branches:
+      - master
 jobs:
   coverage:
     runs-on: ubuntu-latest
