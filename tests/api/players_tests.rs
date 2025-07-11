@@ -2,13 +2,13 @@ use crate::api::utils::get_test_rest_manager;
 use clash_forge::api::common::utils::normalize_tag;
 use clash_forge::api::players::models::APIVerifyTokenRequest;
 
-macro_rules! encode_path {
+macro_rules! format_path {
     ($fmt:expr, $($arg:expr), *) => {
         crate::api::utils::get_mock_data_path(format!("players/{}.json", format!($fmt, $($arg), *)))
     };
 }
 
-macro_rules! encode_url {
+macro_rules! format_url {
     ($fmt:expr, $($arg:expr), *) => {
         format!("/players/{}", format!($fmt, $($arg), *)).as_str()
     };
@@ -20,12 +20,12 @@ async fn player_test() {
     let url = server.url();
     let tag_list = vec!["8VURQOYUJ", "9QP9LQOJ8"];
     for tag in tag_list {
-        let normalized_tag = normalize_tag(tag).expect("Test tag should be ok");
+        let normalized_tag = normalize_tag(tag);
         let _m = server
-            .mock("GET", encode_url!("{}", normalized_tag))
+            .mock("GET", format_url!("{}", normalized_tag))
             .with_status(200)
             .with_header("content-type", "application/json")
-            .with_body_from_file(encode_path!("{}", tag))
+            .with_body_from_file(format_path!("{}", tag))
             .create_async()
             .await;
         let result = get_test_rest_manager(&url).player(tag).await;
@@ -38,10 +38,10 @@ async fn player_verify_test() {
     let mut server = mockito::Server::new_async().await;
     let url = server.url();
     let tag = "8VURQOYUJ";
-    let normalized_tag = normalize_tag(tag).expect("Test tag should be ok");
+    let normalized_tag = normalize_tag(tag);
     let valid_token = "valid_token";
     let _m = server
-        .mock("POST", encode_url!("{}/verifytoken", normalized_tag))
+        .mock("POST", format_url!("{}/verifytoken", normalized_tag))
         .match_request(|req| {
             let body = req.body().expect("Should have a body").as_slice();
             let request: APIVerifyTokenRequest = serde_json::from_slice(body).expect("Should be able to deserialize request body");
@@ -49,12 +49,12 @@ async fn player_verify_test() {
         })
         .with_status(200)
         .with_header("content-type", "application/json")
-        .with_body_from_file(encode_path!("{}_valid", tag))
+        .with_body_from_file(format_path!("{}_valid", tag))
         .create_async()
         .await;
 
     let _m_invalid = server
-        .mock("POST", encode_url!("{}/verifytoken", normalized_tag))
+        .mock("POST", format_url!("{}/verifytoken", normalized_tag))
         .match_request(|req| {
             let body = req.body().expect("Should have a body").as_slice();
             let request: APIVerifyTokenRequest = serde_json::from_slice(body).expect("Should be able to deserialize request body");
@@ -62,7 +62,7 @@ async fn player_verify_test() {
         })
         .with_status(200)
         .with_header("content-type", "application/json")
-        .with_body_from_file(encode_path!("{}_invalid", tag))
+        .with_body_from_file(format_path!("{}_invalid", tag))
         .create_async()
         .await;
 

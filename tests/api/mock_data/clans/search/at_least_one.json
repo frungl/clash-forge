@@ -1,0 +1,4 @@
+{
+  "reason": "badRequest",
+  "message": "At least one filtering parameter must exist"
+}

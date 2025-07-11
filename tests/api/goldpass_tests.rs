@@ -1,6 +1,6 @@
 use crate::api::utils::get_test_rest_manager;
 
-macro_rules! encode_path {
+macro_rules! format_path {
     ($name:expr) => {
         crate::api::utils::get_mock_data_path((format!("goldpass/{}.json", $name)))
     };
@@ -14,7 +14,7 @@ async fn goldpass_test() {
         .mock("GET", "/goldpass/seasons/current")
         .with_status(200)
         .with_header("content-type", "application/json")
-        .with_body_from_file(encode_path!("200"))
+        .with_body_from_file(format_path!("200"))
         .create_async()
         .await;
     let result = get_test_rest_manager(&url).goldpass().await;
