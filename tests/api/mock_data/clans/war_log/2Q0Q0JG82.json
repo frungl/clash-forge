@@ -1,0 +1,2000 @@
+{
+  "items": [
+    {
+      "result": null,
+      "endTime": "20250709T150720.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png"
+        },
+        "clanLevel": 16,
+        "attacks": 196,
+        "stars": 513,
+        "destructionPercentage": 561.4,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 461,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20250701T120125.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png"
+        },
+        "clanLevel": 16,
+        "attacks": 36,
+        "stars": 56,
+        "destructionPercentage": 96.35,
+        "expEarned": 250
+      },
+      "opponent": {
+        "tag": "#2G2QYPJ0Q",
+        "name": "☠☠☠",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/trqizhUDGN9XUNX0dONBbdu8dYcYy5DwHbTxqFUeY7o.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/trqizhUDGN9XUNX0dONBbdu8dYcYy5DwHbTxqFUeY7o.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/trqizhUDGN9XUNX0dONBbdu8dYcYy5DwHbTxqFUeY7o.png"
+        },
+        "clanLevel": 16,
+        "stars": 60,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250629T100640.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png"
+        },
+        "clanLevel": 16,
+        "attacks": 37,
+        "stars": 58,
+        "destructionPercentage": 99,
+        "expEarned": 293
+      },
+      "opponent": {
+        "tag": "#P229UCUG",
+        "name": "★CHAMPİONS★",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/N24KA6fFHbDj4HDRcBhnF1x2MvCG0feTh3k6p3zcMW8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/N24KA6fFHbDj4HDRcBhnF1x2MvCG0feTh3k6p3zcMW8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/N24KA6fFHbDj4HDRcBhnF1x2MvCG0feTh3k6p3zcMW8.png"
+        },
+        "clanLevel": 18,
+        "stars": 56,
+        "destructionPercentage": 94.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250626T201737.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png"
+        },
+        "clanLevel": 16,
+        "attacks": 36,
+        "stars": 58,
+        "destructionPercentage": 97.9,
+        "expEarned": 298
+      },
+      "opponent": {
+        "tag": "#JQCRPYC2",
+        "name": "قبيله ✌المجهول✌",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Mq2w7HVm7XWJn4b2VmykV0Fb1UwEP_1IT0Tip2ZYsjs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Mq2w7HVm7XWJn4b2VmykV0Fb1UwEP_1IT0Tip2ZYsjs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Mq2w7HVm7XWJn4b2VmykV0Fb1UwEP_1IT0Tip2ZYsjs.png"
+        },
+        "clanLevel": 22,
+        "stars": 40,
+        "destructionPercentage": 78.05
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250624T190215.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png"
+        },
+        "clanLevel": 16,
+        "attacks": 42,
+        "stars": 75,
+        "destructionPercentage": 100,
+        "expEarned": 344
+      },
+      "opponent": {
+        "tag": "#9J9GV9L9",
+        "name": "USSR",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/r459vov2MeWewTSAgcDf3ywJ6kpP_5jLomSx7vx1KlY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/r459vov2MeWewTSAgcDf3ywJ6kpP_5jLomSx7vx1KlY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/r459vov2MeWewTSAgcDf3ywJ6kpP_5jLomSx7vx1KlY.png"
+        },
+        "clanLevel": 22,
+        "stars": 63,
+        "destructionPercentage": 88.88
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20250622T162346.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png"
+        },
+        "clanLevel": 16,
+        "attacks": 35,
+        "stars": 55,
+        "destructionPercentage": 96.75,
+        "expEarned": 236
+      },
+      "opponent": {
+        "tag": "#2RV90GYPP",
+        "name": "Ga FreeBallerS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JhUMjD-itCg6Mu-dsDZjKJzqaSMHJe-H_nQ87M5yY9A.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JhUMjD-itCg6Mu-dsDZjKJzqaSMHJe-H_nQ87M5yY9A.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JhUMjD-itCg6Mu-dsDZjKJzqaSMHJe-H_nQ87M5yY9A.png"
+        },
+        "clanLevel": 6,
+        "stars": 56,
+        "destructionPercentage": 97
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250620T161921.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png"
+        },
+        "clanLevel": 16,
+        "attacks": 35,
+        "stars": 60,
+        "destructionPercentage": 100,
+        "expEarned": 305
+      },
+      "opponent": {
+        "tag": "#29VC02QC0",
+        "name": "Katre-i Matem",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FeQneELNtwSetIi7Qdr8t9Gm4yF1zQ32x54Bhxsh2UI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FeQneELNtwSetIi7Qdr8t9Gm4yF1zQ32x54Bhxsh2UI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FeQneELNtwSetIi7Qdr8t9Gm4yF1zQ32x54Bhxsh2UI.png"
+        },
+        "clanLevel": 11,
+        "stars": 22,
+        "destructionPercentage": 42.8
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250618T124104.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png"
+        },
+        "clanLevel": 16,
+        "attacks": 33,
+        "stars": 58,
+        "destructionPercentage": 98,
+        "expEarned": 297
+      },
+      "opponent": {
+        "tag": "#YJ8UGCUL",
+        "name": "MARIN BOYS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/DfhMw1Epx1lb2CwMKrUpVCBnS7RmWaW8EJIbIiDfp7o.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/DfhMw1Epx1lb2CwMKrUpVCBnS7RmWaW8EJIbIiDfp7o.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/DfhMw1Epx1lb2CwMKrUpVCBnS7RmWaW8EJIbIiDfp7o.png"
+        },
+        "clanLevel": 14,
+        "stars": 51,
+        "destructionPercentage": 93.25
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20250616T012512.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MJBwhcrsl6ZG5hp9QruHI-YWiFdYQ8JMpAvZAw7Au6c.png"
+        },
+        "clanLevel": 16,
+        "attacks": 35,
+        "stars": 54,
+        "destructionPercentage": 93.05,
+        "expEarned": 259
+      },
+      "opponent": {
+        "tag": "#VPVYLCP2",
+        "name": "LiTtLe HeArT",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2MYx20JSqD4qpsvOyEjXpA_VSM3OCecrFnTRCz2Gl8I.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2MYx20JSqD4qpsvOyEjXpA_VSM3OCecrFnTRCz2Gl8I.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2MYx20JSqD4qpsvOyEjXpA_VSM3OCecrFnTRCz2Gl8I.png"
+        },
+        "clanLevel": 23,
+        "stars": 57,
+        "destructionPercentage": 95.95
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250613T100917.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png"
+        },
+        "clanLevel": 15,
+        "attacks": 38,
+        "stars": 59,
+        "destructionPercentage": 99.9,
+        "expEarned": 306
+      },
+      "opponent": {
+        "tag": "#9L98L9VG",
+        "name": "martilyogang",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png"
+        },
+        "clanLevel": 19,
+        "stars": 21,
+        "destructionPercentage": 38.5
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20250609T090047.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png"
+        },
+        "clanLevel": 15,
+        "attacks": 192,
+        "stars": 411,
+        "destructionPercentage": 469.03333,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 414,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250531T010926.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png"
+        },
+        "clanLevel": 15,
+        "attacks": 52,
+        "stars": 89,
+        "destructionPercentage": 99.36667,
+        "expEarned": 375
+      },
+      "opponent": {
+        "tag": "#GJ8YPUU9",
+        "name": "SOLIDARITAS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ic8j15crtNeLSVeF-rYBtQMeNfIdKFAIQLqznpUIXMw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ic8j15crtNeLSVeF-rYBtQMeNfIdKFAIQLqznpUIXMw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ic8j15crtNeLSVeF-rYBtQMeNfIdKFAIQLqznpUIXMw.png"
+        },
+        "clanLevel": 14,
+        "stars": 85,
+        "destructionPercentage": 95.1
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250528T203737.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png"
+        },
+        "clanLevel": 15,
+        "attacks": 34,
+        "stars": 57,
+        "destructionPercentage": 96.85,
+        "expEarned": 284
+      },
+      "opponent": {
+        "tag": "#2GLVCCRU9",
+        "name": "banehcity",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/NcgoJAbq59wTTUQjjDg9CYArfNXgeGOgxCuq9H5sBWk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/NcgoJAbq59wTTUQjjDg9CYArfNXgeGOgxCuq9H5sBWk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/NcgoJAbq59wTTUQjjDg9CYArfNXgeGOgxCuq9H5sBWk.png"
+        },
+        "clanLevel": 11,
+        "stars": 55,
+        "destructionPercentage": 93.15
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250526T135516.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ecJNkz5JScbs28egkqRF1e0A9jnod3VmL3nxdTKqdpM.png"
+        },
+        "clanLevel": 15,
+        "attacks": 31,
+        "stars": 59,
+        "destructionPercentage": 99.6,
+        "expEarned": 264
+      },
+      "opponent": {
+        "tag": "#2G9UQVLJG",
+        "name": "#TOLEDO's_TEAM8",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eVX56PTPD5w5e4kHAcYr-7LD5Cq_eWpqdB5E1M1B_JA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eVX56PTPD5w5e4kHAcYr-7LD5Cq_eWpqdB5E1M1B_JA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eVX56PTPD5w5e4kHAcYr-7LD5Cq_eWpqdB5E1M1B_JA.png"
+        },
+        "clanLevel": 12,
+        "stars": 58,
+        "destructionPercentage": 98.85
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250524T083803.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/AuG9TdneVrPm2l13o6i0bLfmcQU9RUJ-uRLn8DaAut8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/AuG9TdneVrPm2l13o6i0bLfmcQU9RUJ-uRLn8DaAut8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/AuG9TdneVrPm2l13o6i0bLfmcQU9RUJ-uRLn8DaAut8.png"
+        },
+        "clanLevel": 15,
+        "attacks": 32,
+        "stars": 60,
+        "destructionPercentage": 100,
+        "expEarned": 285
+      },
+      "opponent": {
+        "tag": "#2LPGJRG82",
+        "name": "Family XG",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png"
+        },
+        "clanLevel": 13,
+        "stars": 57,
+        "destructionPercentage": 97.85
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250521T172043.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 39,
+        "stars": 75,
+        "destructionPercentage": 100,
+        "expEarned": 331
+      },
+      "opponent": {
+        "tag": "#2L9CGGYVY",
+        "name": "*AC GAMER...XII",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/GoNtT_NyEEsrij1PADmKF6XZcyHTqdvXTCo8kDzu3EA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/GoNtT_NyEEsrij1PADmKF6XZcyHTqdvXTCo8kDzu3EA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/GoNtT_NyEEsrij1PADmKF6XZcyHTqdvXTCo8kDzu3EA.png"
+        },
+        "clanLevel": 10,
+        "stars": 60,
+        "destructionPercentage": 86.48
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250519T164255.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 33,
+        "stars": 60,
+        "destructionPercentage": 100,
+        "expEarned": 263
+      },
+      "opponent": {
+        "tag": "#9UPLG2LL",
+        "name": "ROYAL CLASS IND",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/wYgM_vFhjVsgD63Q_xtkWZOhW9mtka-FzcJkL4GWNOg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/wYgM_vFhjVsgD63Q_xtkWZOhW9mtka-FzcJkL4GWNOg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/wYgM_vFhjVsgD63Q_xtkWZOhW9mtka-FzcJkL4GWNOg.png"
+        },
+        "clanLevel": 18,
+        "stars": 59,
+        "destructionPercentage": 99.2
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250517T150023.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 36,
+        "stars": 73,
+        "destructionPercentage": 99.4,
+        "expEarned": 309
+      },
+      "opponent": {
+        "tag": "#2YGL890PL",
+        "name": "Legenda",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9ALmaltLxI4H_M0P_Gpdn0EWzHlHuCVOXhinb0dyOOY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9ALmaltLxI4H_M0P_Gpdn0EWzHlHuCVOXhinb0dyOOY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9ALmaltLxI4H_M0P_Gpdn0EWzHlHuCVOXhinb0dyOOY.png"
+        },
+        "clanLevel": 8,
+        "stars": 41,
+        "destructionPercentage": 59.24
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250515T023122.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 29,
+        "stars": 58,
+        "destructionPercentage": 99.25,
+        "expEarned": 278
+      },
+      "opponent": {
+        "tag": "#GJJUY2U8",
+        "name": "THE C.H.A.O.S",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
+        },
+        "clanLevel": 19,
+        "stars": 58,
+        "destructionPercentage": 98.65
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250512T125040.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 31,
+        "stars": 59,
+        "destructionPercentage": 99.1,
+        "expEarned": 280
+      },
+      "opponent": {
+        "tag": "#2RG8PY8JY",
+        "name": "BawalPasawayPH",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/o8ImjNg8E23SD_jtmms1ELqG4wukaFu3PZ9MEJ0t5po.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/o8ImjNg8E23SD_jtmms1ELqG4wukaFu3PZ9MEJ0t5po.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/o8ImjNg8E23SD_jtmms1ELqG4wukaFu3PZ9MEJ0t5po.png"
+        },
+        "clanLevel": 11,
+        "stars": 39,
+        "destructionPercentage": 75.1
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20250509T135651.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 60,
+        "stars": 55,
+        "destructionPercentage": 159.53334,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 273,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250429T204506.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 28,
+        "stars": 60,
+        "destructionPercentage": 100,
+        "expEarned": 282
+      },
+      "opponent": {
+        "tag": "#UVJJUQJC",
+        "name": "PURAN",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/1j90fGYjwulAM9dlVagEybtUssVVPmHQndubPI8oLtk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/1j90fGYjwulAM9dlVagEybtUssVVPmHQndubPI8oLtk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/1j90fGYjwulAM9dlVagEybtUssVVPmHQndubPI8oLtk.png"
+        },
+        "clanLevel": 15,
+        "stars": 56,
+        "destructionPercentage": 98.4
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250427T133352.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 31,
+        "stars": 73,
+        "destructionPercentage": 98.64,
+        "expEarned": 312
+      },
+      "opponent": {
+        "tag": "#GQP9R0YV",
+        "name": "(SEDATA)",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cWALcvn8_OemsVg6REqa-DbsyMXrJdbS8GUBrKRIdD8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cWALcvn8_OemsVg6REqa-DbsyMXrJdbS8GUBrKRIdD8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cWALcvn8_OemsVg6REqa-DbsyMXrJdbS8GUBrKRIdD8.png"
+        },
+        "clanLevel": 15,
+        "stars": 72,
+        "destructionPercentage": 97.76
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250425T061259.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 31,
+        "stars": 60,
+        "destructionPercentage": 100,
+        "expEarned": 270
+      },
+      "opponent": {
+        "tag": "#2JPV2QC8G",
+        "name": "filipino pride",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Q9CeDh6WQ8oodRVsLZWlhILkUOGBakyqRjlC46FsjwQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Q9CeDh6WQ8oodRVsLZWlhILkUOGBakyqRjlC46FsjwQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Q9CeDh6WQ8oodRVsLZWlhILkUOGBakyqRjlC46FsjwQ.png"
+        },
+        "clanLevel": 8,
+        "stars": 57,
+        "destructionPercentage": 98.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250423T005646.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 41,
+        "stars": 74,
+        "destructionPercentage": 99.6,
+        "expEarned": 311
+      },
+      "opponent": {
+        "tag": "#2P202UJGR",
+        "name": "Off Ya Rocker",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3JAw6VRENkflGzoBDUVOlW1GOE8-KT5B1HaB19BQJBc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3JAw6VRENkflGzoBDUVOlW1GOE8-KT5B1HaB19BQJBc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3JAw6VRENkflGzoBDUVOlW1GOE8-KT5B1HaB19BQJBc.png"
+        },
+        "clanLevel": 9,
+        "stars": 71,
+        "destructionPercentage": 97.28
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20250419T183635.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 27,
+        "stars": 60,
+        "destructionPercentage": 100,
+        "expEarned": 219
+      },
+      "opponent": {
+        "tag": "#2RC2JYGJC",
+        "name": "farahzad",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0xtjzNSYwMyGZDTiC13ZHWdI6345lguVfq81A16GyBI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0xtjzNSYwMyGZDTiC13ZHWdI6345lguVfq81A16GyBI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0xtjzNSYwMyGZDTiC13ZHWdI6345lguVfq81A16GyBI.png"
+        },
+        "clanLevel": 6,
+        "stars": 60,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250417T003502.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 29,
+        "stars": 60,
+        "destructionPercentage": 100,
+        "expEarned": 273
+      },
+      "opponent": {
+        "tag": "#2L0JLRUYL",
+        "name": "Leftover Food",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/LVAx83jAmQaVRxSXOqEtZSyts6BRJvszXDj8n63Iybk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/LVAx83jAmQaVRxSXOqEtZSyts6BRJvszXDj8n63Iybk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/LVAx83jAmQaVRxSXOqEtZSyts6BRJvszXDj8n63Iybk.png"
+        },
+        "clanLevel": 9,
+        "stars": 51,
+        "destructionPercentage": 89.45
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250414T070224.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 30,
+        "stars": 60,
+        "destructionPercentage": 100,
+        "expEarned": 263
+      },
+      "opponent": {
+        "tag": "#299089JL",
+        "name": "Дьявол 2",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pyrF7jEkUBWNgthO_NBKRYs2rg9sMRHBIpLwwSC18og.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pyrF7jEkUBWNgthO_NBKRYs2rg9sMRHBIpLwwSC18og.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pyrF7jEkUBWNgthO_NBKRYs2rg9sMRHBIpLwwSC18og.png"
+        },
+        "clanLevel": 20,
+        "stars": 53,
+        "destructionPercentage": 93.55
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20250411T174958.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 11,
+        "stars": 29,
+        "destructionPercentage": 97.7,
+        "expEarned": 122
+      },
+      "opponent": {
+        "tag": "#2LCR0GQCY",
+        "name": "Die Zitadelle",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/KZOrwzt1wxt2HV7HKF1oa-5sqlGebO_sawQgL-Ejh-Q.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/KZOrwzt1wxt2HV7HKF1oa-5sqlGebO_sawQgL-Ejh-Q.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/KZOrwzt1wxt2HV7HKF1oa-5sqlGebO_sawQgL-Ejh-Q.png"
+        },
+        "clanLevel": 3,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250128T183146.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 20,
+        "stars": 40,
+        "destructionPercentage": 92.666664,
+        "expEarned": 267
+      },
+      "opponent": {
+        "tag": "#22LPRRQL8",
+        "name": "IT HAS BEGUN!!!",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/7_lPP052Jg5KuP1QAp5zQ9TZOzb23rOesdPp5rgzMuQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/7_lPP052Jg5KuP1QAp5zQ9TZOzb23rOesdPp5rgzMuQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/7_lPP052Jg5KuP1QAp5zQ9TZOzb23rOesdPp5rgzMuQ.png"
+        },
+        "clanLevel": 20,
+        "stars": 40,
+        "destructionPercentage": 91.666664
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250125T202336.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 24,
+        "stars": 39,
+        "destructionPercentage": 95.13333,
+        "expEarned": 267
+      },
+      "opponent": {
+        "tag": "#P09GUULC",
+        "name": "ASİ Türkler",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Z8CpxkS0YzeD0W2zU4atwm0_wOBdaQ_8RpMXEeimnk4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Z8CpxkS0YzeD0W2zU4atwm0_wOBdaQ_8RpMXEeimnk4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Z8CpxkS0YzeD0W2zU4atwm0_wOBdaQ_8RpMXEeimnk4.png"
+        },
+        "clanLevel": 19,
+        "stars": 31,
+        "destructionPercentage": 81.066666
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20250123T154534.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 23,
+        "stars": 37,
+        "destructionPercentage": 85,
+        "expEarned": 216
+      },
+      "opponent": {
+        "tag": "#CJV8UR88",
+        "name": "ابناء القائم",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/bqPCpRJ-sEx0D6y5TSQyNrSS0xHNmx-anp-N_qPEnyg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/bqPCpRJ-sEx0D6y5TSQyNrSS0xHNmx-anp-N_qPEnyg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/bqPCpRJ-sEx0D6y5TSQyNrSS0xHNmx-anp-N_qPEnyg.png"
+        },
+        "clanLevel": 26,
+        "stars": 41,
+        "destructionPercentage": 97.933334
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20250121T101553.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 25,
+        "stars": 36,
+        "destructionPercentage": 91.666664,
+        "expEarned": 218
+      },
+      "opponent": {
+        "tag": "#CGP0LJ2G",
+        "name": "NEW CLAN",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/EHQQK1ZLPp7FrdUUJ-CJVkqfMsjILF6x51tjQbjy2uw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/EHQQK1ZLPp7FrdUUJ-CJVkqfMsjILF6x51tjQbjy2uw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/EHQQK1ZLPp7FrdUUJ-CJVkqfMsjILF6x51tjQbjy2uw.png"
+        },
+        "clanLevel": 26,
+        "stars": 44,
+        "destructionPercentage": 99.86667
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250119T073518.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 24,
+        "stars": 39,
+        "destructionPercentage": 92.86667,
+        "expEarned": 272
+      },
+      "opponent": {
+        "tag": "#22QYLUUYY",
+        "name": "빨간뚜껑",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eTxCJkpy0T6faR1oEwYjCE7Y41fb1go73e5DtIsEyeI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eTxCJkpy0T6faR1oEwYjCE7Y41fb1go73e5DtIsEyeI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eTxCJkpy0T6faR1oEwYjCE7Y41fb1go73e5DtIsEyeI.png"
+        },
+        "clanLevel": 25,
+        "stars": 37,
+        "destructionPercentage": 94.333336
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250117T030231.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 20,
+        "stars": 27,
+        "destructionPercentage": 97.1,
+        "expEarned": 213
+      },
+      "opponent": {
+        "tag": "#28V0PCCPP",
+        "name": "ClashOfDoom",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/MIK0-Uf-s2Hgm6fb3oNY1yVU5f_Ym3jHfHCUp3OYmXA.png"
+        },
+        "clanLevel": 20,
+        "stars": 12,
+        "destructionPercentage": 44.6
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20250115T021345.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 25,
+        "stars": 39,
+        "destructionPercentage": 91.53333,
+        "expEarned": 209
+      },
+      "opponent": {
+        "tag": "#JQUV029R",
+        "name": "Avengers",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/s84QRhIHMdy-zMW5HUSLmGmP0Qvaa81AzRNEJbTd5rA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/s84QRhIHMdy-zMW5HUSLmGmP0Qvaa81AzRNEJbTd5rA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/s84QRhIHMdy-zMW5HUSLmGmP0Qvaa81AzRNEJbTd5rA.png"
+        },
+        "clanLevel": 23,
+        "stars": 43,
+        "destructionPercentage": 97.86667
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20250113T012345.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 18,
+        "stars": 26,
+        "destructionPercentage": 92.7,
+        "expEarned": 160
+      },
+      "opponent": {
+        "tag": "#29Q0CY8Y",
+        "name": "clan of gentlmn",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Z2qAh9zpofoWJ_tHkbGxuJS2oNHvH2q9vUOt1F05obs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Z2qAh9zpofoWJ_tHkbGxuJS2oNHvH2q9vUOt1F05obs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Z2qAh9zpofoWJ_tHkbGxuJS2oNHvH2q9vUOt1F05obs.png"
+        },
+        "clanLevel": 24,
+        "stars": 26,
+        "destructionPercentage": 93.4
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20250110T220246.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6TCZf43gOXgWxsfGipXdeToqx5tWea2xmletMhEIPbo.png"
+        },
+        "clanLevel": 15,
+        "attacks": 87,
+        "stars": 238,
+        "destructionPercentage": 490.2,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 194,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20250102T011024.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 25,
+        "stars": 42,
+        "destructionPercentage": 97.4,
+        "expEarned": 264
+      },
+      "opponent": {
+        "tag": "#2LRJ8QCGC",
+        "name": "Laban lang",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/uXVej2TjvjrKeeDStyL-QHyERNuKDohFOuKUGIy1K24.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/uXVej2TjvjrKeeDStyL-QHyERNuKDohFOuKUGIy1K24.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/uXVej2TjvjrKeeDStyL-QHyERNuKDohFOuKUGIy1K24.png"
+        },
+        "clanLevel": 22,
+        "stars": 22,
+        "destructionPercentage": 58.866665
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20241230T204008.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 18,
+        "stars": 29,
+        "destructionPercentage": 97.5,
+        "expEarned": 209
+      },
+      "opponent": {
+        "tag": "#2PGV0CV8Y",
+        "name": "LeBron",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/q6tN4z6gebawLm34uWn9VgqIQPPsuT7d3YVNC7gyURQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/q6tN4z6gebawLm34uWn9VgqIQPPsuT7d3YVNC7gyURQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/q6tN4z6gebawLm34uWn9VgqIQPPsuT7d3YVNC7gyURQ.png"
+        },
+        "clanLevel": 15,
+        "stars": 21,
+        "destructionPercentage": 84.4
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20241226T085406.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 19,
+        "stars": 27,
+        "destructionPercentage": 95.5,
+        "expEarned": 207
+      },
+      "opponent": {
+        "tag": "#2Q9V9R9RL",
+        "name": "Fuerte⚡Oscuro",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/u0jW8mXozCNpBtfyUGfZrNGBk7bNQlFsQ6HQ59psjTc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/u0jW8mXozCNpBtfyUGfZrNGBk7bNQlFsQ6HQ59psjTc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/u0jW8mXozCNpBtfyUGfZrNGBk7bNQlFsQ6HQ59psjTc.png"
+        },
+        "clanLevel": 21,
+        "stars": 22,
+        "destructionPercentage": 89.9
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20241224T085446.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 26,
+        "stars": 49,
+        "destructionPercentage": 91.75,
+        "expEarned": 269
+      },
+      "opponent": {
+        "tag": "#29V9RJ8LQ",
+        "name": "Legends buddies",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fHR8b3dEzh4XySlEDRle-ihiz2Het4fPIzOKyGsF3fw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fHR8b3dEzh4XySlEDRle-ihiz2Het4fPIzOKyGsF3fw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fHR8b3dEzh4XySlEDRle-ihiz2Het4fPIzOKyGsF3fw.png"
+        },
+        "clanLevel": 19,
+        "stars": 54,
+        "destructionPercentage": 92.9
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20241220T180312.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 24,
+        "stars": 41,
+        "destructionPercentage": 94.933334,
+        "expEarned": 266
+      },
+      "opponent": {
+        "tag": "#CPLPGC8P",
+        "name": "Danger Army",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/TBHHQBMRz4RCXjp42dMabuhuaebFAt_uGuBfk4AmWAc.png"
+        },
+        "clanLevel": 23,
+        "stars": 35,
+        "destructionPercentage": 85
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20241218T122009.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 33,
+        "stars": 56,
+        "destructionPercentage": 95.5,
+        "expEarned": 323
+      },
+      "opponent": {
+        "tag": "#2L0Y2GR88",
+        "name": "CandyModel.no1",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/mDICx02dJPexcFGCKm9LfrhQRicEC221VCjJtMd0SZI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/mDICx02dJPexcFGCKm9LfrhQRicEC221VCjJtMd0SZI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/mDICx02dJPexcFGCKm9LfrhQRicEC221VCjJtMd0SZI.png"
+        },
+        "clanLevel": 14,
+        "stars": 50,
+        "destructionPercentage": 85.6
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20241216T090115.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 33,
+        "stars": 65,
+        "destructionPercentage": 92.92,
+        "expEarned": 331
+      },
+      "opponent": {
+        "tag": "#2QVPPRVP2",
+        "name": "Eminem-Клан",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/TftC-sfn2eaHeqzPtAWqPMHLvLhe_sbHpi3ro576Sos.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/TftC-sfn2eaHeqzPtAWqPMHLvLhe_sbHpi3ro576Sos.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/TftC-sfn2eaHeqzPtAWqPMHLvLhe_sbHpi3ro576Sos.png"
+        },
+        "clanLevel": 21,
+        "stars": 67,
+        "destructionPercentage": 95.44
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20241213T203159.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 24,
+        "stars": 35,
+        "destructionPercentage": 86,
+        "expEarned": 223
+      },
+      "opponent": {
+        "tag": "#202P8PRRV",
+        "name": "La Relève",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/m3UVBtQQOEEXKJbSLyMLGmLGC7VnhloEYlog3NMiYOE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/m3UVBtQQOEEXKJbSLyMLGmLGC7VnhloEYlog3NMiYOE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/m3UVBtQQOEEXKJbSLyMLGmLGC7VnhloEYlog3NMiYOE.png"
+        },
+        "clanLevel": 19,
+        "stars": 41,
+        "destructionPercentage": 97.066666
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20241210T130107.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 102,
+        "stars": 291,
+        "destructionPercentage": 595.13336,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 187,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20241201T210057.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 24,
+        "stars": 41,
+        "destructionPercentage": 97.13333,
+        "expEarned": 260
+      },
+      "opponent": {
+        "tag": "#CPU2VGU",
+        "name": "Cali-wan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jryvgbascScKkuzsYWnwA_Nr2c1Sx0wonWEX_FvXNPI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jryvgbascScKkuzsYWnwA_Nr2c1Sx0wonWEX_FvXNPI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jryvgbascScKkuzsYWnwA_Nr2c1Sx0wonWEX_FvXNPI.png"
+        },
+        "clanLevel": 23,
+        "stars": 37,
+        "destructionPercentage": 92
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20241129T121226.000Z",
+      "teamSize": 20,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 35,
+        "stars": 54,
+        "destructionPercentage": 95.2,
+        "expEarned": 313
+      },
+      "opponent": {
+        "tag": "#Q8JYULC",
+        "name": "GOD IS ONE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/uXVej2TjvjrKeeDStyL-QHyERNuKDohFOuKUGIy1K24.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/uXVej2TjvjrKeeDStyL-QHyERNuKDohFOuKUGIy1K24.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/uXVej2TjvjrKeeDStyL-QHyERNuKDohFOuKUGIy1K24.png"
+        },
+        "clanLevel": 22,
+        "stars": 52,
+        "destructionPercentage": 94.35
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20241127T111552.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 27,
+        "stars": 45,
+        "destructionPercentage": 100,
+        "expEarned": 258
+      },
+      "opponent": {
+        "tag": "#2QRVR0YJU",
+        "name": "Alpha Phantom",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/GZm0ep4Lp9-5woM7I6P2DD61PIzuMuT2Jk3EeZbpKVc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/GZm0ep4Lp9-5woM7I6P2DD61PIzuMuT2Jk3EeZbpKVc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/GZm0ep4Lp9-5woM7I6P2DD61PIzuMuT2Jk3EeZbpKVc.png"
+        },
+        "clanLevel": 17,
+        "stars": 40,
+        "destructionPercentage": 93.73333
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20241125T120812.000Z",
+      "teamSize": 25,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 33,
+        "stars": 62,
+        "destructionPercentage": 89.12,
+        "expEarned": 368
+      },
+      "opponent": {
+        "tag": "#29QQVR2CL",
+        "name": "™¥ Bra box ¥",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/G8G_nMkONCZyLgCjU7cLmP7UNP1DcukiLni8r-DhPnY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/G8G_nMkONCZyLgCjU7cLmP7UNP1DcukiLni8r-DhPnY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/G8G_nMkONCZyLgCjU7cLmP7UNP1DcukiLni8r-DhPnY.png"
+        },
+        "clanLevel": 19,
+        "stars": 56,
+        "destructionPercentage": 83.12
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20241123T051958.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 15,
+        "stars": 26,
+        "destructionPercentage": 90.8,
+        "expEarned": 152
+      },
+      "opponent": {
+        "tag": "#2L9LPYRR9",
+        "name": "The 48 Laws™️",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/NGPEyQuR-qac7vF-usMJq6vL9BgqOeJu1lrf5O1qmBM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/NGPEyQuR-qac7vF-usMJq6vL9BgqOeJu1lrf5O1qmBM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/NGPEyQuR-qac7vF-usMJq6vL9BgqOeJu1lrf5O1qmBM.png"
+        },
+        "clanLevel": 20,
+        "stars": 27,
+        "destructionPercentage": 92.4
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20241121T053554.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 10,
+        "stars": 15,
+        "destructionPercentage": 100,
+        "expEarned": 144
+      },
+      "opponent": {
+        "tag": "#J98ULYU8",
+        "name": "محترفو تدمر",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ERrhBN9JpKWeNvnhCZWk0c-shQ3nOr4oAdazcV2qiW8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ERrhBN9JpKWeNvnhCZWk0c-shQ3nOr4oAdazcV2qiW8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ERrhBN9JpKWeNvnhCZWk0c-shQ3nOr4oAdazcV2qiW8.png"
+        },
+        "clanLevel": 21,
+        "stars": 11,
+        "destructionPercentage": 71.2
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20241119T011339.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 9,
+        "stars": 12,
+        "destructionPercentage": 89.4,
+        "expEarned": 95
+      },
+      "opponent": {
+        "tag": "#2LP99RLY8",
+        "name": "Rona Szn",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UnlgHAa28VtOwmyQVz2rIMuKkLK001PvOJ9sWn4eY7s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UnlgHAa28VtOwmyQVz2rIMuKkLK001PvOJ9sWn4eY7s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UnlgHAa28VtOwmyQVz2rIMuKkLK001PvOJ9sWn4eY7s.png"
+        },
+        "clanLevel": 17,
+        "stars": 14,
+        "destructionPercentage": 93.2
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20241115T214805.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 18,
+        "stars": 31,
+        "destructionPercentage": 75.53333,
+        "expEarned": 183
+      },
+      "opponent": {
+        "tag": "#2PV8VGPUU",
+        "name": "Clan Zoncillos",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/YVdm7OOVELNNcXtwAL5hLRjCgLin73zi6WLg3tWKbYA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/YVdm7OOVELNNcXtwAL5hLRjCgLin73zi6WLg3tWKbYA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/YVdm7OOVELNNcXtwAL5hLRjCgLin73zi6WLg3tWKbYA.png"
+        },
+        "clanLevel": 16,
+        "stars": 42,
+        "destructionPercentage": 91.666664
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20241111T070340.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/av7Amh3vIYco5uArmum0UnXfOVMIHtrK97jcJkIxYh8.png"
+        },
+        "clanLevel": 14,
+        "attacks": 103,
+        "stars": 301,
+        "destructionPercentage": 603.06665,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 189,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20241009T133036.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Uzr4JybUB4QC3lDRGdSb-SBFSWRGvCULQp0n7EX1soA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Uzr4JybUB4QC3lDRGdSb-SBFSWRGvCULQp0n7EX1soA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Uzr4JybUB4QC3lDRGdSb-SBFSWRGvCULQp0n7EX1soA.png"
+        },
+        "clanLevel": 13,
+        "attacks": 102,
+        "stars": 308,
+        "destructionPercentage": 601.6,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 196,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20240909T192601.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Uzr4JybUB4QC3lDRGdSb-SBFSWRGvCULQp0n7EX1soA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Uzr4JybUB4QC3lDRGdSb-SBFSWRGvCULQp0n7EX1soA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Uzr4JybUB4QC3lDRGdSb-SBFSWRGvCULQp0n7EX1soA.png"
+        },
+        "clanLevel": 13,
+        "attacks": 102,
+        "stars": 335,
+        "destructionPercentage": 635.93335,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 165,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20240809T135353.000Z",
+      "teamSize": 30,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/AT1vy86-qGq5Zi4DpqPc_ENIGh0p1nwFvs2HjU85Vtg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/AT1vy86-qGq5Zi4DpqPc_ENIGh0p1nwFvs2HjU85Vtg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/AT1vy86-qGq5Zi4DpqPc_ENIGh0p1nwFvs2HjU85Vtg.png"
+        },
+        "clanLevel": 12,
+        "attacks": 208,
+        "stars": 661,
+        "destructionPercentage": 670.26666,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 267,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20240709T110123.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/AT1vy86-qGq5Zi4DpqPc_ENIGh0p1nwFvs2HjU85Vtg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/AT1vy86-qGq5Zi4DpqPc_ENIGh0p1nwFvs2HjU85Vtg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/AT1vy86-qGq5Zi4DpqPc_ENIGh0p1nwFvs2HjU85Vtg.png"
+        },
+        "clanLevel": 12,
+        "attacks": 105,
+        "stars": 370,
+        "destructionPercentage": 681.06665,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 86,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20230320T233704.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "battleModifier": "none",
+      "clan": {
+        "tag": "#2Q0Q0JG82",
+        "name": "First Hour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fLkTAqehh1rY4leSi45ZlBNnvlZcYYtRAIhBHTbY8Ug.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fLkTAqehh1rY4leSi45ZlBNnvlZcYYtRAIhBHTbY8Ug.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fLkTAqehh1rY4leSi45ZlBNnvlZcYYtRAIhBHTbY8Ug.png"
+        },
+        "clanLevel": 10,
+        "attacks": 6,
+        "stars": 12,
+        "destructionPercentage": 90.4,
+        "expEarned": 0
+      },
+      "opponent": {
+        "tag": "#2LP2YGJUL",
+        "name": "clasher",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FZJFMmbL9THnXXkgqNLOohGDrxzYcpp2H2f47H3-9kA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FZJFMmbL9THnXXkgqNLOohGDrxzYcpp2H2f47H3-9kA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FZJFMmbL9THnXXkgqNLOohGDrxzYcpp2H2f47H3-9kA.png"
+        },
+        "clanLevel": 8,
+        "stars": 4,
+        "destructionPercentage": 44.4
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}

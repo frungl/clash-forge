@@ -78,7 +78,7 @@ pub struct APIClanBuilderBaseRanking {
     pub members: i64,
     pub rank: i64,
     pub previous_rank: i64,
-    pub builder_base_trophies: i64,
+    pub clan_builder_base_points: i64,
 }
 
 #[derive(Debug, Clone, PartialEq, Eq, Deserialize, Serialize)]

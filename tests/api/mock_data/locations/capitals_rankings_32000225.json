@@ -1,0 +1,4007 @@
+{
+  "items": [
+    {
+      "tag": "#202QR8CG2",
+      "name": "Hog Raiders Swe",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/AfYwk7dg5vFQsd4mreAOABoRlOxHnhvbOesgwIm5uC4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/AfYwk7dg5vFQsd4mreAOABoRlOxHnhvbOesgwIm5uC4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/AfYwk7dg5vFQsd4mreAOABoRlOxHnhvbOesgwIm5uC4.png"
+      },
+      "clanLevel": 27,
+      "members": 40,
+      "rank": 1,
+      "previousRank": -1,
+      "clanCapitalPoints": 5533
+    },
+    {
+      "tag": "#2QQR8YJVQ",
+      "name": "SWE Lajka",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png"
+      },
+      "clanLevel": 23,
+      "members": 37,
+      "rank": 2,
+      "previousRank": -1,
+      "clanCapitalPoints": 5324
+    },
+    {
+      "tag": "#2QPJV2RCR",
+      "name": "The Crew • Swe",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png"
+      },
+      "clanLevel": 17,
+      "members": 39,
+      "rank": 3,
+      "previousRank": -1,
+      "clanCapitalPoints": 5240
+    },
+    {
+      "tag": "#82VG9CQV",
+      "name": "swe ! no cw",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/x-_IHaqOVj5Z8eIVRMzVMm8yg8NcK-5S5i6r9T7L2uI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/x-_IHaqOVj5Z8eIVRMzVMm8yg8NcK-5S5i6r9T7L2uI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/x-_IHaqOVj5Z8eIVRMzVMm8yg8NcK-5S5i6r9T7L2uI.png"
+      },
+      "clanLevel": 29,
+      "members": 47,
+      "rank": 4,
+      "previousRank": -1,
+      "clanCapitalPoints": 4849
+    },
+    {
+      "tag": "#2PCR0VJG0",
+      "name": "Sweden 2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png"
+      },
+      "clanLevel": 26,
+      "members": 50,
+      "rank": 5,
+      "previousRank": -1,
+      "clanCapitalPoints": 4598
+    },
+    {
+      "tag": "#2VRGV8Y",
+      "name": "Falukorv",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/HJOIPKWJ-kgz9zlLsa5zR8zG9KzHF2htwHRDW_y8p5o.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/HJOIPKWJ-kgz9zlLsa5zR8zG9KzHF2htwHRDW_y8p5o.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/HJOIPKWJ-kgz9zlLsa5zR8zG9KzHF2htwHRDW_y8p5o.png"
+      },
+      "clanLevel": 32,
+      "members": 49,
+      "rank": 6,
+      "previousRank": -1,
+      "clanCapitalPoints": 4583
+    },
+    {
+      "tag": "#29PULV99J",
+      "name": "SWE",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png"
+      },
+      "clanLevel": 24,
+      "members": 31,
+      "rank": 7,
+      "previousRank": -1,
+      "clanCapitalPoints": 4572
+    },
+    {
+      "tag": "#9VJL29P",
+      "name": "SVEA RIKE",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png"
+      },
+      "clanLevel": 22,
+      "members": 6,
+      "rank": 8,
+      "previousRank": -1,
+      "clanCapitalPoints": 4569
+    },
+    {
+      "tag": "#QUYQ989",
+      "name": "SWE 30+",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/MnVDqZxCmkRkm0xqFPXskb8XvmdZzANydeCF50O4jws.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/MnVDqZxCmkRkm0xqFPXskb8XvmdZzANydeCF50O4jws.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/MnVDqZxCmkRkm0xqFPXskb8XvmdZzANydeCF50O4jws.png"
+      },
+      "clanLevel": 32,
+      "members": 44,
+      "rank": 9,
+      "previousRank": -1,
+      "clanCapitalPoints": 4562
+    },
+    {
+      "tag": "#U8Y2LCJ",
+      "name": "Swede mayonaise",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/-gqFWi_6ESOug2xgD2LmhJkKGG58wQxlZTD_GEeccac.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/-gqFWi_6ESOug2xgD2LmhJkKGG58wQxlZTD_GEeccac.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/-gqFWi_6ESOug2xgD2LmhJkKGG58wQxlZTD_GEeccac.png"
+      },
+      "clanLevel": 29,
+      "members": 42,
+      "rank": 10,
+      "previousRank": -1,
+      "clanCapitalPoints": 4496
+    },
+    {
+      "tag": "#2PG8LLUVL",
+      "name": "Kings castle",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Jfq9kbHWq64cg93BRGzz1Ej6RljN4r9SlQwYkfhf5AM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Jfq9kbHWq64cg93BRGzz1Ej6RljN4r9SlQwYkfhf5AM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Jfq9kbHWq64cg93BRGzz1Ej6RljN4r9SlQwYkfhf5AM.png"
+      },
+      "clanLevel": 17,
+      "members": 31,
+      "rank": 11,
+      "previousRank": -1,
+      "clanCapitalPoints": 4489
+    },
+    {
+      "tag": "#QV2VRCUR",
+      "name": "swe superstar",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/AfYwk7dg5vFQsd4mreAOABoRlOxHnhvbOesgwIm5uC4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/AfYwk7dg5vFQsd4mreAOABoRlOxHnhvbOesgwIm5uC4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/AfYwk7dg5vFQsd4mreAOABoRlOxHnhvbOesgwIm5uC4.png"
+      },
+      "clanLevel": 27,
+      "members": 49,
+      "rank": 12,
+      "previousRank": -1,
+      "clanCapitalPoints": 4412
+    },
+    {
+      "tag": "#UYP9G2J",
+      "name": "Gamereactor",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/yWSrmF976_pYdkrlGTBrVC77U8EbWzq91stsvNNXSzE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/yWSrmF976_pYdkrlGTBrVC77U8EbWzq91stsvNNXSzE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/yWSrmF976_pYdkrlGTBrVC77U8EbWzq91stsvNNXSzE.png"
+      },
+      "clanLevel": 25,
+      "members": 49,
+      "rank": 13,
+      "previousRank": -1,
+      "clanCapitalPoints": 4345
+    },
+    {
+      "tag": "#8J0U0Y9L",
+      "name": "!SWEDEN!",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/iruTEHEtwk_Yva9Q-csQRZdsEnJ1ZB9SYfandu_qCBo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/iruTEHEtwk_Yva9Q-csQRZdsEnJ1ZB9SYfandu_qCBo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/iruTEHEtwk_Yva9Q-csQRZdsEnJ1ZB9SYfandu_qCBo.png"
+      },
+      "clanLevel": 31,
+      "members": 50,
+      "rank": 14,
+      "previousRank": -1,
+      "clanCapitalPoints": 4344
+    },
+    {
+      "tag": "#8822QVU0",
+      "name": "Svea",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/vVEJ03PzE5ZQQAKDg2P448nmoY_p-z8xPQ4t7hBhJp8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/vVEJ03PzE5ZQQAKDg2P448nmoY_p-z8xPQ4t7hBhJp8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/vVEJ03PzE5ZQQAKDg2P448nmoY_p-z8xPQ4t7hBhJp8.png"
+      },
+      "clanLevel": 31,
+      "members": 47,
+      "rank": 15,
+      "previousRank": -1,
+      "clanCapitalPoints": 4289
+    },
+    {
+      "tag": "#LJLRLQJ",
+      "name": "Sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Gsc-tkdMc-Dh2ghXEQh_7q42JG1BiKwpkChA2Y0kV10.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Gsc-tkdMc-Dh2ghXEQh_7q42JG1BiKwpkChA2Y0kV10.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Gsc-tkdMc-Dh2ghXEQh_7q42JG1BiKwpkChA2Y0kV10.png"
+      },
+      "clanLevel": 30,
+      "members": 49,
+      "rank": 16,
+      "previousRank": -1,
+      "clanCapitalPoints": 4286
+    },
+    {
+      "tag": "#JVYQ2C2G",
+      "name": "Oxbard",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6N0JW3BuyMryrLlttlOQOCVOTIHJWBos2536ZK45tng.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6N0JW3BuyMryrLlttlOQOCVOTIHJWBos2536ZK45tng.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6N0JW3BuyMryrLlttlOQOCVOTIHJWBos2536ZK45tng.png"
+      },
+      "clanLevel": 20,
+      "members": 47,
+      "rank": 17,
+      "previousRank": -1,
+      "clanCapitalPoints": 4285
+    },
+    {
+      "tag": "#RCV8QU8",
+      "name": "Swe - Aces",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/y1eqHJTURmg5OtLXTXJo8VoH08yiHeRRIdbycGvYPi8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/y1eqHJTURmg5OtLXTXJo8VoH08yiHeRRIdbycGvYPi8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/y1eqHJTURmg5OtLXTXJo8VoH08yiHeRRIdbycGvYPi8.png"
+      },
+      "clanLevel": 32,
+      "members": 31,
+      "rank": 18,
+      "previousRank": -1,
+      "clanCapitalPoints": 4263
+    },
+    {
+      "tag": "#2QYUCJR89",
+      "name": "A.O.G prospects",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png"
+      },
+      "clanLevel": 25,
+      "members": 42,
+      "rank": 19,
+      "previousRank": -1,
+      "clanCapitalPoints": 4258
+    },
+    {
+      "tag": "#2P9R98CRG",
+      "name": "Borstbindare",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png"
+      },
+      "clanLevel": 24,
+      "members": 46,
+      "rank": 20,
+      "previousRank": -1,
+      "clanCapitalPoints": 4236
+    },
+    {
+      "tag": "#YPVU00RQ",
+      "name": "100% Sverige",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/RYeVPPrfIvWe1Rr34g4yEgY2IxwPDLM8XdOLAKWJpMU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/RYeVPPrfIvWe1Rr34g4yEgY2IxwPDLM8XdOLAKWJpMU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/RYeVPPrfIvWe1Rr34g4yEgY2IxwPDLM8XdOLAKWJpMU.png"
+      },
+      "clanLevel": 29,
+      "members": 43,
+      "rank": 21,
+      "previousRank": -1,
+      "clanCapitalPoints": 4171
+    },
+    {
+      "tag": "#YJ928JL",
+      "name": "SWElite",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/lvxcTEzj6qtPBJr5JlBiYNO8gqPUOQkYOfqgH_z0gYc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/lvxcTEzj6qtPBJr5JlBiYNO8gqPUOQkYOfqgH_z0gYc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/lvxcTEzj6qtPBJr5JlBiYNO8gqPUOQkYOfqgH_z0gYc.png"
+      },
+      "clanLevel": 34,
+      "members": 39,
+      "rank": 22,
+      "previousRank": -1,
+      "clanCapitalPoints": 4124
+    },
+    {
+      "tag": "#9LQ2PLJ2",
+      "name": "Svensk Standard",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/59SrraWHu31e6PhIBqGigdeR7M-iPTDyBYces1Xpsm0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/59SrraWHu31e6PhIBqGigdeR7M-iPTDyBYces1Xpsm0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/59SrraWHu31e6PhIBqGigdeR7M-iPTDyBYces1Xpsm0.png"
+      },
+      "clanLevel": 34,
+      "members": 47,
+      "rank": 23,
+      "previousRank": -1,
+      "clanCapitalPoints": 4110
+    },
+    {
+      "tag": "#YQYU0CP9",
+      "name": "Prinskorv",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png"
+      },
+      "clanLevel": 27,
+      "members": 50,
+      "rank": 24,
+      "previousRank": -1,
+      "clanCapitalPoints": 4091
+    },
+    {
+      "tag": "#2JYCV9GC",
+      "name": "Sweden ClanWars",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/kKLbH-MDDr1XxBmozWCmUBB6dNBHJpC6bIh53JqZSRQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/kKLbH-MDDr1XxBmozWCmUBB6dNBHJpC6bIh53JqZSRQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/kKLbH-MDDr1XxBmozWCmUBB6dNBHJpC6bIh53JqZSRQ.png"
+      },
+      "clanLevel": 30,
+      "members": 41,
+      "rank": 25,
+      "previousRank": -1,
+      "clanCapitalPoints": 4084
+    },
+    {
+      "tag": "#G0LC0PY8",
+      "name": "kung sverige",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/KikGcmws0dhWNfa8S8JsKQUld0kmUe9VE2XI-5tGrKM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/KikGcmws0dhWNfa8S8JsKQUld0kmUe9VE2XI-5tGrKM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/KikGcmws0dhWNfa8S8JsKQUld0kmUe9VE2XI-5tGrKM.png"
+      },
+      "clanLevel": 30,
+      "members": 43,
+      "rank": 26,
+      "previousRank": -1,
+      "clanCapitalPoints": 4072
+    },
+    {
+      "tag": "#YY2LV9G",
+      "name": "Ett Salt Gäng!",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png"
+      },
+      "clanLevel": 29,
+      "members": 41,
+      "rank": 27,
+      "previousRank": -1,
+      "clanCapitalPoints": 4066
+    },
+    {
+      "tag": "#2GCL8Q280",
+      "name": "Movement",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/4Xq7B4JfL78rfKjFIRxLrMzhxiMWY7FWqiL8OW2Z9uw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/4Xq7B4JfL78rfKjFIRxLrMzhxiMWY7FWqiL8OW2Z9uw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/4Xq7B4JfL78rfKjFIRxLrMzhxiMWY7FWqiL8OW2Z9uw.png"
+      },
+      "clanLevel": 20,
+      "members": 49,
+      "rank": 28,
+      "previousRank": -1,
+      "clanCapitalPoints": 4061
+    },
+    {
+      "tag": "#YL00C2Q",
+      "name": "DIF",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/MfT-8yhZ_2aa9V3xVvquHPMQVcdbVqLH5ayCLjAIGNk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/MfT-8yhZ_2aa9V3xVvquHPMQVcdbVqLH5ayCLjAIGNk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/MfT-8yhZ_2aa9V3xVvquHPMQVcdbVqLH5ayCLjAIGNk.png"
+      },
+      "clanLevel": 28,
+      "members": 33,
+      "rank": 29,
+      "previousRank": -1,
+      "clanCapitalPoints": 4025
+    },
+    {
+      "tag": "#2GRY8Y9GU",
+      "name": "SWE mini 2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/MhumuLweWufBfajI-bCqfaSAdiZlRqVEj82RMMrHLzY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/MhumuLweWufBfajI-bCqfaSAdiZlRqVEj82RMMrHLzY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/MhumuLweWufBfajI-bCqfaSAdiZlRqVEj82RMMrHLzY.png"
+      },
+      "clanLevel": 16,
+      "members": 49,
+      "rank": 30,
+      "previousRank": -1,
+      "clanCapitalPoints": 4025
+    },
+    {
+      "tag": "#2PLR9ULLY",
+      "name": "Bumbibjörnarna",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/PuCax8tyUeasKBasknh8IqKPkWK62mKNCI8YMGPfll8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/PuCax8tyUeasKBasknh8IqKPkWK62mKNCI8YMGPfll8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/PuCax8tyUeasKBasknh8IqKPkWK62mKNCI8YMGPfll8.png"
+      },
+      "clanLevel": 28,
+      "members": 46,
+      "rank": 31,
+      "previousRank": -1,
+      "clanCapitalPoints": 4020
+    },
+    {
+      "tag": "#20J8VU8Y",
+      "name": "Sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NIE7WXOKb9H2Jr_V7_CAP5nfNnpHsO8n6mflPLNewAw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NIE7WXOKb9H2Jr_V7_CAP5nfNnpHsO8n6mflPLNewAw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NIE7WXOKb9H2Jr_V7_CAP5nfNnpHsO8n6mflPLNewAw.png"
+      },
+      "clanLevel": 26,
+      "members": 49,
+      "rank": 32,
+      "previousRank": -1,
+      "clanCapitalPoints": 4011
+    },
+    {
+      "tag": "#282P880VJ",
+      "name": "TNT_Blast",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NmrKAru9tjt-k2B7mAaOXrSsHl4A_FG6j36_7uIt9Dc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NmrKAru9tjt-k2B7mAaOXrSsHl4A_FG6j36_7uIt9Dc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NmrKAru9tjt-k2B7mAaOXrSsHl4A_FG6j36_7uIt9Dc.png"
+      },
+      "clanLevel": 19,
+      "members": 33,
+      "rank": 33,
+      "previousRank": -1,
+      "clanCapitalPoints": 4009
+    },
+    {
+      "tag": "#P9LPYVQ8",
+      "name": "MadeBySweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/kKLbH-MDDr1XxBmozWCmUBB6dNBHJpC6bIh53JqZSRQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/kKLbH-MDDr1XxBmozWCmUBB6dNBHJpC6bIh53JqZSRQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/kKLbH-MDDr1XxBmozWCmUBB6dNBHJpC6bIh53JqZSRQ.png"
+      },
+      "clanLevel": 30,
+      "members": 48,
+      "rank": 34,
+      "previousRank": -1,
+      "clanCapitalPoints": 4001
+    },
+    {
+      "tag": "#20UV2GLR",
+      "name": "SWE ANGELS",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/dzouiJ2rVv54TRzfVVMGz7XdA7YAF9eHDxqkx-H_uaU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/dzouiJ2rVv54TRzfVVMGz7XdA7YAF9eHDxqkx-H_uaU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/dzouiJ2rVv54TRzfVVMGz7XdA7YAF9eHDxqkx-H_uaU.png"
+      },
+      "clanLevel": 28,
+      "members": 49,
+      "rank": 35,
+      "previousRank": -1,
+      "clanCapitalPoints": 3993
+    },
+    {
+      "tag": "#RY2QYQ0Y",
+      "name": "GöttMos",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png"
+      },
+      "clanLevel": 29,
+      "members": 32,
+      "rank": 36,
+      "previousRank": -1,
+      "clanCapitalPoints": 3987
+    },
+    {
+      "tag": "#28PVQ9J2",
+      "name": "LionsOfSwe",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/OX2Iy1swn7iVO-SX57-qV6CiqUqchMMrHGPhCLGZfB4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/OX2Iy1swn7iVO-SX57-qV6CiqUqchMMrHGPhCLGZfB4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/OX2Iy1swn7iVO-SX57-qV6CiqUqchMMrHGPhCLGZfB4.png"
+      },
+      "clanLevel": 33,
+      "members": 40,
+      "rank": 37,
+      "previousRank": -1,
+      "clanCapitalPoints": 3980
+    },
+    {
+      "tag": "#2PGUY0Q8V",
+      "name": "السلطانة جوليا❤",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/EpD2R_xI2qRq2yhYAcGMb7dghhdNYv2otEKp_X1F9yM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/EpD2R_xI2qRq2yhYAcGMb7dghhdNYv2otEKp_X1F9yM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/EpD2R_xI2qRq2yhYAcGMb7dghhdNYv2otEKp_X1F9yM.png"
+      },
+      "clanLevel": 18,
+      "members": 36,
+      "rank": 38,
+      "previousRank": -1,
+      "clanCapitalPoints": 3978
+    },
+    {
+      "tag": "#9J9J2YL0",
+      "name": "Grönroos",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TGakLW2IH2ve8iuEk_rxdQzRhF_QgqdAzvAmMiOW4eU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TGakLW2IH2ve8iuEk_rxdQzRhF_QgqdAzvAmMiOW4eU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TGakLW2IH2ve8iuEk_rxdQzRhF_QgqdAzvAmMiOW4eU.png"
+      },
+      "clanLevel": 21,
+      "members": 50,
+      "rank": 39,
+      "previousRank": -1,
+      "clanCapitalPoints": 3968
+    },
+    {
+      "tag": "#2QQPV9C2U",
+      "name": "Its a new dawn2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/gOmNIMmpSme_-RkW-ILxX5m6vvVVXoh550WH5TuhvOk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/gOmNIMmpSme_-RkW-ILxX5m6vvVVXoh550WH5TuhvOk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/gOmNIMmpSme_-RkW-ILxX5m6vvVVXoh550WH5TuhvOk.png"
+      },
+      "clanLevel": 18,
+      "members": 42,
+      "rank": 40,
+      "previousRank": -1,
+      "clanCapitalPoints": 3956
+    },
+    {
+      "tag": "#J20CV82",
+      "name": "A Swe War Clan",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/DaSEupnbN9IfRunQqUnLPE7VcRFKDBF_U9Q_N4XGkLg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/DaSEupnbN9IfRunQqUnLPE7VcRFKDBF_U9Q_N4XGkLg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/DaSEupnbN9IfRunQqUnLPE7VcRFKDBF_U9Q_N4XGkLg.png"
+      },
+      "clanLevel": 29,
+      "members": 40,
+      "rank": 41,
+      "previousRank": -1,
+      "clanCapitalPoints": 3951
+    },
+    {
+      "tag": "#2L229202J",
+      "name": "Helsingborgarna",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Je6I8M0IVWUeKNrBWQq7VGXNZW786T0iLTmqn1hOhtQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Je6I8M0IVWUeKNrBWQq7VGXNZW786T0iLTmqn1hOhtQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Je6I8M0IVWUeKNrBWQq7VGXNZW786T0iLTmqn1hOhtQ.png"
+      },
+      "clanLevel": 26,
+      "members": 41,
+      "rank": 42,
+      "previousRank": -1,
+      "clanCapitalPoints": 3947
+    },
+    {
+      "tag": "#20PU0JCR",
+      "name": "SoAtm",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/KyMJggibyWx5xUb-ompllreXZciLVkiukjnJSAJNMPg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/KyMJggibyWx5xUb-ompllreXZciLVkiukjnJSAJNMPg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/KyMJggibyWx5xUb-ompllreXZciLVkiukjnJSAJNMPg.png"
+      },
+      "clanLevel": 17,
+      "members": 25,
+      "rank": 43,
+      "previousRank": -1,
+      "clanCapitalPoints": 3939
+    },
+    {
+      "tag": "#8Q2JJUQQ",
+      "name": "Army of Sweden2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/QNFH_em6so0OtjT3T_6UMzUivGijWBpJ-9WSQw47F1k.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/QNFH_em6so0OtjT3T_6UMzUivGijWBpJ-9WSQw47F1k.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/QNFH_em6so0OtjT3T_6UMzUivGijWBpJ-9WSQw47F1k.png"
+      },
+      "clanLevel": 28,
+      "members": 48,
+      "rank": 44,
+      "previousRank": -1,
+      "clanCapitalPoints": 3924
+    },
+    {
+      "tag": "#2V0CYJG8",
+      "name": "Swedishclan.se",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/XlM64fzW87QrqnmCpN2ZjWSV9v-Uw-IiJy8Ck5b4TY8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/XlM64fzW87QrqnmCpN2ZjWSV9v-Uw-IiJy8Ck5b4TY8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/XlM64fzW87QrqnmCpN2ZjWSV9v-Uw-IiJy8Ck5b4TY8.png"
+      },
+      "clanLevel": 31,
+      "members": 41,
+      "rank": 45,
+      "previousRank": -1,
+      "clanCapitalPoints": 3920
+    },
+    {
+      "tag": "#9RUVGP9G",
+      "name": "SWEnsk Elite cw",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/fR8A-2cUG_9MdW3xfEEhQYpXc_fIxV3MAxOtwIZNdi0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/fR8A-2cUG_9MdW3xfEEhQYpXc_fIxV3MAxOtwIZNdi0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/fR8A-2cUG_9MdW3xfEEhQYpXc_fIxV3MAxOtwIZNdi0.png"
+      },
+      "clanLevel": 27,
+      "members": 38,
+      "rank": 46,
+      "previousRank": -1,
+      "clanCapitalPoints": 3919
+    },
+    {
+      "tag": "#8G0Q22PG",
+      "name": "fladen",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png"
+      },
+      "clanLevel": 26,
+      "members": 45,
+      "rank": 47,
+      "previousRank": -1,
+      "clanCapitalPoints": 3916
+    },
+    {
+      "tag": "#2P9C8UV2R",
+      "name": "SWEDEN",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png"
+      },
+      "clanLevel": 29,
+      "members": 29,
+      "rank": 48,
+      "previousRank": -1,
+      "clanCapitalPoints": 3897
+    },
+    {
+      "tag": "#9CURRYUV",
+      "name": "SWE",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/-aLAtHi6IWTBsoWGpsP--hbzl7sGX3BK_g7mr_Q1feA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/-aLAtHi6IWTBsoWGpsP--hbzl7sGX3BK_g7mr_Q1feA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/-aLAtHi6IWTBsoWGpsP--hbzl7sGX3BK_g7mr_Q1feA.png"
+      },
+      "clanLevel": 26,
+      "members": 35,
+      "rank": 49,
+      "previousRank": -1,
+      "clanCapitalPoints": 3875
+    },
+    {
+      "tag": "#9JV2C8PQ",
+      "name": "Mizo Lighters",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/aHKetsluZj70oZBukD0W5KmhxwrNLrE0cftlAuOH168.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/aHKetsluZj70oZBukD0W5KmhxwrNLrE0cftlAuOH168.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/aHKetsluZj70oZBukD0W5KmhxwrNLrE0cftlAuOH168.png"
+      },
+      "clanLevel": 35,
+      "members": 35,
+      "rank": 50,
+      "previousRank": -1,
+      "clanCapitalPoints": 3872
+    },
+    {
+      "tag": "#282QUYPR",
+      "name": "Svenska arme'n",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ACPMxhxUxdnPTfZbDF3YUx5D8IwoQMiaZsZjoG6gFG8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ACPMxhxUxdnPTfZbDF3YUx5D8IwoQMiaZsZjoG6gFG8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ACPMxhxUxdnPTfZbDF3YUx5D8IwoQMiaZsZjoG6gFG8.png"
+      },
+      "clanLevel": 29,
+      "members": 34,
+      "rank": 51,
+      "previousRank": -1,
+      "clanCapitalPoints": 3864
+    },
+    {
+      "tag": "#2QUCJGPC8",
+      "name": "Bonusfamilljen2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png"
+      },
+      "clanLevel": 21,
+      "members": 44,
+      "rank": 52,
+      "previousRank": -1,
+      "clanCapitalPoints": 3863
+    },
+    {
+      "tag": "#2QGQLPCVQ",
+      "name": "Bonusfamiljen",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png"
+      },
+      "clanLevel": 22,
+      "members": 41,
+      "rank": 53,
+      "previousRank": -1,
+      "clanCapitalPoints": 3863
+    },
+    {
+      "tag": "#RVUR2G8",
+      "name": "Sverige",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/PCWf-4qAugdjo2qM3SMpcZ39aFIF3o0BC_O-ExmHsE8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/PCWf-4qAugdjo2qM3SMpcZ39aFIF3o0BC_O-ExmHsE8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/PCWf-4qAugdjo2qM3SMpcZ39aFIF3o0BC_O-ExmHsE8.png"
+      },
+      "clanLevel": 25,
+      "members": 43,
+      "rank": 54,
+      "previousRank": -1,
+      "clanCapitalPoints": 3861
+    },
+    {
+      "tag": "#LY2G0809",
+      "name": "ROTH",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xTO7Y_wRiECTfpVAhscvD09Q-LK3JYF2f9D7J2-xmIo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xTO7Y_wRiECTfpVAhscvD09Q-LK3JYF2f9D7J2-xmIo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xTO7Y_wRiECTfpVAhscvD09Q-LK3JYF2f9D7J2-xmIo.png"
+      },
+      "clanLevel": 25,
+      "members": 49,
+      "rank": 55,
+      "previousRank": -1,
+      "clanCapitalPoints": 3849
+    },
+    {
+      "tag": "#PGQJPL0",
+      "name": "Göteborg",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/lP6ToEGIvr7JZWY0u70nfNeiJjehay2PhgC4_Gxx6EY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/lP6ToEGIvr7JZWY0u70nfNeiJjehay2PhgC4_Gxx6EY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/lP6ToEGIvr7JZWY0u70nfNeiJjehay2PhgC4_Gxx6EY.png"
+      },
+      "clanLevel": 28,
+      "members": 40,
+      "rank": 56,
+      "previousRank": -1,
+      "clanCapitalPoints": 3845
+    },
+    {
+      "tag": "#CCCPYPY",
+      "name": "svensk givmild",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/a_CSfQJPMY7_-zb1QZAV-IQq-oUSVBuTHWaKxu4yyns.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/a_CSfQJPMY7_-zb1QZAV-IQq-oUSVBuTHWaKxu4yyns.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/a_CSfQJPMY7_-zb1QZAV-IQq-oUSVBuTHWaKxu4yyns.png"
+      },
+      "clanLevel": 30,
+      "members": 43,
+      "rank": 57,
+      "previousRank": -1,
+      "clanCapitalPoints": 3822
+    },
+    {
+      "tag": "#2QLRYCVYJ",
+      "name": "Kongahälla OG",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/LK6f1GrxqjdvNEHH0SBdw-b0boXet3G7-nCHqXcZsRE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/LK6f1GrxqjdvNEHH0SBdw-b0boXet3G7-nCHqXcZsRE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/LK6f1GrxqjdvNEHH0SBdw-b0boXet3G7-nCHqXcZsRE.png"
+      },
+      "clanLevel": 14,
+      "members": 47,
+      "rank": 58,
+      "previousRank": -1,
+      "clanCapitalPoints": 3821
+    },
+    {
+      "tag": "#2LQ8JUPLL",
+      "name": "Familjen",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/YAFwEc2t1_t-W3vExqTcx7YDTAY1GXUEYXTgL_VpAJs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/YAFwEc2t1_t-W3vExqTcx7YDTAY1GXUEYXTgL_VpAJs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/YAFwEc2t1_t-W3vExqTcx7YDTAY1GXUEYXTgL_VpAJs.png"
+      },
+      "clanLevel": 22,
+      "members": 36,
+      "rank": 59,
+      "previousRank": -1,
+      "clanCapitalPoints": 3816
+    },
+    {
+      "tag": "#LPQGG9GL",
+      "name": "Malmö FF",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/MOB1nzttnpnQxBC-O_Is0yOAn4l1qctwb1TxDruRNkU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/MOB1nzttnpnQxBC-O_Is0yOAn4l1qctwb1TxDruRNkU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/MOB1nzttnpnQxBC-O_Is0yOAn4l1qctwb1TxDruRNkU.png"
+      },
+      "clanLevel": 27,
+      "members": 45,
+      "rank": 60,
+      "previousRank": -1,
+      "clanCapitalPoints": 3804
+    },
+    {
+      "tag": "#2LRLYV8Q0",
+      "name": "Fin köttbulle",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/VkbSCcK52ho7yG5ovlsViN6vnMuL4leiWa5iAW0sH54.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/VkbSCcK52ho7yG5ovlsViN6vnMuL4leiWa5iAW0sH54.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/VkbSCcK52ho7yG5ovlsViN6vnMuL4leiWa5iAW0sH54.png"
+      },
+      "clanLevel": 18,
+      "members": 28,
+      "rank": 61,
+      "previousRank": -1,
+      "clanCapitalPoints": 3799
+    },
+    {
+      "tag": "#28QU2P8QG",
+      "name": "los Duros pR",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/QWf09jXlHC4pgBU4Y7XNiyKSSDaqa-OG92e50Mg_EZU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/QWf09jXlHC4pgBU4Y7XNiyKSSDaqa-OG92e50Mg_EZU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/QWf09jXlHC4pgBU4Y7XNiyKSSDaqa-OG92e50Mg_EZU.png"
+      },
+      "clanLevel": 23,
+      "members": 44,
+      "rank": 62,
+      "previousRank": -1,
+      "clanCapitalPoints": 3795
+    },
+    {
+      "tag": "#QYV9LCYL",
+      "name": "survivors",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png"
+      },
+      "clanLevel": 23,
+      "members": 27,
+      "rank": 63,
+      "previousRank": -1,
+      "clanCapitalPoints": 3786
+    },
+    {
+      "tag": "#80URPPP",
+      "name": "VIKINGARNA",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/bzpTDPyeo65ExcNgGwgtcBjE03-mN06U20fxFb4S934.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/bzpTDPyeo65ExcNgGwgtcBjE03-mN06U20fxFb4S934.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/bzpTDPyeo65ExcNgGwgtcBjE03-mN06U20fxFb4S934.png"
+      },
+      "clanLevel": 28,
+      "members": 41,
+      "rank": 64,
+      "previousRank": -1,
+      "clanCapitalPoints": 3786
+    },
+    {
+      "tag": "#GYQCQ",
+      "name": "Övik",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png"
+      },
+      "clanLevel": 25,
+      "members": 40,
+      "rank": 65,
+      "previousRank": -1,
+      "clanCapitalPoints": 3774
+    },
+    {
+      "tag": "#8VG2UVYR",
+      "name": "Asia King",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/4nLp5PqEYKRT95nQrzQ7wKGeYWtw4YIPtDI2R-syiIk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/4nLp5PqEYKRT95nQrzQ7wKGeYWtw4YIPtDI2R-syiIk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/4nLp5PqEYKRT95nQrzQ7wKGeYWtw4YIPtDI2R-syiIk.png"
+      },
+      "clanLevel": 24,
+      "members": 11,
+      "rank": 66,
+      "previousRank": -1,
+      "clanCapitalPoints": 3769
+    },
+    {
+      "tag": "#JR82V08",
+      "name": "11-5",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Hg31xgaaKKKsDCHLuijeg8Us_rmZcd54t_Wk_lmGX8c.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Hg31xgaaKKKsDCHLuijeg8Us_rmZcd54t_Wk_lmGX8c.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Hg31xgaaKKKsDCHLuijeg8Us_rmZcd54t_Wk_lmGX8c.png"
+      },
+      "clanLevel": 30,
+      "members": 37,
+      "rank": 67,
+      "previousRank": -1,
+      "clanCapitalPoints": 3759
+    },
+    {
+      "tag": "#2G2Q22VP",
+      "name": "NATURALLY GOOD",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png"
+      },
+      "clanLevel": 27,
+      "members": 46,
+      "rank": 68,
+      "previousRank": -1,
+      "clanCapitalPoints": 3752
+    },
+    {
+      "tag": "#8UL899YQ",
+      "name": "Svensk Senap",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9gzmEwOL5a1_OAb8UvuHT1PhK3-IuBb0rlFgZsLy3X4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9gzmEwOL5a1_OAb8UvuHT1PhK3-IuBb0rlFgZsLy3X4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9gzmEwOL5a1_OAb8UvuHT1PhK3-IuBb0rlFgZsLy3X4.png"
+      },
+      "clanLevel": 29,
+      "members": 48,
+      "rank": 69,
+      "previousRank": -1,
+      "clanCapitalPoints": 3743
+    },
+    {
+      "tag": "#20PV08V",
+      "name": "SWEDEN ARMY",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/9GDtPx49thG1-ps7EK1qQntbURT3j5C7DR6CcozfmJM.png"
+      },
+      "clanLevel": 29,
+      "members": 41,
+      "rank": 70,
+      "previousRank": -1,
+      "clanCapitalPoints": 3712
+    },
+    {
+      "tag": "#PJJJ0UC",
+      "name": "#GÅSAR",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/dzouiJ2rVv54TRzfVVMGz7XdA7YAF9eHDxqkx-H_uaU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/dzouiJ2rVv54TRzfVVMGz7XdA7YAF9eHDxqkx-H_uaU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/dzouiJ2rVv54TRzfVVMGz7XdA7YAF9eHDxqkx-H_uaU.png"
+      },
+      "clanLevel": 28,
+      "members": 46,
+      "rank": 71,
+      "previousRank": -1,
+      "clanCapitalPoints": 3687
+    },
+    {
+      "tag": "#G29L0CU",
+      "name": "SWEDEN",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NIE7WXOKb9H2Jr_V7_CAP5nfNnpHsO8n6mflPLNewAw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NIE7WXOKb9H2Jr_V7_CAP5nfNnpHsO8n6mflPLNewAw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NIE7WXOKb9H2Jr_V7_CAP5nfNnpHsO8n6mflPLNewAw.png"
+      },
+      "clanLevel": 26,
+      "members": 47,
+      "rank": 72,
+      "previousRank": -1,
+      "clanCapitalPoints": 3673
+    },
+    {
+      "tag": "#2L2LV9Q",
+      "name": "SWElite 4",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Jen5g4VCyLe9b-hWrfxO0HApq_3wwp-9URDriBVevEE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Jen5g4VCyLe9b-hWrfxO0HApq_3wwp-9URDriBVevEE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Jen5g4VCyLe9b-hWrfxO0HApq_3wwp-9URDriBVevEE.png"
+      },
+      "clanLevel": 26,
+      "members": 34,
+      "rank": 73,
+      "previousRank": -1,
+      "clanCapitalPoints": 3666
+    },
+    {
+      "tag": "#2LRV0CUCY",
+      "name": "Mammatöj",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/PIxiWhn5EJ5JEqN2Ayzc67MpGscuWjIfumLQEN1E5Ho.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/PIxiWhn5EJ5JEqN2Ayzc67MpGscuWjIfumLQEN1E5Ho.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/PIxiWhn5EJ5JEqN2Ayzc67MpGscuWjIfumLQEN1E5Ho.png"
+      },
+      "clanLevel": 11,
+      "members": 26,
+      "rank": 74,
+      "previousRank": -1,
+      "clanCapitalPoints": 3666
+    },
+    {
+      "tag": "#9J98LY8Y",
+      "name": "Sweden 2.0",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/JwH2XXsO_K6BDTm_cs7Zo6zlvqflvL8jgSAeGA4rJPs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/JwH2XXsO_K6BDTm_cs7Zo6zlvqflvL8jgSAeGA4rJPs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/JwH2XXsO_K6BDTm_cs7Zo6zlvqflvL8jgSAeGA4rJPs.png"
+      },
+      "clanLevel": 23,
+      "members": 47,
+      "rank": 75,
+      "previousRank": -1,
+      "clanCapitalPoints": 3658
+    },
+    {
+      "tag": "#C92JQ8L",
+      "name": "Sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/kKLbH-MDDr1XxBmozWCmUBB6dNBHJpC6bIh53JqZSRQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/kKLbH-MDDr1XxBmozWCmUBB6dNBHJpC6bIh53JqZSRQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/kKLbH-MDDr1XxBmozWCmUBB6dNBHJpC6bIh53JqZSRQ.png"
+      },
+      "clanLevel": 30,
+      "members": 47,
+      "rank": 76,
+      "previousRank": -1,
+      "clanCapitalPoints": 3650
+    },
+    {
+      "tag": "#9CJ8C8RU",
+      "name": "SWEnsk Elite 4",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png"
+      },
+      "clanLevel": 26,
+      "members": 47,
+      "rank": 77,
+      "previousRank": -1,
+      "clanCapitalPoints": 3648
+    },
+    {
+      "tag": "#9V9P9VQ8",
+      "name": "SVERIGE",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png"
+      },
+      "clanLevel": 27,
+      "members": 45,
+      "rank": 78,
+      "previousRank": -1,
+      "clanCapitalPoints": 3643
+    },
+    {
+      "tag": "#2YQ2G9RL2",
+      "name": "sverige",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7DkqvEmGcO5GqfrIs3SSR_ItJVJ8_bjrps39GjMOgTg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7DkqvEmGcO5GqfrIs3SSR_ItJVJ8_bjrps39GjMOgTg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7DkqvEmGcO5GqfrIs3SSR_ItJVJ8_bjrps39GjMOgTg.png"
+      },
+      "clanLevel": 19,
+      "members": 43,
+      "rank": 79,
+      "previousRank": -1,
+      "clanCapitalPoints": 3638
+    },
+    {
+      "tag": "#UVJCQ0LR",
+      "name": "Tess donate",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png"
+      },
+      "clanLevel": 25,
+      "members": 49,
+      "rank": 80,
+      "previousRank": -1,
+      "clanCapitalPoints": 3638
+    },
+    {
+      "tag": "#2QYVVU9QP",
+      "name": "KalmarY2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NGus6JqKXINUjfh9YGB92SekLmiVK7kGqqwQj4nPEQM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NGus6JqKXINUjfh9YGB92SekLmiVK7kGqqwQj4nPEQM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NGus6JqKXINUjfh9YGB92SekLmiVK7kGqqwQj4nPEQM.png"
+      },
+      "clanLevel": 19,
+      "members": 43,
+      "rank": 81,
+      "previousRank": -1,
+      "clanCapitalPoints": 3637
+    },
+    {
+      "tag": "#P9PL9U0V",
+      "name": "Svensk #1",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png"
+      },
+      "clanLevel": 25,
+      "members": 43,
+      "rank": 82,
+      "previousRank": -1,
+      "clanCapitalPoints": 3631
+    },
+    {
+      "tag": "#CR0JYV",
+      "name": "\"Borgen\"",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/fR8A-2cUG_9MdW3xfEEhQYpXc_fIxV3MAxOtwIZNdi0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/fR8A-2cUG_9MdW3xfEEhQYpXc_fIxV3MAxOtwIZNdi0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/fR8A-2cUG_9MdW3xfEEhQYpXc_fIxV3MAxOtwIZNdi0.png"
+      },
+      "clanLevel": 27,
+      "members": 40,
+      "rank": 83,
+      "previousRank": -1,
+      "clanCapitalPoints": 3625
+    },
+    {
+      "tag": "#YV08P98L",
+      "name": "WARRIORS",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/AfYwk7dg5vFQsd4mreAOABoRlOxHnhvbOesgwIm5uC4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/AfYwk7dg5vFQsd4mreAOABoRlOxHnhvbOesgwIm5uC4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/AfYwk7dg5vFQsd4mreAOABoRlOxHnhvbOesgwIm5uC4.png"
+      },
+      "clanLevel": 27,
+      "members": 50,
+      "rank": 84,
+      "previousRank": -1,
+      "clanCapitalPoints": 3599
+    },
+    {
+      "tag": "#P8C8UJJ0",
+      "name": "Ghost Of Sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/4XxqicaYGDwPnQDm7hj3nA9b9OTtsHhTNZDk2e1W1to.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/4XxqicaYGDwPnQDm7hj3nA9b9OTtsHhTNZDk2e1W1to.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/4XxqicaYGDwPnQDm7hj3nA9b9OTtsHhTNZDk2e1W1to.png"
+      },
+      "clanLevel": 21,
+      "members": 23,
+      "rank": 85,
+      "previousRank": -1,
+      "clanCapitalPoints": 3572
+    },
+    {
+      "tag": "#2Y9LJRUYV",
+      "name": "sweden boys",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png"
+      },
+      "clanLevel": 22,
+      "members": 49,
+      "rank": 86,
+      "previousRank": -1,
+      "clanCapitalPoints": 3553
+    },
+    {
+      "tag": "#8JP8R0G2",
+      "name": "SweDroid",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7Mn6iwUgR1APkMh2FJpFHQQeHuonAiN12kxs59kLlTo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7Mn6iwUgR1APkMh2FJpFHQQeHuonAiN12kxs59kLlTo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7Mn6iwUgR1APkMh2FJpFHQQeHuonAiN12kxs59kLlTo.png"
+      },
+      "clanLevel": 23,
+      "members": 48,
+      "rank": 87,
+      "previousRank": -1,
+      "clanCapitalPoints": 3541
+    },
+    {
+      "tag": "#2GVGQUGR",
+      "name": "HappySwedes",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/an5AwpO9S_upD9Ny_h6wWcvfWtSMnj16Hh10mqhTXZA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/an5AwpO9S_upD9Ny_h6wWcvfWtSMnj16Hh10mqhTXZA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/an5AwpO9S_upD9Ny_h6wWcvfWtSMnj16Hh10mqhTXZA.png"
+      },
+      "clanLevel": 26,
+      "members": 41,
+      "rank": 88,
+      "previousRank": -1,
+      "clanCapitalPoints": 3539
+    },
+    {
+      "tag": "#2YL02P92Y",
+      "name": "SWE ELITE CR",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/pda-cfzauLz5LQSbGxE1G6RAYBqI-wbdqxAtfqENJ_k.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/pda-cfzauLz5LQSbGxE1G6RAYBqI-wbdqxAtfqENJ_k.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/pda-cfzauLz5LQSbGxE1G6RAYBqI-wbdqxAtfqENJ_k.png"
+      },
+      "clanLevel": 19,
+      "members": 46,
+      "rank": 89,
+      "previousRank": -1,
+      "clanCapitalPoints": 3538
+    },
+    {
+      "tag": "#2PPVY8UV8",
+      "name": "swe clan",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/QS3XdAdNBxF4W7feGWw1kOKW-eAovrwyIGPVxrE62LI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/QS3XdAdNBxF4W7feGWw1kOKW-eAovrwyIGPVxrE62LI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/QS3XdAdNBxF4W7feGWw1kOKW-eAovrwyIGPVxrE62LI.png"
+      },
+      "clanLevel": 22,
+      "members": 45,
+      "rank": 90,
+      "previousRank": -1,
+      "clanCapitalPoints": 3525
+    },
+    {
+      "tag": "#9JCJYYJ9",
+      "name": "Manlig Vänskap2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/YiKznklAqpaZxdt1eyL59zBh1zxOMz_tev-cww6enho.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/YiKznklAqpaZxdt1eyL59zBh1zxOMz_tev-cww6enho.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/YiKznklAqpaZxdt1eyL59zBh1zxOMz_tev-cww6enho.png"
+      },
+      "clanLevel": 28,
+      "members": 40,
+      "rank": 91,
+      "previousRank": -1,
+      "clanCapitalPoints": 3517
+    },
+    {
+      "tag": "#2L9QP8GYJ",
+      "name": "SWE ANGELS 2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png"
+      },
+      "clanLevel": 21,
+      "members": 45,
+      "rank": 92,
+      "previousRank": -1,
+      "clanCapitalPoints": 3514
+    },
+    {
+      "tag": "#2LGRPVUQ",
+      "name": "--SWEDEN--",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png"
+      },
+      "clanLevel": 25,
+      "members": 36,
+      "rank": 93,
+      "previousRank": -1,
+      "clanCapitalPoints": 3509
+    },
+    {
+      "tag": "#UGQY2QY",
+      "name": "sverige",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/t2PiA5-6rhoSmvvPECczdrFSwcDOBJI6-iEGtG-B6Og.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/t2PiA5-6rhoSmvvPECczdrFSwcDOBJI6-iEGtG-B6Og.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/t2PiA5-6rhoSmvvPECczdrFSwcDOBJI6-iEGtG-B6Og.png"
+      },
+      "clanLevel": 24,
+      "members": 41,
+      "rank": 94,
+      "previousRank": -1,
+      "clanCapitalPoints": 3508
+    },
+    {
+      "tag": "#2LPCJRVU9",
+      "name": "masters",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/paHb56ad1OQNEAelYhdbp3o_DgbGeGF5cazzoMTqKnU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/paHb56ad1OQNEAelYhdbp3o_DgbGeGF5cazzoMTqKnU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/paHb56ad1OQNEAelYhdbp3o_DgbGeGF5cazzoMTqKnU.png"
+      },
+      "clanLevel": 19,
+      "members": 31,
+      "rank": 95,
+      "previousRank": -1,
+      "clanCapitalPoints": 3500
+    },
+    {
+      "tag": "#GGRYLRU8",
+      "name": "Nation Of North",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png"
+      },
+      "clanLevel": 21,
+      "members": 42,
+      "rank": 96,
+      "previousRank": -1,
+      "clanCapitalPoints": 3496
+    },
+    {
+      "tag": "#2YUGR9JLJ",
+      "name": "1337 Elite",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/S02WSjIyrMXvi-XqqIskuI8TNU0OAnbyfIB5b-12cuo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/S02WSjIyrMXvi-XqqIskuI8TNU0OAnbyfIB5b-12cuo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/S02WSjIyrMXvi-XqqIskuI8TNU0OAnbyfIB5b-12cuo.png"
+      },
+      "clanLevel": 24,
+      "members": 44,
+      "rank": 97,
+      "previousRank": -1,
+      "clanCapitalPoints": 3485
+    },
+    {
+      "tag": "#PGRJCGVP",
+      "name": "Old Hogs",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/tQJf9cVLFpRcmSK6B6abMEibnLnFrivv19qMYediAbY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/tQJf9cVLFpRcmSK6B6abMEibnLnFrivv19qMYediAbY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/tQJf9cVLFpRcmSK6B6abMEibnLnFrivv19qMYediAbY.png"
+      },
+      "clanLevel": 26,
+      "members": 48,
+      "rank": 98,
+      "previousRank": -1,
+      "clanCapitalPoints": 3479
+    },
+    {
+      "tag": "#LP8YJCL",
+      "name": "Beserkers",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/RaiT4hfA47wCxqY-jWjKxXagpDzEaje0iOAWndxou6c.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/RaiT4hfA47wCxqY-jWjKxXagpDzEaje0iOAWndxou6c.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/RaiT4hfA47wCxqY-jWjKxXagpDzEaje0iOAWndxou6c.png"
+      },
+      "clanLevel": 22,
+      "members": 18,
+      "rank": 99,
+      "previousRank": -1,
+      "clanCapitalPoints": 3476
+    },
+    {
+      "tag": "#2QRPRRGV",
+      "name": "little kingdom",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/YiKznklAqpaZxdt1eyL59zBh1zxOMz_tev-cww6enho.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/YiKznklAqpaZxdt1eyL59zBh1zxOMz_tev-cww6enho.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/YiKznklAqpaZxdt1eyL59zBh1zxOMz_tev-cww6enho.png"
+      },
+      "clanLevel": 28,
+      "members": 39,
+      "rank": 100,
+      "previousRank": -1,
+      "clanCapitalPoints": 3462
+    },
+    {
+      "tag": "#2QJ902QLY",
+      "name": "AAM",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/eptBx6VGRDLcVfDgc-dMx80ZS5x779m1RhFTEwe-kg0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/eptBx6VGRDLcVfDgc-dMx80ZS5x779m1RhFTEwe-kg0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/eptBx6VGRDLcVfDgc-dMx80ZS5x779m1RhFTEwe-kg0.png"
+      },
+      "clanLevel": 19,
+      "members": 48,
+      "rank": 101,
+      "previousRank": -1,
+      "clanCapitalPoints": 3452
+    },
+    {
+      "tag": "#20PUCQLYP",
+      "name": "BlåTira",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png"
+      },
+      "clanLevel": 24,
+      "members": 44,
+      "rank": 102,
+      "previousRank": -1,
+      "clanCapitalPoints": 3436
+    },
+    {
+      "tag": "#2CYG2P2V",
+      "name": "Svensk elit",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/-aLAtHi6IWTBsoWGpsP--hbzl7sGX3BK_g7mr_Q1feA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/-aLAtHi6IWTBsoWGpsP--hbzl7sGX3BK_g7mr_Q1feA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/-aLAtHi6IWTBsoWGpsP--hbzl7sGX3BK_g7mr_Q1feA.png"
+      },
+      "clanLevel": 26,
+      "members": 48,
+      "rank": 103,
+      "previousRank": -1,
+      "clanCapitalPoints": 3435
+    },
+    {
+      "tag": "#2GGQ2UG",
+      "name": "BlåMärket",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/-rByQ3bJdTOtxS97RWEShMQTPPCCZ4_L1RFYJR7OlEg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/-rByQ3bJdTOtxS97RWEShMQTPPCCZ4_L1RFYJR7OlEg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/-rByQ3bJdTOtxS97RWEShMQTPPCCZ4_L1RFYJR7OlEg.png"
+      },
+      "clanLevel": 26,
+      "members": 30,
+      "rank": 104,
+      "previousRank": -1,
+      "clanCapitalPoints": 3423
+    },
+    {
+      "tag": "#2P9C28GY2",
+      "name": "رهگذر",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png"
+      },
+      "clanLevel": 22,
+      "members": 47,
+      "rank": 105,
+      "previousRank": -1,
+      "clanCapitalPoints": 3422
+    },
+    {
+      "tag": "#2GRLCCLGV",
+      "name": "A.O.G Valhalla",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NmAy9iYLKJ9a6_SjUb69-hxkfmWCNT7rHqH8C07nOK0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NmAy9iYLKJ9a6_SjUb69-hxkfmWCNT7rHqH8C07nOK0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NmAy9iYLKJ9a6_SjUb69-hxkfmWCNT7rHqH8C07nOK0.png"
+      },
+      "clanLevel": 16,
+      "members": 40,
+      "rank": 106,
+      "previousRank": -1,
+      "clanCapitalPoints": 3390
+    },
+    {
+      "tag": "#8LGR8VJ",
+      "name": "Sweden's finest",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png"
+      },
+      "clanLevel": 25,
+      "members": 49,
+      "rank": 107,
+      "previousRank": -1,
+      "clanCapitalPoints": 3389
+    },
+    {
+      "tag": "#2YLCJY8CQ",
+      "name": "Brödraskapet",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/kW1Y_LmHE4Mhvou4DbTM7Ndnz97ebMW_-j24sP3lxC8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/kW1Y_LmHE4Mhvou4DbTM7Ndnz97ebMW_-j24sP3lxC8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/kW1Y_LmHE4Mhvou4DbTM7Ndnz97ebMW_-j24sP3lxC8.png"
+      },
+      "clanLevel": 17,
+      "members": 45,
+      "rank": 108,
+      "previousRank": -1,
+      "clanCapitalPoints": 3387
+    },
+    {
+      "tag": "#2PY9CQ9P8",
+      "name": "midsommar fc",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png"
+      },
+      "clanLevel": 22,
+      "members": 47,
+      "rank": 109,
+      "previousRank": -1,
+      "clanCapitalPoints": 3367
+    },
+    {
+      "tag": "#CLRLUG28",
+      "name": "Sweden Elit",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png"
+      },
+      "clanLevel": 22,
+      "members": 37,
+      "rank": 110,
+      "previousRank": -1,
+      "clanCapitalPoints": 3365
+    },
+    {
+      "tag": "#2PY0P0CY9",
+      "name": "Sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/UOPJbfzT04I-R6bK3wIKOKfoRzaU6qgVRKj70NEUngc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/UOPJbfzT04I-R6bK3wIKOKfoRzaU6qgVRKj70NEUngc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/UOPJbfzT04I-R6bK3wIKOKfoRzaU6qgVRKj70NEUngc.png"
+      },
+      "clanLevel": 24,
+      "members": 50,
+      "rank": 111,
+      "previousRank": -1,
+      "clanCapitalPoints": 3365
+    },
+    {
+      "tag": "#2LYYGL8LU",
+      "name": "SWEDEN 4",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/vzLOm7EsZTbyqqSUBNs4UyDA1xvFhVtRtT41hr3bra8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/vzLOm7EsZTbyqqSUBNs4UyDA1xvFhVtRtT41hr3bra8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/vzLOm7EsZTbyqqSUBNs4UyDA1xvFhVtRtT41hr3bra8.png"
+      },
+      "clanLevel": 18,
+      "members": 47,
+      "rank": 112,
+      "previousRank": -1,
+      "clanCapitalPoints": 3350
+    },
+    {
+      "tag": "#2QC9289QR",
+      "name": "A.O.G Rejects",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png"
+      },
+      "clanLevel": 20,
+      "members": 47,
+      "rank": 113,
+      "previousRank": -1,
+      "clanCapitalPoints": 3350
+    },
+    {
+      "tag": "#90Y2U0CG",
+      "name": "svensk farm",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png"
+      },
+      "clanLevel": 23,
+      "members": 39,
+      "rank": 114,
+      "previousRank": -1,
+      "clanCapitalPoints": 3346
+    },
+    {
+      "tag": "#2YRCQJVLP",
+      "name": "SWE Mini",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png"
+      },
+      "clanLevel": 20,
+      "members": 39,
+      "rank": 115,
+      "previousRank": -1,
+      "clanCapitalPoints": 3342
+    },
+    {
+      "tag": "#8GC082LP",
+      "name": "Swe - Aces 4",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/l5Zmb6_JcbY3Gd7Hu6N-7LnG7pPn2I4hi0G-Zn2kvTM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/l5Zmb6_JcbY3Gd7Hu6N-7LnG7pPn2I4hi0G-Zn2kvTM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/l5Zmb6_JcbY3Gd7Hu6N-7LnG7pPn2I4hi0G-Zn2kvTM.png"
+      },
+      "clanLevel": 23,
+      "members": 28,
+      "rank": 116,
+      "previousRank": -1,
+      "clanCapitalPoints": 3339
+    },
+    {
+      "tag": "#2LPUJU2RQ",
+      "name": "SweEliteMicro",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/tv93mQZavJustilJNJtPGX-85XZbgztjJWsVxCdGpAQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/tv93mQZavJustilJNJtPGX-85XZbgztjJWsVxCdGpAQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/tv93mQZavJustilJNJtPGX-85XZbgztjJWsVxCdGpAQ.png"
+      },
+      "clanLevel": 25,
+      "members": 36,
+      "rank": 117,
+      "previousRank": -1,
+      "clanCapitalPoints": 3334
+    },
+    {
+      "tag": "#2GGCC8JVP",
+      "name": "Bellman",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/doJ8o2lsMo8S1bjvj0Y_iDPKZvJNF1uudiaiZZYj5wM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/doJ8o2lsMo8S1bjvj0Y_iDPKZvJNF1uudiaiZZYj5wM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/doJ8o2lsMo8S1bjvj0Y_iDPKZvJNF1uudiaiZZYj5wM.png"
+      },
+      "clanLevel": 14,
+      "members": 48,
+      "rank": 118,
+      "previousRank": -1,
+      "clanCapitalPoints": 3328
+    },
+    {
+      "tag": "#99RUPVLY",
+      "name": "Swedish Outlaws",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/HT2o6oY0dj5Qs36NYiX5n0vQXiogKed8J1ufWet1CmI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/HT2o6oY0dj5Qs36NYiX5n0vQXiogKed8J1ufWet1CmI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/HT2o6oY0dj5Qs36NYiX5n0vQXiogKed8J1ufWet1CmI.png"
+      },
+      "clanLevel": 20,
+      "members": 49,
+      "rank": 119,
+      "previousRank": -1,
+      "clanCapitalPoints": 3326
+    },
+    {
+      "tag": "#CVPY0VVL",
+      "name": "Ölandstok",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/vdtdMewkxGws1MqBTPtrzUBU-dp3IwMHOv77yzy1bEE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/vdtdMewkxGws1MqBTPtrzUBU-dp3IwMHOv77yzy1bEE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/vdtdMewkxGws1MqBTPtrzUBU-dp3IwMHOv77yzy1bEE.png"
+      },
+      "clanLevel": 23,
+      "members": 45,
+      "rank": 120,
+      "previousRank": -1,
+      "clanCapitalPoints": 3323
+    },
+    {
+      "tag": "#290PGUJP",
+      "name": "SVENSKA HJÄLTAR",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/mfnJjKiTcOR0YArpdgTX14l5IQJZ6vE5FP_kxhBi-G8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/mfnJjKiTcOR0YArpdgTX14l5IQJZ6vE5FP_kxhBi-G8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/mfnJjKiTcOR0YArpdgTX14l5IQJZ6vE5FP_kxhBi-G8.png"
+      },
+      "clanLevel": 35,
+      "members": 49,
+      "rank": 121,
+      "previousRank": -1,
+      "clanCapitalPoints": 3319
+    },
+    {
+      "tag": "#9V8RQ2PR",
+      "name": "Aktiva Vikingar",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/bzpTDPyeo65ExcNgGwgtcBjE03-mN06U20fxFb4S934.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/bzpTDPyeo65ExcNgGwgtcBjE03-mN06U20fxFb4S934.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/bzpTDPyeo65ExcNgGwgtcBjE03-mN06U20fxFb4S934.png"
+      },
+      "clanLevel": 28,
+      "members": 47,
+      "rank": 122,
+      "previousRank": -1,
+      "clanCapitalPoints": 3318
+    },
+    {
+      "tag": "#28PCUQPCQ",
+      "name": "Friends Forever",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/-VF14Ok4YO-WfPSquWYc9PgOfz8uKvVnANkVXOK1RkI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/-VF14Ok4YO-WfPSquWYc9PgOfz8uKvVnANkVXOK1RkI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/-VF14Ok4YO-WfPSquWYc9PgOfz8uKvVnANkVXOK1RkI.png"
+      },
+      "clanLevel": 26,
+      "members": 26,
+      "rank": 123,
+      "previousRank": -1,
+      "clanCapitalPoints": 3315
+    },
+    {
+      "tag": "#8LQQC08V",
+      "name": "Sweden Platinum",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NAK5fNIIZ05xNY2uRim6HDD954qjW3ITFCWhTdJdBH8.png"
+      },
+      "clanLevel": 27,
+      "members": 40,
+      "rank": 124,
+      "previousRank": -1,
+      "clanCapitalPoints": 3310
+    },
+    {
+      "tag": "#8L8JLLL",
+      "name": "Göteborg",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/gP_Jp33khJY1V_oBRjMk_-LX_xlGO4ZLOhoXdm6YRUw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/gP_Jp33khJY1V_oBRjMk_-LX_xlGO4ZLOhoXdm6YRUw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/gP_Jp33khJY1V_oBRjMk_-LX_xlGO4ZLOhoXdm6YRUw.png"
+      },
+      "clanLevel": 25,
+      "members": 48,
+      "rank": 125,
+      "previousRank": -1,
+      "clanCapitalPoints": 3307
+    },
+    {
+      "tag": "#9208CRR0",
+      "name": "Stockholm city!",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/-aLAtHi6IWTBsoWGpsP--hbzl7sGX3BK_g7mr_Q1feA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/-aLAtHi6IWTBsoWGpsP--hbzl7sGX3BK_g7mr_Q1feA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/-aLAtHi6IWTBsoWGpsP--hbzl7sGX3BK_g7mr_Q1feA.png"
+      },
+      "clanLevel": 26,
+      "members": 38,
+      "rank": 126,
+      "previousRank": -1,
+      "clanCapitalPoints": 3303
+    },
+    {
+      "tag": "#2LJQPJ2PU",
+      "name": "Activa Svenskar",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/vdtdMewkxGws1MqBTPtrzUBU-dp3IwMHOv77yzy1bEE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/vdtdMewkxGws1MqBTPtrzUBU-dp3IwMHOv77yzy1bEE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/vdtdMewkxGws1MqBTPtrzUBU-dp3IwMHOv77yzy1bEE.png"
+      },
+      "clanLevel": 23,
+      "members": 41,
+      "rank": 127,
+      "previousRank": -1,
+      "clanCapitalPoints": 3301
+    },
+    {
+      "tag": "#28VVLV8QC",
+      "name": "SWE cacti",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H7sE2O5RjispfHbynoSGwryfvPMSbH9wq-gIqoVUx6M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H7sE2O5RjispfHbynoSGwryfvPMSbH9wq-gIqoVUx6M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H7sE2O5RjispfHbynoSGwryfvPMSbH9wq-gIqoVUx6M.png"
+      },
+      "clanLevel": 24,
+      "members": 46,
+      "rank": 128,
+      "previousRank": -1,
+      "clanCapitalPoints": 3301
+    },
+    {
+      "tag": "#2LCUYUV9C",
+      "name": "Swedish Maffia",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6J6puPE9DfGRztF08u4sZdgVwKm0s4XgD988dyxr-jo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6J6puPE9DfGRztF08u4sZdgVwKm0s4XgD988dyxr-jo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6J6puPE9DfGRztF08u4sZdgVwKm0s4XgD988dyxr-jo.png"
+      },
+      "clanLevel": 17,
+      "members": 48,
+      "rank": 129,
+      "previousRank": -1,
+      "clanCapitalPoints": 3294
+    },
+    {
+      "tag": "#2GL82CJLY",
+      "name": "sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/1sP2IHSbYCuidd4oM40d5B5m1PAogkT2YXUgzUXuHZc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/1sP2IHSbYCuidd4oM40d5B5m1PAogkT2YXUgzUXuHZc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/1sP2IHSbYCuidd4oM40d5B5m1PAogkT2YXUgzUXuHZc.png"
+      },
+      "clanLevel": 14,
+      "members": 48,
+      "rank": 130,
+      "previousRank": -1,
+      "clanCapitalPoints": 3294
+    },
+    {
+      "tag": "#2JVQ280V",
+      "name": "Fältherrar",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0J7GPKCdlxa53mQIhlX1drjq0YbFu1f_is35oc67LBs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0J7GPKCdlxa53mQIhlX1drjq0YbFu1f_is35oc67LBs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0J7GPKCdlxa53mQIhlX1drjq0YbFu1f_is35oc67LBs.png"
+      },
+      "clanLevel": 26,
+      "members": 41,
+      "rank": 131,
+      "previousRank": -1,
+      "clanCapitalPoints": 3289
+    },
+    {
+      "tag": "#P00YVGPU",
+      "name": "Apberget",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/OBbJyWaxSzvw6zic1lyxfQAKB_9H3wg7KNNORxgS8Xo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/OBbJyWaxSzvw6zic1lyxfQAKB_9H3wg7KNNORxgS8Xo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/OBbJyWaxSzvw6zic1lyxfQAKB_9H3wg7KNNORxgS8Xo.png"
+      },
+      "clanLevel": 24,
+      "members": 49,
+      "rank": 132,
+      "previousRank": -1,
+      "clanCapitalPoints": 3287
+    },
+    {
+      "tag": "#L2JJP82P",
+      "name": "#SweClan2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/lsBLxiAwJTFHEAp9NxEyEf7UtKbMFx4yuby1fCBn_cc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/lsBLxiAwJTFHEAp9NxEyEf7UtKbMFx4yuby1fCBn_cc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/lsBLxiAwJTFHEAp9NxEyEf7UtKbMFx4yuby1fCBn_cc.png"
+      },
+      "clanLevel": 25,
+      "members": 34,
+      "rank": 133,
+      "previousRank": -1,
+      "clanCapitalPoints": 3282
+    },
+    {
+      "tag": "#9G29CC9",
+      "name": "sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Quga7A8XsaSqhj7YikS5cng58S9LeghI7wR0LUmq4-E.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Quga7A8XsaSqhj7YikS5cng58S9LeghI7wR0LUmq4-E.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Quga7A8XsaSqhj7YikS5cng58S9LeghI7wR0LUmq4-E.png"
+      },
+      "clanLevel": 23,
+      "members": 48,
+      "rank": 134,
+      "previousRank": -1,
+      "clanCapitalPoints": 3270
+    },
+    {
+      "tag": "#28VRPJGLG",
+      "name": "CoC of Sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png"
+      },
+      "clanLevel": 21,
+      "members": 44,
+      "rank": 135,
+      "previousRank": -1,
+      "clanCapitalPoints": 3262
+    },
+    {
+      "tag": "#P89VC8UL",
+      "name": "\"SVENSKA\"",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/gP_Jp33khJY1V_oBRjMk_-LX_xlGO4ZLOhoXdm6YRUw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/gP_Jp33khJY1V_oBRjMk_-LX_xlGO4ZLOhoXdm6YRUw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/gP_Jp33khJY1V_oBRjMk_-LX_xlGO4ZLOhoXdm6YRUw.png"
+      },
+      "clanLevel": 25,
+      "members": 48,
+      "rank": 136,
+      "previousRank": -1,
+      "clanCapitalPoints": 3255
+    },
+    {
+      "tag": "#2VJ9C82Q",
+      "name": "Skövde Arme",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/gP_Jp33khJY1V_oBRjMk_-LX_xlGO4ZLOhoXdm6YRUw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/gP_Jp33khJY1V_oBRjMk_-LX_xlGO4ZLOhoXdm6YRUw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/gP_Jp33khJY1V_oBRjMk_-LX_xlGO4ZLOhoXdm6YRUw.png"
+      },
+      "clanLevel": 25,
+      "members": 33,
+      "rank": 137,
+      "previousRank": -1,
+      "clanCapitalPoints": 3249
+    },
+    {
+      "tag": "#29LRY9LLL",
+      "name": "sweden boys",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png"
+      },
+      "clanLevel": 21,
+      "members": 49,
+      "rank": 138,
+      "previousRank": -1,
+      "clanCapitalPoints": 3249
+    },
+    {
+      "tag": "#P99JQU0R",
+      "name": "Sverige",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/5ShHogIC2gXSv-Qrk85pWNuIYHTUn8-iDDXINwuilUY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/5ShHogIC2gXSv-Qrk85pWNuIYHTUn8-iDDXINwuilUY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/5ShHogIC2gXSv-Qrk85pWNuIYHTUn8-iDDXINwuilUY.png"
+      },
+      "clanLevel": 24,
+      "members": 49,
+      "rank": 139,
+      "previousRank": -1,
+      "clanCapitalPoints": 3248
+    },
+    {
+      "tag": "#2G29UR9C9",
+      "name": "GuldKärran",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TGOFXqPnvEOiBXaNIF82ryqhpPe9L6Y_YphEYy215-U.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TGOFXqPnvEOiBXaNIF82ryqhpPe9L6Y_YphEYy215-U.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TGOFXqPnvEOiBXaNIF82ryqhpPe9L6Y_YphEYy215-U.png"
+      },
+      "clanLevel": 11,
+      "members": 46,
+      "rank": 140,
+      "previousRank": -1,
+      "clanCapitalPoints": 3237
+    },
+    {
+      "tag": "#2U8P8P8C",
+      "name": "Elite Sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png"
+      },
+      "clanLevel": 23,
+      "members": 49,
+      "rank": 141,
+      "previousRank": -1,
+      "clanCapitalPoints": 3233
+    },
+    {
+      "tag": "#LQUJY8Y2",
+      "name": "Ankdammen",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png"
+      },
+      "clanLevel": 24,
+      "members": 38,
+      "rank": 142,
+      "previousRank": -1,
+      "clanCapitalPoints": 3232
+    },
+    {
+      "tag": "#2QQYYLJYP",
+      "name": "Swedish Elites",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/HOyVKZMfxhbXdn81aKxpH5k91iKl6d0-wTiyxnIb_P0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/HOyVKZMfxhbXdn81aKxpH5k91iKl6d0-wTiyxnIb_P0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/HOyVKZMfxhbXdn81aKxpH5k91iKl6d0-wTiyxnIb_P0.png"
+      },
+      "clanLevel": 17,
+      "members": 40,
+      "rank": 143,
+      "previousRank": -1,
+      "clanCapitalPoints": 3227
+    },
+    {
+      "tag": "#2QRG9R9JU",
+      "name": "!SWEDEN!2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6q5Cv-r5coudkxJrAnzRgc1-QW58v4Nkz5Qf6i8JXHA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6q5Cv-r5coudkxJrAnzRgc1-QW58v4Nkz5Qf6i8JXHA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6q5Cv-r5coudkxJrAnzRgc1-QW58v4Nkz5Qf6i8JXHA.png"
+      },
+      "clanLevel": 13,
+      "members": 42,
+      "rank": 144,
+      "previousRank": -1,
+      "clanCapitalPoints": 3222
+    },
+    {
+      "tag": "#P0UVJ0JQ",
+      "name": "Sverige",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png"
+      },
+      "clanLevel": 22,
+      "members": 49,
+      "rank": 145,
+      "previousRank": -1,
+      "clanCapitalPoints": 3222
+    },
+    {
+      "tag": "#LUPC0CGQ",
+      "name": "Best sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/_KJy8Dp_ympMs7cYi3QBkNuDOPgiv0A-7VScK231ut4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/_KJy8Dp_ympMs7cYi3QBkNuDOPgiv0A-7VScK231ut4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/_KJy8Dp_ympMs7cYi3QBkNuDOPgiv0A-7VScK231ut4.png"
+      },
+      "clanLevel": 24,
+      "members": 48,
+      "rank": 146,
+      "previousRank": -1,
+      "clanCapitalPoints": 3220
+    },
+    {
+      "tag": "#QLPVJ9GQ",
+      "name": "ALL stars",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png"
+      },
+      "clanLevel": 20,
+      "members": 34,
+      "rank": 147,
+      "previousRank": -1,
+      "clanCapitalPoints": 3220
+    },
+    {
+      "tag": "#8VUY0R2Q",
+      "name": "A.se",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0J7GPKCdlxa53mQIhlX1drjq0YbFu1f_is35oc67LBs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0J7GPKCdlxa53mQIhlX1drjq0YbFu1f_is35oc67LBs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0J7GPKCdlxa53mQIhlX1drjq0YbFu1f_is35oc67LBs.png"
+      },
+      "clanLevel": 26,
+      "members": 45,
+      "rank": 148,
+      "previousRank": -1,
+      "clanCapitalPoints": 3216
+    },
+    {
+      "tag": "#2GP8CQUQ0",
+      "name": "Badboys SW",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GOVIzKYFHcYbQQ6HmuQArugvK-hKa7oeIHYAZgH4zo8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GOVIzKYFHcYbQQ6HmuQArugvK-hKa7oeIHYAZgH4zo8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GOVIzKYFHcYbQQ6HmuQArugvK-hKa7oeIHYAZgH4zo8.png"
+      },
+      "clanLevel": 18,
+      "members": 44,
+      "rank": 149,
+      "previousRank": -1,
+      "clanCapitalPoints": 3205
+    },
+    {
+      "tag": "#Q0RJYUR8",
+      "name": "# kAos #",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/5ZqMtqyuq5dx9gdF5wB3h3rFLlS0JVEoszU9G1SrCco.png"
+      },
+      "clanLevel": 26,
+      "members": 31,
+      "rank": 150,
+      "previousRank": -1,
+      "clanCapitalPoints": 3199
+    },
+    {
+      "tag": "#2QCJVVCGU",
+      "name": "Sweden Army",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/SDLaXYQHL0KdJdvYupAj3flYgBJw2e1MMvLjRWHujFM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/SDLaXYQHL0KdJdvYupAj3flYgBJw2e1MMvLjRWHujFM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/SDLaXYQHL0KdJdvYupAj3flYgBJw2e1MMvLjRWHujFM.png"
+      },
+      "clanLevel": 17,
+      "members": 45,
+      "rank": 151,
+      "previousRank": -1,
+      "clanCapitalPoints": 3195
+    },
+    {
+      "tag": "#20292UGCG",
+      "name": "Swedish Gubbs",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png"
+      },
+      "clanLevel": 22,
+      "members": 48,
+      "rank": 152,
+      "previousRank": -1,
+      "clanCapitalPoints": 3192
+    },
+    {
+      "tag": "#2Q0Q0G0UY",
+      "name": "Svenskakrigare3",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/MhumuLweWufBfajI-bCqfaSAdiZlRqVEj82RMMrHLzY.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/MhumuLweWufBfajI-bCqfaSAdiZlRqVEj82RMMrHLzY.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/MhumuLweWufBfajI-bCqfaSAdiZlRqVEj82RMMrHLzY.png"
+      },
+      "clanLevel": 16,
+      "members": 45,
+      "rank": 153,
+      "previousRank": -1,
+      "clanCapitalPoints": 3188
+    },
+    {
+      "tag": "#2PGRV28Y9",
+      "name": "Farbror Barbro",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png"
+      },
+      "clanLevel": 21,
+      "members": 38,
+      "rank": 154,
+      "previousRank": -1,
+      "clanCapitalPoints": 3187
+    },
+    {
+      "tag": "#2C2Y2LRJ",
+      "name": "Abandon ship!",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/hGnOMd0msJp0chsxc-EKZpWHA5SXEMjzwu572PN94rg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/hGnOMd0msJp0chsxc-EKZpWHA5SXEMjzwu572PN94rg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/hGnOMd0msJp0chsxc-EKZpWHA5SXEMjzwu572PN94rg.png"
+      },
+      "clanLevel": 21,
+      "members": 47,
+      "rank": 155,
+      "previousRank": -1,
+      "clanCapitalPoints": 3187
+    },
+    {
+      "tag": "#892Y22UC",
+      "name": "svensk",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zgFHVWpX4FC4fsAYpFja3WBwk50gDkSxmGqQjCb82Y8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zgFHVWpX4FC4fsAYpFja3WBwk50gDkSxmGqQjCb82Y8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zgFHVWpX4FC4fsAYpFja3WBwk50gDkSxmGqQjCb82Y8.png"
+      },
+      "clanLevel": 27,
+      "members": 33,
+      "rank": 156,
+      "previousRank": -1,
+      "clanCapitalPoints": 3183
+    },
+    {
+      "tag": "#2UUPURYU",
+      "name": "Tussi Heroes",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/TuqSMUtap2BIVaXC6Qbvx7_n8QCFYMHvPt7cjReRLFk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/TuqSMUtap2BIVaXC6Qbvx7_n8QCFYMHvPt7cjReRLFk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/TuqSMUtap2BIVaXC6Qbvx7_n8QCFYMHvPt7cjReRLFk.png"
+      },
+      "clanLevel": 33,
+      "members": 45,
+      "rank": 157,
+      "previousRank": -1,
+      "clanCapitalPoints": 3179
+    },
+    {
+      "tag": "#2QV0RR2UU",
+      "name": "Swe No pro elit",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/vzLOm7EsZTbyqqSUBNs4UyDA1xvFhVtRtT41hr3bra8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/vzLOm7EsZTbyqqSUBNs4UyDA1xvFhVtRtT41hr3bra8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/vzLOm7EsZTbyqqSUBNs4UyDA1xvFhVtRtT41hr3bra8.png"
+      },
+      "clanLevel": 18,
+      "members": 47,
+      "rank": 158,
+      "previousRank": -1,
+      "clanCapitalPoints": 3168
+    },
+    {
+      "tag": "#2Q8R2QUR",
+      "name": "Sweden United",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/5j0369eMknGOZ2_NKt7FHtYgiOUEFRbLjJd3jR1ou5o.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/5j0369eMknGOZ2_NKt7FHtYgiOUEFRbLjJd3jR1ou5o.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/5j0369eMknGOZ2_NKt7FHtYgiOUEFRbLjJd3jR1ou5o.png"
+      },
+      "clanLevel": 20,
+      "members": 39,
+      "rank": 159,
+      "previousRank": -1,
+      "clanCapitalPoints": 3168
+    },
+    {
+      "tag": "#P88V8GGR",
+      "name": "KURDISH TORNADO",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png"
+      },
+      "clanLevel": 27,
+      "members": 44,
+      "rank": 160,
+      "previousRank": -1,
+      "clanCapitalPoints": 3166
+    },
+    {
+      "tag": "#LG8YL8Y0",
+      "name": "Nordic Warriors",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/fR8A-2cUG_9MdW3xfEEhQYpXc_fIxV3MAxOtwIZNdi0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/fR8A-2cUG_9MdW3xfEEhQYpXc_fIxV3MAxOtwIZNdi0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/fR8A-2cUG_9MdW3xfEEhQYpXc_fIxV3MAxOtwIZNdi0.png"
+      },
+      "clanLevel": 27,
+      "members": 44,
+      "rank": 161,
+      "previousRank": -1,
+      "clanCapitalPoints": 3156
+    },
+    {
+      "tag": "#9JLLCCL9",
+      "name": "Carex",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NsUpo5udiZndYY1goJfHN4Z4zR1IpRWRg-5mwIb3N5I.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NsUpo5udiZndYY1goJfHN4Z4zR1IpRWRg-5mwIb3N5I.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NsUpo5udiZndYY1goJfHN4Z4zR1IpRWRg-5mwIb3N5I.png"
+      },
+      "clanLevel": 19,
+      "members": 30,
+      "rank": 162,
+      "previousRank": -1,
+      "clanCapitalPoints": 3154
+    },
+    {
+      "tag": "#Q2099LLL",
+      "name": "Folkungarna",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zIf631lfifCWPZdTIQoIKUb5JsZJK9fV4gfPahp8-D0.png"
+      },
+      "clanLevel": 22,
+      "members": 45,
+      "rank": 163,
+      "previousRank": -1,
+      "clanCapitalPoints": 3154
+    },
+    {
+      "tag": "#2QPYQGP9V",
+      "name": "Swedish Burger",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/ywT0UaviucHQnWjnz4lKRc35A_golBY8m6uzRuBc9Ik.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/ywT0UaviucHQnWjnz4lKRc35A_golBY8m6uzRuBc9Ik.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/ywT0UaviucHQnWjnz4lKRc35A_golBY8m6uzRuBc9Ik.png"
+      },
+      "clanLevel": 14,
+      "members": 45,
+      "rank": 164,
+      "previousRank": -1,
+      "clanCapitalPoints": 3153
+    },
+    {
+      "tag": "#U80QRJ9J",
+      "name": "CLAN WAR",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/GOVIzKYFHcYbQQ6HmuQArugvK-hKa7oeIHYAZgH4zo8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/GOVIzKYFHcYbQQ6HmuQArugvK-hKa7oeIHYAZgH4zo8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/GOVIzKYFHcYbQQ6HmuQArugvK-hKa7oeIHYAZgH4zo8.png"
+      },
+      "clanLevel": 18,
+      "members": 10,
+      "rank": 165,
+      "previousRank": -1,
+      "clanCapitalPoints": 3152
+    },
+    {
+      "tag": "#82VPP0JR",
+      "name": "swe champs",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7llhP94doBxLkf4YU9V8sKnxIiGSicsp20uHD3aNGQI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7llhP94doBxLkf4YU9V8sKnxIiGSicsp20uHD3aNGQI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7llhP94doBxLkf4YU9V8sKnxIiGSicsp20uHD3aNGQI.png"
+      },
+      "clanLevel": 24,
+      "members": 50,
+      "rank": 166,
+      "previousRank": -1,
+      "clanCapitalPoints": 3148
+    },
+    {
+      "tag": "#88QQYYJR",
+      "name": "Swe 20+",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/oeaorcnWjMPe3dy6PpoUjmpASrgpkaAhH-RDZ-3w0gc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/oeaorcnWjMPe3dy6PpoUjmpASrgpkaAhH-RDZ-3w0gc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/oeaorcnWjMPe3dy6PpoUjmpASrgpkaAhH-RDZ-3w0gc.png"
+      },
+      "clanLevel": 31,
+      "members": 34,
+      "rank": 167,
+      "previousRank": -1,
+      "clanCapitalPoints": 3147
+    },
+    {
+      "tag": "#9QJLL98U",
+      "name": "AIK Elite",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/JFWPxXloc8sBsTfQr8wW01DeYR7O_ouSpSJNlOL20P8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/JFWPxXloc8sBsTfQr8wW01DeYR7O_ouSpSJNlOL20P8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/JFWPxXloc8sBsTfQr8wW01DeYR7O_ouSpSJNlOL20P8.png"
+      },
+      "clanLevel": 27,
+      "members": 37,
+      "rank": 168,
+      "previousRank": -1,
+      "clanCapitalPoints": 3147
+    },
+    {
+      "tag": "#22RPRVUU",
+      "name": "skåne",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/QsNu1HYKGbsjV_emNf54MNCL1Jrz2dcoHyeQHqB8axI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/QsNu1HYKGbsjV_emNf54MNCL1Jrz2dcoHyeQHqB8axI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/QsNu1HYKGbsjV_emNf54MNCL1Jrz2dcoHyeQHqB8axI.png"
+      },
+      "clanLevel": 22,
+      "members": 37,
+      "rank": 169,
+      "previousRank": -1,
+      "clanCapitalPoints": 3142
+    },
+    {
+      "tag": "#R8VCRUJ8",
+      "name": "Svenska Wizards",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/1oyAzQiTyCoQLN2nWAn6lynNWR01aRLSVLpLjYMvftA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/1oyAzQiTyCoQLN2nWAn6lynNWR01aRLSVLpLjYMvftA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/1oyAzQiTyCoQLN2nWAn6lynNWR01aRLSVLpLjYMvftA.png"
+      },
+      "clanLevel": 27,
+      "members": 48,
+      "rank": 170,
+      "previousRank": -1,
+      "clanCapitalPoints": 3136
+    },
+    {
+      "tag": "#2YJVQ8YPU",
+      "name": "NickName",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/pTnIdmH4SwCG32SYT42sJNCh1zmTMxGE5rVcn2TiEl0.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/pTnIdmH4SwCG32SYT42sJNCh1zmTMxGE5rVcn2TiEl0.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/pTnIdmH4SwCG32SYT42sJNCh1zmTMxGE5rVcn2TiEl0.png"
+      },
+      "clanLevel": 19,
+      "members": 39,
+      "rank": 171,
+      "previousRank": -1,
+      "clanCapitalPoints": 3132
+    },
+    {
+      "tag": "#990UY2",
+      "name": "SWE-WARRIORS",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png"
+      },
+      "clanLevel": 23,
+      "members": 47,
+      "rank": 172,
+      "previousRank": -1,
+      "clanCapitalPoints": 3125
+    },
+    {
+      "tag": "#2LRQLU89C",
+      "name": "Army of Sweden2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/IUTsJfBrmWW1qnbZ4M36bliybViAipyVyX_D0HXsQOE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/IUTsJfBrmWW1qnbZ4M36bliybViAipyVyX_D0HXsQOE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/IUTsJfBrmWW1qnbZ4M36bliybViAipyVyX_D0HXsQOE.png"
+      },
+      "clanLevel": 22,
+      "members": 48,
+      "rank": 173,
+      "previousRank": -1,
+      "clanCapitalPoints": 3120
+    },
+    {
+      "tag": "#2QQC2L9VG",
+      "name": "30vs30newbiescw",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/rcSewwULracYZ6KoYXG-zv2qbCjWn1wRIsdiEMYOWl4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/rcSewwULracYZ6KoYXG-zv2qbCjWn1wRIsdiEMYOWl4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/rcSewwULracYZ6KoYXG-zv2qbCjWn1wRIsdiEMYOWl4.png"
+      },
+      "clanLevel": 15,
+      "members": 46,
+      "rank": 174,
+      "previousRank": -1,
+      "clanCapitalPoints": 3111
+    },
+    {
+      "tag": "#22L22YQ9",
+      "name": "Sweden 20+",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/3YfHFj1pT-E483TgrDuaG9YKA8lXD1U7Wo_Gr21k6YU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/3YfHFj1pT-E483TgrDuaG9YKA8lXD1U7Wo_Gr21k6YU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/3YfHFj1pT-E483TgrDuaG9YKA8lXD1U7Wo_Gr21k6YU.png"
+      },
+      "clanLevel": 24,
+      "members": 42,
+      "rank": 175,
+      "previousRank": -1,
+      "clanCapitalPoints": 3108
+    },
+    {
+      "tag": "#2Q99QGLGV",
+      "name": "Sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/vzLOm7EsZTbyqqSUBNs4UyDA1xvFhVtRtT41hr3bra8.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/vzLOm7EsZTbyqqSUBNs4UyDA1xvFhVtRtT41hr3bra8.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/vzLOm7EsZTbyqqSUBNs4UyDA1xvFhVtRtT41hr3bra8.png"
+      },
+      "clanLevel": 18,
+      "members": 45,
+      "rank": 176,
+      "previousRank": -1,
+      "clanCapitalPoints": 3102
+    },
+    {
+      "tag": "#YRLVL9CV",
+      "name": "krigarna",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/YAFwEc2t1_t-W3vExqTcx7YDTAY1GXUEYXTgL_VpAJs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/YAFwEc2t1_t-W3vExqTcx7YDTAY1GXUEYXTgL_VpAJs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/YAFwEc2t1_t-W3vExqTcx7YDTAY1GXUEYXTgL_VpAJs.png"
+      },
+      "clanLevel": 22,
+      "members": 48,
+      "rank": 177,
+      "previousRank": -1,
+      "clanCapitalPoints": 3102
+    },
+    {
+      "tag": "#LPRYLL2",
+      "name": "bert",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/bNALwobRsfLj7868mAHDbVYrBMe49OCCC4FJX2oRgZQ.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/bNALwobRsfLj7868mAHDbVYrBMe49OCCC4FJX2oRgZQ.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/bNALwobRsfLj7868mAHDbVYrBMe49OCCC4FJX2oRgZQ.png"
+      },
+      "clanLevel": 21,
+      "members": 48,
+      "rank": 178,
+      "previousRank": -1,
+      "clanCapitalPoints": 3101
+    },
+    {
+      "tag": "#2QRCPCGCJ",
+      "name": "Bonusfamiljen3",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/2ceu83hC3ZqnB2CosOEtIcOfEunVB8jEGyNo57eYfhs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/2ceu83hC3ZqnB2CosOEtIcOfEunVB8jEGyNo57eYfhs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/2ceu83hC3ZqnB2CosOEtIcOfEunVB8jEGyNo57eYfhs.png"
+      },
+      "clanLevel": 12,
+      "members": 36,
+      "rank": 179,
+      "previousRank": -1,
+      "clanCapitalPoints": 3089
+    },
+    {
+      "tag": "#2PPYCU2UQ",
+      "name": "Krigarna",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/0ZP3D5wAOhLieL1DTe7L0ZMDh0rUXdWsiJeNk8hPqPs.png"
+      },
+      "clanLevel": 21,
+      "members": 47,
+      "rank": 180,
+      "previousRank": -1,
+      "clanCapitalPoints": 3082
+    },
+    {
+      "tag": "#2GLQGYYU",
+      "name": "SKANDINAVISKA",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/IExFnckoj9gw6P5e9u9yg-8BOwGP3WtnJpJkATVUo0s.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/IExFnckoj9gw6P5e9u9yg-8BOwGP3WtnJpJkATVUo0s.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/IExFnckoj9gw6P5e9u9yg-8BOwGP3WtnJpJkATVUo0s.png"
+      },
+      "clanLevel": 27,
+      "members": 43,
+      "rank": 181,
+      "previousRank": -1,
+      "clanCapitalPoints": 3077
+    },
+    {
+      "tag": "#9YLPRYVU",
+      "name": "Family",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Msco3O0S4EvWfv-Y3rnoVbKUiD1pLwqDmuWgwTmtSRo.png"
+      },
+      "clanLevel": 25,
+      "members": 41,
+      "rank": 182,
+      "previousRank": -1,
+      "clanCapitalPoints": 3065
+    },
+    {
+      "tag": "#2QQQL98UP",
+      "name": "SweWar Clan",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/VAOMk0Ogr9KSap40VlK9Ir-UJQn-Y6QWb0ec3-pYlrc.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/VAOMk0Ogr9KSap40VlK9Ir-UJQn-Y6QWb0ec3-pYlrc.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/VAOMk0Ogr9KSap40VlK9Ir-UJQn-Y6QWb0ec3-pYlrc.png"
+      },
+      "clanLevel": 17,
+      "members": 37,
+      "rank": 183,
+      "previousRank": -1,
+      "clanCapitalPoints": 3064
+    },
+    {
+      "tag": "#Y9G8CCL0",
+      "name": "##WARRIORS##",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/7llhP94doBxLkf4YU9V8sKnxIiGSicsp20uHD3aNGQI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/7llhP94doBxLkf4YU9V8sKnxIiGSicsp20uHD3aNGQI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/7llhP94doBxLkf4YU9V8sKnxIiGSicsp20uHD3aNGQI.png"
+      },
+      "clanLevel": 24,
+      "members": 49,
+      "rank": 184,
+      "previousRank": -1,
+      "clanCapitalPoints": 3054
+    },
+    {
+      "tag": "#2CYLPR9",
+      "name": "SWE",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png"
+      },
+      "clanLevel": 23,
+      "members": 45,
+      "rank": 185,
+      "previousRank": -1,
+      "clanCapitalPoints": 3043
+    },
+    {
+      "tag": "#8PY09GQR",
+      "name": "The Wilderness",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/NGus6JqKXINUjfh9YGB92SekLmiVK7kGqqwQj4nPEQM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/NGus6JqKXINUjfh9YGB92SekLmiVK7kGqqwQj4nPEQM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/NGus6JqKXINUjfh9YGB92SekLmiVK7kGqqwQj4nPEQM.png"
+      },
+      "clanLevel": 19,
+      "members": 35,
+      "rank": 186,
+      "previousRank": -1,
+      "clanCapitalPoints": 3042
+    },
+    {
+      "tag": "#29L0YU92Y",
+      "name": "zaxo",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/y3a-sgZsNJO3PHoWz25BuYAyHScjFZv8mefZFNLU528.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/y3a-sgZsNJO3PHoWz25BuYAyHScjFZv8mefZFNLU528.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/y3a-sgZsNJO3PHoWz25BuYAyHScjFZv8mefZFNLU528.png"
+      },
+      "clanLevel": 26,
+      "members": 50,
+      "rank": 187,
+      "previousRank": -1,
+      "clanCapitalPoints": 3029
+    },
+    {
+      "tag": "#JY0YRY8U",
+      "name": "RB BỐRRIORS",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/UPI7u3fCqbLaJTKT8TA5IzWzHMLtbIE8Sv9VrjG9OPE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/UPI7u3fCqbLaJTKT8TA5IzWzHMLtbIE8Sv9VrjG9OPE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/UPI7u3fCqbLaJTKT8TA5IzWzHMLtbIE8Sv9VrjG9OPE.png"
+      },
+      "clanLevel": 18,
+      "members": 47,
+      "rank": 188,
+      "previousRank": -1,
+      "clanCapitalPoints": 3023
+    },
+    {
+      "tag": "#2QLRVLU00",
+      "name": "bebsi",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/b1bkS1g1EFxtUBzBLf_LGsJrbvoJqVs3gj7CS9Trm4s.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/b1bkS1g1EFxtUBzBLf_LGsJrbvoJqVs3gj7CS9Trm4s.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/b1bkS1g1EFxtUBzBLf_LGsJrbvoJqVs3gj7CS9Trm4s.png"
+      },
+      "clanLevel": 15,
+      "members": 46,
+      "rank": 189,
+      "previousRank": -1,
+      "clanCapitalPoints": 3012
+    },
+    {
+      "tag": "#2LYJV8CG0",
+      "name": "SvenskaKrigare2",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/fhZY4aTXQyJ_InV7wsXS-jKWaZkYI4haPzsafK7R_iA.png"
+      },
+      "clanLevel": 20,
+      "members": 47,
+      "rank": 190,
+      "previousRank": -1,
+      "clanCapitalPoints": 2994
+    },
+    {
+      "tag": "#22LYLVGL",
+      "name": "swedish arm 3",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/6v6vAyRf9blZiYCOj_pFa3iR3mApw27wqhszCG_vjGo.png"
+      },
+      "clanLevel": 24,
+      "members": 42,
+      "rank": 191,
+      "previousRank": -1,
+      "clanCapitalPoints": 2970
+    },
+    {
+      "tag": "#JC8YYQ",
+      "name": "Swedish Army",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/4XxqicaYGDwPnQDm7hj3nA9b9OTtsHhTNZDk2e1W1to.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/4XxqicaYGDwPnQDm7hj3nA9b9OTtsHhTNZDk2e1W1to.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/4XxqicaYGDwPnQDm7hj3nA9b9OTtsHhTNZDk2e1W1to.png"
+      },
+      "clanLevel": 21,
+      "members": 41,
+      "rank": 192,
+      "previousRank": -1,
+      "clanCapitalPoints": 2968
+    },
+    {
+      "tag": "#8UVQY0CY",
+      "name": "sverige",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/a89pvBH4i9ezSGTjIdjiz8JCAVR1Q9SBS2Yp4ygj2mA.png"
+      },
+      "clanLevel": 22,
+      "members": 37,
+      "rank": 193,
+      "previousRank": -1,
+      "clanCapitalPoints": 2962
+    },
+    {
+      "tag": "#V98L8P8",
+      "name": "slapptaskarna",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/XmHfAKBYMFR-yoMYMN1tlLt3HSFeKxL98IvV_enoJag.png"
+      },
+      "clanLevel": 23,
+      "members": 39,
+      "rank": 194,
+      "previousRank": -1,
+      "clanCapitalPoints": 2961
+    },
+    {
+      "tag": "#G90Q808",
+      "name": "SWE ! CW",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png"
+      },
+      "clanLevel": 25,
+      "members": 48,
+      "rank": 195,
+      "previousRank": -1,
+      "clanCapitalPoints": 2958
+    },
+    {
+      "tag": "#2QJLGY9QC",
+      "name": "Insert Name",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/xqeU-XKoZOr3Prmdsi59uBm8Hi5cteNIwauLMK9nG5Y.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/xqeU-XKoZOr3Prmdsi59uBm8Hi5cteNIwauLMK9nG5Y.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/xqeU-XKoZOr3Prmdsi59uBm8Hi5cteNIwauLMK9nG5Y.png"
+      },
+      "clanLevel": 20,
+      "members": 28,
+      "rank": 196,
+      "previousRank": -1,
+      "clanCapitalPoints": 2955
+    },
+    {
+      "tag": "#2PQQPJGL",
+      "name": "Svea Rike",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/AfOgTwAi4UeidkSdjb46uCKLzxCWktBT6St7KVgdWa4.png"
+      },
+      "clanLevel": 23,
+      "members": 41,
+      "rank": 197,
+      "previousRank": -1,
+      "clanCapitalPoints": 2952
+    },
+    {
+      "tag": "#22UQGQQJR",
+      "name": "Clan of Sweden",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/WDD4nF6KMd3ehZHYBYxGC1rCmWtuKQFcIKJ_QWWJqf4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/WDD4nF6KMd3ehZHYBYxGC1rCmWtuKQFcIKJ_QWWJqf4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/WDD4nF6KMd3ehZHYBYxGC1rCmWtuKQFcIKJ_QWWJqf4.png"
+      },
+      "clanLevel": 20,
+      "members": 49,
+      "rank": 198,
+      "previousRank": -1,
+      "clanCapitalPoints": 2950
+    },
+    {
+      "tag": "#2YUPJQ0QC",
+      "name": "Rush To Max",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Xfe3_jBWRGPaUJLa_gKnvG1T3LQIxqRZ8RPZi5TL_kw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Xfe3_jBWRGPaUJLa_gKnvG1T3LQIxqRZ8RPZi5TL_kw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Xfe3_jBWRGPaUJLa_gKnvG1T3LQIxqRZ8RPZi5TL_kw.png"
+      },
+      "clanLevel": 15,
+      "members": 33,
+      "rank": 199,
+      "previousRank": -1,
+      "clanCapitalPoints": 2949
+    },
+    {
+      "tag": "#229JUU9G",
+      "name": "Glenn army",
+      "location": {
+        "id": 32000225,
+        "name": "Sweden",
+        "isCountry": true,
+        "countryCode": "SE"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/zlXOct_dJqETqgfLfXmGWMWJphP5SJFjgH8kZ-mzh6s.png"
+      },
+      "clanLevel": 25,
+      "members": 41,
+      "rank": 200,
+      "previousRank": -1,
+      "clanCapitalPoints": 2942
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}

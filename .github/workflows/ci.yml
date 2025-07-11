@@ -23,6 +23,4 @@ jobs:
           override: true
 
       - name: Run tests
-        env:
-          BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
         run: cargo test

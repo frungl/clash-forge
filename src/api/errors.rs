@@ -26,7 +26,10 @@ impl Error {
 
     pub async fn from_response(response: reqwest::Response) -> Self {
         let status_code = response.status();
-        let data: ApiErrorResponse = response.json().await.expect("REASON");
+        let data: ApiErrorResponse = response.json().await.unwrap_or_else(|_| ApiErrorResponse {
+            reason: None,
+            message: None,
+        });
         let reason = data.reason.unwrap_or_else(|| {
             match status_code {
                 reqwest::StatusCode::BAD_REQUEST => "badRequest".to_string(),

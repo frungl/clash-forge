@@ -1,0 +1,4180 @@
+{
+  "items": [
+    {
+      "tag": "#89C99LV2",
+      "name": "# Bertilsson #",
+      "expLevel": 242,
+      "rank": 1,
+      "previousRank": 1,
+      "builderBaseTrophies": 5643,
+      "clan": {
+        "tag": "#PP0009VV",
+        "name": "Swedish Pain",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000038,
+        "name": "Ruby League III"
+      }
+    },
+    {
+      "tag": "#LR9JQC2U",
+      "name": "mErge",
+      "expLevel": 222,
+      "rank": 2,
+      "previousRank": 2,
+      "builderBaseTrophies": 5378,
+      "clan": {
+        "tag": "#2YLCJY8CQ",
+        "name": "Brödraskapet",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#L99UGG2Q",
+      "name": "MRATTAN",
+      "expLevel": 226,
+      "rank": 3,
+      "previousRank": 4,
+      "builderBaseTrophies": 5298,
+      "clan": {
+        "tag": "#8GLJ028",
+        "name": "Scotchguard",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FKxB0x09VoSAtS6WocQmKbckPOnMhrTJEfHdxOguvuQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FKxB0x09VoSAtS6WocQmKbckPOnMhrTJEfHdxOguvuQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FKxB0x09VoSAtS6WocQmKbckPOnMhrTJEfHdxOguvuQ.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#2P2YUCURV",
+      "name": "jake",
+      "expLevel": 258,
+      "rank": 4,
+      "previousRank": 5,
+      "builderBaseTrophies": 5294,
+      "clan": {
+        "tag": "#LRQPUQGV",
+        "name": "Give a Ship",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/BCNx0NuCcvUXzfjXEJqmwF6ecU3_p4jutGzQ6Q8k3CA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/BCNx0NuCcvUXzfjXEJqmwF6ecU3_p4jutGzQ6Q8k3CA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/BCNx0NuCcvUXzfjXEJqmwF6ecU3_p4jutGzQ6Q8k3CA.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#CPJQGGGU",
+      "name": "Jokern",
+      "expLevel": 262,
+      "rank": 5,
+      "previousRank": 6,
+      "builderBaseTrophies": 5260,
+      "clan": {
+        "tag": "#2L8RCCL",
+        "name": "Arctic Swedes",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#L2YJU0CLV",
+      "name": "Syife",
+      "expLevel": 238,
+      "rank": 6,
+      "previousRank": 3,
+      "builderBaseTrophies": 5260,
+      "clan": {
+        "tag": "#P0UVJ0JQ",
+        "name": "Sverige",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#8PY0YGCGY",
+      "name": "EmPeRaToUR",
+      "expLevel": 233,
+      "rank": 7,
+      "previousRank": 7,
+      "builderBaseTrophies": 5259,
+      "clan": {
+        "tag": "#UPGPYU8R",
+        "name": "Chelsea is BLUE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/A2LvQLlKDXzFLOP2JqlbBWuGSrtIlfn2ja8WwJx4ZSw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/A2LvQLlKDXzFLOP2JqlbBWuGSrtIlfn2ja8WwJx4ZSw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/A2LvQLlKDXzFLOP2JqlbBWuGSrtIlfn2ja8WwJx4ZSw.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#90PP2YQUG",
+      "name": "Noah",
+      "expLevel": 229,
+      "rank": 8,
+      "previousRank": 8,
+      "builderBaseTrophies": 5257,
+      "clan": {
+        "tag": "#28VVLV8QC",
+        "name": "SWE cacti",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xSnvNNmWGEX12SBe1kmk980elitUQ-lL8mDYkAK6Ncg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xSnvNNmWGEX12SBe1kmk980elitUQ-lL8mDYkAK6Ncg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xSnvNNmWGEX12SBe1kmk980elitUQ-lL8mDYkAK6Ncg.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#VQ9GUR8P",
+      "name": "jacke",
+      "expLevel": 220,
+      "rank": 9,
+      "previousRank": 9,
+      "builderBaseTrophies": 5254,
+      "clan": {
+        "tag": "#2R9PV00UV",
+        "name": "ViolentOffendrz",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/VNKjK5xu_cPgeUdQqpuOzBgJQSF2ha0TdWlbgv3i5Bk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/VNKjK5xu_cPgeUdQqpuOzBgJQSF2ha0TdWlbgv3i5Bk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/VNKjK5xu_cPgeUdQqpuOzBgJQSF2ha0TdWlbgv3i5Bk.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#Y80YCJPL",
+      "name": "Urban Kanon",
+      "expLevel": 271,
+      "rank": 10,
+      "previousRank": 13,
+      "builderBaseTrophies": 5251,
+      "clan": {
+        "tag": "#82VG9CQV",
+        "name": "swe ! no cw",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#9RYLVLG2U",
+      "name": "Rug",
+      "expLevel": 232,
+      "rank": 11,
+      "previousRank": 10,
+      "builderBaseTrophies": 5232,
+      "clan": {
+        "tag": "#2PLR9ULLY",
+        "name": "Bumbibjörnarna",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#G8LCJ8YPU",
+      "name": "Saradom1n",
+      "expLevel": 198,
+      "rank": 12,
+      "previousRank": 11,
+      "builderBaseTrophies": 5227,
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#29CJ2J8G",
+      "name": "Lukeeh",
+      "expLevel": 242,
+      "rank": 13,
+      "previousRank": 28,
+      "builderBaseTrophies": 5224,
+      "clan": {
+        "tag": "#2PQUVPG0P",
+        "name": "SoTzIrO.io",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/rvLBsQ-Z18RtFdeLWAqN0c7XishOPjccPclPUIn1EL4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/rvLBsQ-Z18RtFdeLWAqN0c7XishOPjccPclPUIn1EL4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/rvLBsQ-Z18RtFdeLWAqN0c7XishOPjccPclPUIn1EL4.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#JLQGRGLQ",
+      "name": "AP",
+      "expLevel": 237,
+      "rank": 14,
+      "previousRank": 12,
+      "builderBaseTrophies": 5224,
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#9VY2LPCVL",
+      "name": "grismacka",
+      "expLevel": 188,
+      "rank": 15,
+      "previousRank": 14,
+      "builderBaseTrophies": 5214,
+      "clan": {
+        "tag": "#8LGR8VJ",
+        "name": "Sweden's finest",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#L2UVPY80Q",
+      "name": "John",
+      "expLevel": 217,
+      "rank": 16,
+      "previousRank": 15,
+      "builderBaseTrophies": 5214,
+      "clan": {
+        "tag": "#QQ0R9VYQ",
+        "name": "Glory UK",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eLwtLsA1HolDmdreoTgNohu6Ydd_Tq28isqy4Mj3sBg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eLwtLsA1HolDmdreoTgNohu6Ydd_Tq28isqy4Mj3sBg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eLwtLsA1HolDmdreoTgNohu6Ydd_Tq28isqy4Mj3sBg.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#Q80GRVP9",
+      "name": "UmeMange",
+      "expLevel": 244,
+      "rank": 17,
+      "previousRank": 16,
+      "builderBaseTrophies": 5205,
+      "clan": {
+        "tag": "#YGR2892U",
+        "name": "Yo sverige",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#YUCJC2CR",
+      "name": "GeneralGravy",
+      "expLevel": 246,
+      "rank": 18,
+      "previousRank": 17,
+      "builderBaseTrophies": 5204,
+      "clan": {
+        "tag": "#9YLPRYVU",
+        "name": "Family",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#9LPUVULJ",
+      "name": "Thanatos",
+      "expLevel": 253,
+      "rank": 19,
+      "previousRank": 18,
+      "builderBaseTrophies": 5203,
+      "clan": {
+        "tag": "#82GG0UYP",
+        "name": "The Cell",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/V9sdlbwA810p3b0hUrucW4I8kdnzGqLTwbELx1KBMgQ.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#QQJ2U90V",
+      "name": "U MAD BRO?",
+      "expLevel": 219,
+      "rank": 20,
+      "previousRank": 19,
+      "builderBaseTrophies": 5202,
+      "clan": {
+        "tag": "#2JPQP9Q9U",
+        "name": "GML",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ityK1FPIfOJdgFBkbmkT65oz5hiiSufyNmJhHf83OXE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ityK1FPIfOJdgFBkbmkT65oz5hiiSufyNmJhHf83OXE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ityK1FPIfOJdgFBkbmkT65oz5hiiSufyNmJhHf83OXE.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000036,
+        "name": "Emerald League II"
+      }
+    },
+    {
+      "tag": "#8V99R2020",
+      "name": "Rahmat",
+      "expLevel": 234,
+      "rank": 21,
+      "previousRank": 25,
+      "builderBaseTrophies": 5199,
+      "clan": {
+        "tag": "#Y8UC8PL2",
+        "name": "tehran",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/aIgTBaGxdHglhWv5cK0Hl7L6f5rWLNhwXW1vVR49OIg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/aIgTBaGxdHglhWv5cK0Hl7L6f5rWLNhwXW1vVR49OIg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/aIgTBaGxdHglhWv5cK0Hl7L6f5rWLNhwXW1vVR49OIg.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9UJCYUY8",
+      "name": "lord Ättehagen2",
+      "expLevel": 231,
+      "rank": 22,
+      "previousRank": 22,
+      "builderBaseTrophies": 5191,
+      "clan": {
+        "tag": "#U8Y2LCJ",
+        "name": "Swede mayonaise",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/vHYEFWmobrkRkRnAE1BZXK4NVXNFgLyqwqnk2x6cSN8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/vHYEFWmobrkRkRnAE1BZXK4NVXNFgLyqwqnk2x6cSN8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/vHYEFWmobrkRkRnAE1BZXK4NVXNFgLyqwqnk2x6cSN8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#RJJVVQVL",
+      "name": "Jeppe",
+      "expLevel": 206,
+      "rank": 23,
+      "previousRank": 60,
+      "builderBaseTrophies": 5189,
+      "clan": {
+        "tag": "#2G8VGVLVU",
+        "name": "El Furfantes",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/DyCsZhclimAG7QonwF6p4BgLX5BrRDc1nCBY_OALlD4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/DyCsZhclimAG7QonwF6p4BgLX5BrRDc1nCBY_OALlD4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/DyCsZhclimAG7QonwF6p4BgLX5BrRDc1nCBY_OALlD4.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#900VJVJ2",
+      "name": "⚜️BHFanaticos⚜️",
+      "expLevel": 294,
+      "rank": 24,
+      "previousRank": 23,
+      "builderBaseTrophies": 5186,
+      "clan": {
+        "tag": "#2G9QQVV2",
+        "name": "Class of Clans!",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/YMSh3zRpb0IE0nEJ4g7CfSomzBs-RQcWFiVpP3h05ew.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/YMSh3zRpb0IE0nEJ4g7CfSomzBs-RQcWFiVpP3h05ew.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/YMSh3zRpb0IE0nEJ4g7CfSomzBs-RQcWFiVpP3h05ew.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YJYUR2CJ",
+      "name": "douglas",
+      "expLevel": 213,
+      "rank": 25,
+      "previousRank": 21,
+      "builderBaseTrophies": 5182,
+      "clan": {
+        "tag": "#9J9J2YL0",
+        "name": "Grönroos",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H4OwwlPcHeNUnPHYVOxqxZ_wpM7vQgPtbQ8ic1Eoo2o.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H4OwwlPcHeNUnPHYVOxqxZ_wpM7vQgPtbQ8ic1Eoo2o.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H4OwwlPcHeNUnPHYVOxqxZ_wpM7vQgPtbQ8ic1Eoo2o.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8LQQP08R",
+      "name": "Chicken Lord",
+      "expLevel": 239,
+      "rank": 26,
+      "previousRank": 24,
+      "builderBaseTrophies": 5181,
+      "clan": {
+        "tag": "#2U8P8P8C",
+        "name": "Elite Sweden",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2VY8YG0J",
+      "name": "magjoi7",
+      "expLevel": 311,
+      "rank": 27,
+      "previousRank": 20,
+      "builderBaseTrophies": 5178,
+      "clan": {
+        "tag": "#YJ928JL",
+        "name": "SWElite",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LGJYCYR28",
+      "name": "Huggax",
+      "expLevel": 211,
+      "rank": 28,
+      "previousRank": 26,
+      "builderBaseTrophies": 5176,
+      "clan": {
+        "tag": "#2QCVRC8QL",
+        "name": "barbaric",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/kgK0jc04dM9UHn56N7KctM44c_Or4ZSkzA1XOqURheY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/kgK0jc04dM9UHn56N7KctM44c_Or4ZSkzA1XOqURheY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/kgK0jc04dM9UHn56N7KctM44c_Or4ZSkzA1XOqURheY.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#Q9CVQGYRV",
+      "name": "armyofmonkeys",
+      "expLevel": 194,
+      "rank": 29,
+      "previousRank": 34,
+      "builderBaseTrophies": 5174,
+      "clan": {
+        "tag": "#2QP0QPU2C",
+        "name": "Hasse",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QYVCPV8CP",
+      "name": "Krille",
+      "expLevel": 226,
+      "rank": 30,
+      "previousRank": 27,
+      "builderBaseTrophies": 5174,
+      "clan": {
+        "tag": "#2QYUCJR89",
+        "name": "A.O.G prospects",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QU0RLC00Q",
+      "name": "Terminator",
+      "expLevel": 224,
+      "rank": 31,
+      "previousRank": 29,
+      "builderBaseTrophies": 5169,
+      "clan": {
+        "tag": "#2QQVRQRPP",
+        "name": "in the slums 2",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ow_omnRsZ6htNBECmdyhKsYgdP62l8iMoRycooqDcz0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ow_omnRsZ6htNBECmdyhKsYgdP62l8iMoRycooqDcz0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ow_omnRsZ6htNBECmdyhKsYgdP62l8iMoRycooqDcz0.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LR89CQJR",
+      "name": "agren08",
+      "expLevel": 230,
+      "rank": 32,
+      "previousRank": 90,
+      "builderBaseTrophies": 5166,
+      "clan": {
+        "tag": "#2YPJRPJUU",
+        "name": "___TENET___",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/8EQBE6OT2lO2k7IAB6UnIZFU_duNd9iJG0kSvlZHi4Y.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/8EQBE6OT2lO2k7IAB6UnIZFU_duNd9iJG0kSvlZHi4Y.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/8EQBE6OT2lO2k7IAB6UnIZFU_duNd9iJG0kSvlZHi4Y.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#20V8G202V",
+      "name": "صبرآيانفسي",
+      "expLevel": 254,
+      "rank": 33,
+      "previousRank": 30,
+      "builderBaseTrophies": 5160,
+      "clan": {
+        "tag": "#JV98Y2UC",
+        "name": "ابطال سوريا",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FoeBKgf5I2Ow7tbVKhmqr9BDn1y0i-jXkQ8rMZaUr7g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FoeBKgf5I2Ow7tbVKhmqr9BDn1y0i-jXkQ8rMZaUr7g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FoeBKgf5I2Ow7tbVKhmqr9BDn1y0i-jXkQ8rMZaUr7g.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#890JJPLV",
+      "name": "Knatch",
+      "expLevel": 251,
+      "rank": 34,
+      "previousRank": 31,
+      "builderBaseTrophies": 5158,
+      "clan": {
+        "tag": "#2P22QR2P2",
+        "name": "Arcane Outlaws",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zOPtImYFRaqMp9Gm8_Lzy-p2VEZFui59gUvP7hUR0rs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zOPtImYFRaqMp9Gm8_Lzy-p2VEZFui59gUvP7hUR0rs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zOPtImYFRaqMp9Gm8_Lzy-p2VEZFui59gUvP7hUR0rs.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9RV28YJ0",
+      "name": "Pingistom",
+      "expLevel": 205,
+      "rank": 35,
+      "previousRank": 32,
+      "builderBaseTrophies": 5157,
+      "clan": {
+        "tag": "#G009U0Q8",
+        "name": "SWEDENS FINEST",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2RQQG00GG",
+      "name": "$ABO LUAY$ ABD",
+      "expLevel": 249,
+      "rank": 36,
+      "previousRank": 33,
+      "builderBaseTrophies": 5156,
+      "clan": {
+        "tag": "#2PQPYPRUP",
+        "name": "Lebuemon",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/oxvTf65n8dBjlsdGWuwo8NuTARnRqzmFP0gVr5b93K4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/oxvTf65n8dBjlsdGWuwo8NuTARnRqzmFP0gVr5b93K4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/oxvTf65n8dBjlsdGWuwo8NuTARnRqzmFP0gVr5b93K4.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YR8J88LYR",
+      "name": "JrAxel",
+      "expLevel": 222,
+      "rank": 37,
+      "previousRank": 35,
+      "builderBaseTrophies": 5152,
+      "clan": {
+        "tag": "#2G2PQGPLG",
+        "name": "Mii-plaza",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/PeXKa-im4BPhb6-nIscEweA6oxlMxItcTHqFv1TB5eQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/PeXKa-im4BPhb6-nIscEweA6oxlMxItcTHqFv1TB5eQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/PeXKa-im4BPhb6-nIscEweA6oxlMxItcTHqFv1TB5eQ.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PYQV02L8Y",
+      "name": "mush",
+      "expLevel": 202,
+      "rank": 38,
+      "previousRank": 36,
+      "builderBaseTrophies": 5150,
+      "clan": {
+        "tag": "#8QG8CLCV",
+        "name": "Average Hoes",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3fCfliePJRq1e4cSmxAn0QiMcmziJGlKonD-kBoHRRc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3fCfliePJRq1e4cSmxAn0QiMcmziJGlKonD-kBoHRRc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3fCfliePJRq1e4cSmxAn0QiMcmziJGlKonD-kBoHRRc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PPULVRUL2",
+      "name": "KOKO DE PANDA",
+      "expLevel": 211,
+      "rank": 39,
+      "previousRank": 38,
+      "builderBaseTrophies": 5149,
+      "clan": {
+        "tag": "#9YLPRYVU",
+        "name": "Family",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#RUUYVPC",
+      "name": "Levii",
+      "expLevel": 218,
+      "rank": 40,
+      "previousRank": 39,
+      "builderBaseTrophies": 5145,
+      "clan": {
+        "tag": "#2LYJV8CG0",
+        "name": "SvenskaKrigare2",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LY9V9QRGV",
+      "name": "Nicolas",
+      "expLevel": 222,
+      "rank": 41,
+      "previousRank": 40,
+      "builderBaseTrophies": 5144,
+      "clan": {
+        "tag": "#2P9J9PQQY",
+        "name": "God Jesus Saves",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Yafe6MmAlMuwti0JKKcQJWJVHRCL9_FfKpVZJJD-xZs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Yafe6MmAlMuwti0JKKcQJWJVHRCL9_FfKpVZJJD-xZs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Yafe6MmAlMuwti0JKKcQJWJVHRCL9_FfKpVZJJD-xZs.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QR9V8L8",
+      "name": "JBPR",
+      "expLevel": 233,
+      "rank": 42,
+      "previousRank": 41,
+      "builderBaseTrophies": 5143,
+      "clan": {
+        "tag": "#2R8RJ28L9",
+        "name": "GarageHäng",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2RL9G292U",
+      "name": "PATRICEINARBORG",
+      "expLevel": 238,
+      "rank": 43,
+      "previousRank": 70,
+      "builderBaseTrophies": 5142,
+      "clan": {
+        "tag": "#2PUR902PV",
+        "name": "I Furetti",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/XJC9r4bMfN6Lu4cCXVZ_d1F7KpUPwt-M6c6XXX3ZReE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/XJC9r4bMfN6Lu4cCXVZ_d1F7KpUPwt-M6c6XXX3ZReE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/XJC9r4bMfN6Lu4cCXVZ_d1F7KpUPwt-M6c6XXX3ZReE.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YVCL08RQV",
+      "name": "Padelskold",
+      "expLevel": 255,
+      "rank": 44,
+      "previousRank": 42,
+      "builderBaseTrophies": 5142,
+      "clan": {
+        "tag": "#29GPL98",
+        "name": "Clantskallarna",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#822LU20RV",
+      "name": "Van Doan",
+      "expLevel": 274,
+      "rank": 45,
+      "previousRank": 43,
+      "builderBaseTrophies": 5141,
+      "clan": {
+        "tag": "#2Q0JLCGCG",
+        "name": "Gia Đình Nhỏ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2YC988Q",
+      "name": "Woody",
+      "expLevel": 263,
+      "rank": 46,
+      "previousRank": 44,
+      "builderBaseTrophies": 5141,
+      "clan": {
+        "tag": "#282QUYPR",
+        "name": "Svenska arme'n",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#VV2G8PG",
+      "name": "Ruggis",
+      "expLevel": 255,
+      "rank": 47,
+      "previousRank": 37,
+      "builderBaseTrophies": 5139,
+      "clan": {
+        "tag": "#2V0CYJG8",
+        "name": "Swedishclan.se",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FEqHVsUnwRzycpCJjeZuj7HYD4u7BN6s9xyOAKc-44Y.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FEqHVsUnwRzycpCJjeZuj7HYD4u7BN6s9xyOAKc-44Y.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FEqHVsUnwRzycpCJjeZuj7HYD4u7BN6s9xyOAKc-44Y.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YPLRU92Y0",
+      "name": "Phantom",
+      "expLevel": 217,
+      "rank": 48,
+      "previousRank": 45,
+      "builderBaseTrophies": 5137,
+      "clan": {
+        "tag": "#290LYCJUU",
+        "name": "✨TOP KLAN✨",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ODxgaw7m9h0kQQfjHHgszEFopYOF6E5pAFt8AQF8doQ.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#RU992JYV",
+      "name": "muppmell",
+      "expLevel": 231,
+      "rank": 49,
+      "previousRank": 46,
+      "builderBaseTrophies": 5137,
+      "clan": {
+        "tag": "#JC8YYQ",
+        "name": "Swedish Army",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#29QRRGC9Q",
+      "name": "sakuL",
+      "expLevel": 202,
+      "rank": 50,
+      "previousRank": 47,
+      "builderBaseTrophies": 5135,
+      "clan": {
+        "tag": "#2GVUGPLJL",
+        "name": "Ludde skiter",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#80RQVYRJ",
+      "name": "Hugge",
+      "expLevel": 209,
+      "rank": 51,
+      "previousRank": 48,
+      "builderBaseTrophies": 5134,
+      "clan": {
+        "tag": "#2QCJLJGRQ",
+        "name": "Ogre Clan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/w-s_7qXZ4oqDt7XI1IE-n00hfUjU_Rf2637oidCywjk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/w-s_7qXZ4oqDt7XI1IE-n00hfUjU_Rf2637oidCywjk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/w-s_7qXZ4oqDt7XI1IE-n00hfUjU_Rf2637oidCywjk.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QQ28002J",
+      "name": "< Hunter >",
+      "expLevel": 251,
+      "rank": 52,
+      "previousRank": 49,
+      "builderBaseTrophies": 5132,
+      "clan": {
+        "tag": "#9YCUR0UG",
+        "name": "Afg top",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FRM-pr7fVwMsSsg7qj-5KX4Yznw3oCq0I6H_zJuH00s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FRM-pr7fVwMsSsg7qj-5KX4Yznw3oCq0I6H_zJuH00s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FRM-pr7fVwMsSsg7qj-5KX4Yznw3oCq0I6H_zJuH00s.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2R8JLPVYU",
+      "name": "Chris",
+      "expLevel": 234,
+      "rank": 53,
+      "previousRank": 50,
+      "builderBaseTrophies": 5132,
+      "clan": {
+        "tag": "#PYJQ99PJ",
+        "name": "Farmerama Clan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#P99UPJ9UU",
+      "name": "Toff",
+      "expLevel": 226,
+      "rank": 54,
+      "previousRank": 51,
+      "builderBaseTrophies": 5130,
+      "clan": {
+        "tag": "#CGJCL20Y",
+        "name": "Toff warriors",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/o_mxPWWH5ZELapxNGI2oNBI_ScoQNhiK5P-rL23isvk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/o_mxPWWH5ZELapxNGI2oNBI_ScoQNhiK5P-rL23isvk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/o_mxPWWH5ZELapxNGI2oNBI_ScoQNhiK5P-rL23isvk.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QQ02PR8VL",
+      "name": "Askar",
+      "expLevel": 178,
+      "rank": 55,
+      "previousRank": 52,
+      "builderBaseTrophies": 5129,
+      "clan": {
+        "tag": "#JV98Y2UC",
+        "name": "ابطال سوريا",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FoeBKgf5I2Ow7tbVKhmqr9BDn1y0i-jXkQ8rMZaUr7g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FoeBKgf5I2Ow7tbVKhmqr9BDn1y0i-jXkQ8rMZaUr7g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FoeBKgf5I2Ow7tbVKhmqr9BDn1y0i-jXkQ8rMZaUr7g.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#92YUL8VYP",
+      "name": "J/H ﷼",
+      "expLevel": 214,
+      "rank": 56,
+      "previousRank": 55,
+      "builderBaseTrophies": 5125,
+      "clan": {
+        "tag": "#PGRVCL90",
+        "name": "salahshor",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8VCY82CJ",
+      "name": "Triple",
+      "expLevel": 304,
+      "rank": 57,
+      "previousRank": 53,
+      "builderBaseTrophies": 5125,
+      "clan": {
+        "tag": "#2VRGV8Y",
+        "name": "Falukorv",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PQPPPY0L",
+      "name": "jvi",
+      "expLevel": 203,
+      "rank": 58,
+      "previousRank": 54,
+      "builderBaseTrophies": 5125,
+      "clan": {
+        "tag": "#2QUY0CCL",
+        "name": "Svenska A Rump",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Vs_blw9UbuT3GwqOLI5uik_YhP_xlYhoxdAJFwuksZc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Vs_blw9UbuT3GwqOLI5uik_YhP_xlYhoxdAJFwuksZc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Vs_blw9UbuT3GwqOLI5uik_YhP_xlYhoxdAJFwuksZc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#GVRRGCYG",
+      "name": "stCharmes",
+      "expLevel": 218,
+      "rank": 59,
+      "previousRank": 57,
+      "builderBaseTrophies": 5119,
+      "clan": {
+        "tag": "#2G0LC0V9G",
+        "name": "made by sweden",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#P9RU0U988",
+      "name": "TheAlfox",
+      "expLevel": 203,
+      "rank": 60,
+      "previousRank": 58,
+      "builderBaseTrophies": 5118,
+      "clan": {
+        "tag": "#2LRCQUYR",
+        "name": "Original 3Lions",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Shk5Yf9qI8eTvh623n10kaLpA7TALvD3RCmnywt-frU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Shk5Yf9qI8eTvh623n10kaLpA7TALvD3RCmnywt-frU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Shk5Yf9qI8eTvh623n10kaLpA7TALvD3RCmnywt-frU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#CCJYVRGL",
+      "name": "ipponnukite",
+      "expLevel": 270,
+      "rank": 61,
+      "previousRank": 59,
+      "builderBaseTrophies": 5117,
+      "clan": {
+        "tag": "#8RG8QL2",
+        "name": "clan crossfit",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/OscKpo3KQ0Ii4j9otJvPLlGO4dz9CahFo-cnzZUGHPg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OscKpo3KQ0Ii4j9otJvPLlGO4dz9CahFo-cnzZUGHPg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OscKpo3KQ0Ii4j9otJvPLlGO4dz9CahFo-cnzZUGHPg.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2G9Q90YC",
+      "name": "Noah",
+      "expLevel": 262,
+      "rank": 62,
+      "previousRank": 61,
+      "builderBaseTrophies": 5114,
+      "clan": {
+        "tag": "#82VG9CQV",
+        "name": "swe ! no cw",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#89C2L0PJ",
+      "name": "sempan",
+      "expLevel": 232,
+      "rank": 63,
+      "previousRank": 62,
+      "builderBaseTrophies": 5113,
+      "clan": {
+        "tag": "#2L09PJU0Y",
+        "name": "SWEDEN 3",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PVGGCGPP",
+      "name": "Mr_pommes",
+      "expLevel": 236,
+      "rank": 64,
+      "previousRank": 64,
+      "builderBaseTrophies": 5111,
+      "clan": {
+        "tag": "#8CQU8LGV",
+        "name": "SweForce",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LLUP99YV",
+      "name": "Jassim",
+      "expLevel": 229,
+      "rank": 65,
+      "previousRank": 63,
+      "builderBaseTrophies": 5111,
+      "clan": {
+        "tag": "#22VQL920",
+        "name": "TOP QATAR",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/7Siliur18v1CGpXz2bnd3T6Dcenpw1PjWqIkzsVI3eo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/7Siliur18v1CGpXz2bnd3T6Dcenpw1PjWqIkzsVI3eo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/7Siliur18v1CGpXz2bnd3T6Dcenpw1PjWqIkzsVI3eo.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9QVYUQPYJ",
+      "name": "Марлен",
+      "expLevel": 215,
+      "rank": 66,
+      "previousRank": 65,
+      "builderBaseTrophies": 5109,
+      "clan": {
+        "tag": "#UCJ8Q0CL",
+        "name": "Лига убийц",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LUUQQ00C",
+      "name": "Haschmumriken",
+      "expLevel": 212,
+      "rank": 67,
+      "previousRank": 66,
+      "builderBaseTrophies": 5107,
+      "clan": {
+        "tag": "#2PLJ9CCQ8",
+        "name": "Kertzhörnan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UsE1MzOdUQOaKTHZlVRQkxQ-pI7gRfN4kLJmuh7gl1U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UsE1MzOdUQOaKTHZlVRQkxQ-pI7gRfN4kLJmuh7gl1U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UsE1MzOdUQOaKTHZlVRQkxQ-pI7gRfN4kLJmuh7gl1U.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LLCJP98Y",
+      "name": "poison black",
+      "expLevel": 236,
+      "rank": 68,
+      "previousRank": 67,
+      "builderBaseTrophies": 5106,
+      "clan": {
+        "tag": "#CRC0R2Q",
+        "name": "Arabian LOLers",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QLQ29G2VP",
+      "name": "Behemoth",
+      "expLevel": 207,
+      "rank": 69,
+      "previousRank": 68,
+      "builderBaseTrophies": 5104,
+      "clan": {
+        "tag": "#9RYG0C20",
+        "name": "Metal Heads",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YY0YQQ22P",
+      "name": "Титан",
+      "expLevel": 224,
+      "rank": 70,
+      "previousRank": 69,
+      "builderBaseTrophies": 5102,
+      "clan": {
+        "tag": "#2YQ9RQL2",
+        "name": "Муртаза",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/vKFhxZdHPDc2FleQwq48NzEoemmp5TuGql-WrDqP6ug.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/vKFhxZdHPDc2FleQwq48NzEoemmp5TuGql-WrDqP6ug.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/vKFhxZdHPDc2FleQwq48NzEoemmp5TuGql-WrDqP6ug.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#VCGCCYG",
+      "name": "Kokosmos",
+      "expLevel": 215,
+      "rank": 71,
+      "previousRank": 152,
+      "builderBaseTrophies": 5102,
+      "clan": {
+        "tag": "#PG0JCQ90",
+        "name": "Viatorum",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Oinh_vQluTd-m8wC7aisGzUZSaEj_Imnf9_jovEoEk4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Oinh_vQluTd-m8wC7aisGzUZSaEj_Imnf9_jovEoEk4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Oinh_vQluTd-m8wC7aisGzUZSaEj_Imnf9_jovEoEk4.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LJP8LRUV",
+      "name": "jake",
+      "expLevel": 255,
+      "rank": 72,
+      "previousRank": 56,
+      "builderBaseTrophies": 5101,
+      "clan": {
+        "tag": "#P8Y29JQR",
+        "name": "Vilohemmet",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zepjTrO6-ULKYW5nYTc-UKN81BplFlHU2iZIuen_SsU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zepjTrO6-ULKYW5nYTc-UKN81BplFlHU2iZIuen_SsU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zepjTrO6-ULKYW5nYTc-UKN81BplFlHU2iZIuen_SsU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QPPVUUQ2",
+      "name": "midnight hunter",
+      "expLevel": 210,
+      "rank": 73,
+      "previousRank": 71,
+      "builderBaseTrophies": 5098,
+      "clan": {
+        "tag": "#CPUQ9GCJ",
+        "name": "#KnightOfNight",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ooaJn0aChJwkobr4XFi5cN-mdpJO-62xQgvyZNFgxtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ooaJn0aChJwkobr4XFi5cN-mdpJO-62xQgvyZNFgxtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ooaJn0aChJwkobr4XFi5cN-mdpJO-62xQgvyZNFgxtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PL0V9U090",
+      "name": "JeppeBoiii",
+      "expLevel": 205,
+      "rank": 74,
+      "previousRank": 72,
+      "builderBaseTrophies": 5095,
+      "clan": {
+        "tag": "#2LG8VULQP",
+        "name": "Lava Hound",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#VGYYLQ8V",
+      "name": "#18JJ",
+      "expLevel": 211,
+      "rank": 75,
+      "previousRank": 139,
+      "builderBaseTrophies": 5094,
+      "clan": {
+        "tag": "#88Y8R0UV",
+        "name": "Sverigenr1",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LPCQ0JYQ",
+      "name": "Helmut",
+      "expLevel": 261,
+      "rank": 76,
+      "previousRank": 73,
+      "builderBaseTrophies": 5094,
+      "clan": {
+        "tag": "#290PGUJP",
+        "name": "SVENSKA HJÄLTAR",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Z7P6nCQ1FEK1GqOw9_D18m8AJF2xJF61aU46Jz8sQUs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Z7P6nCQ1FEK1GqOw9_D18m8AJF2xJF61aU46Jz8sQUs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Z7P6nCQ1FEK1GqOw9_D18m8AJF2xJF61aU46Jz8sQUs.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#P8R0GQRR",
+      "name": "Smydov",
+      "expLevel": 261,
+      "rank": 77,
+      "previousRank": 74,
+      "builderBaseTrophies": 5092,
+      "clan": {
+        "tag": "#29GPL98",
+        "name": "Clantskallarna",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YGQQCYYYR",
+      "name": "ARC⚡️Vesper",
+      "expLevel": 275,
+      "rank": 78,
+      "previousRank": 77,
+      "builderBaseTrophies": 5091,
+      "clan": {
+        "tag": "#2QG99YLU2",
+        "name": "The Architects",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/amDK6k1GPaB8kurPJBfDx97Jep5sOlznkuJHjHUq9nc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#U0PR89Y9",
+      "name": "G@B3",
+      "expLevel": 212,
+      "rank": 79,
+      "previousRank": 76,
+      "builderBaseTrophies": 5091,
+      "clan": {
+        "tag": "#90RRVQQ9",
+        "name": "Dampish crew",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/IJppAOZvwjAjX5RtKZ46jyC5xpt1DNG9Quuc1ZcfvLI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/IJppAOZvwjAjX5RtKZ46jyC5xpt1DNG9Quuc1ZcfvLI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/IJppAOZvwjAjX5RtKZ46jyC5xpt1DNG9Quuc1ZcfvLI.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LUVU09JJ",
+      "name": "AllSlowtwitch",
+      "expLevel": 277,
+      "rank": 80,
+      "previousRank": 75,
+      "builderBaseTrophies": 5091,
+      "clan": {
+        "tag": "#82VG9CQV",
+        "name": "swe ! no cw",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PPJLQUU2",
+      "name": "Nicko",
+      "expLevel": 240,
+      "rank": 81,
+      "previousRank": 78,
+      "builderBaseTrophies": 5089,
+      "clan": {
+        "tag": "#9LQ2PLJ2",
+        "name": "Svensk Standard",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#GG88JP29",
+      "name": "pontus",
+      "expLevel": 295,
+      "rank": 82,
+      "previousRank": 114,
+      "builderBaseTrophies": 5088,
+      "clan": {
+        "tag": "#82VG9CQV",
+        "name": "swe ! no cw",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QLJ2LV2L",
+      "name": "Special Brew",
+      "expLevel": 274,
+      "rank": 83,
+      "previousRank": 79,
+      "builderBaseTrophies": 5088,
+      "clan": {
+        "tag": "#2QGUPJGC9",
+        "name": "UK Old School",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JUGritYkouMFcpQAQN02hkotWzZ7-5s_ayDIH3CjAoU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JUGritYkouMFcpQAQN02hkotWzZ7-5s_ayDIH3CjAoU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JUGritYkouMFcpQAQN02hkotWzZ7-5s_ayDIH3CjAoU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QGGGR9PQP",
+      "name": "Theo",
+      "expLevel": 180,
+      "rank": 84,
+      "previousRank": 80,
+      "builderBaseTrophies": 5087,
+      "clan": {
+        "tag": "#299UJ29UP",
+        "name": "BD best",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Jj2a5gZ0-XjAHIeJKXM09U_d3d3HACXHSzfsIEzE7d8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Jj2a5gZ0-XjAHIeJKXM09U_d3d3HACXHSzfsIEzE7d8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Jj2a5gZ0-XjAHIeJKXM09U_d3d3HACXHSzfsIEzE7d8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#UYYUL90Y",
+      "name": "madmangemaniak",
+      "expLevel": 253,
+      "rank": 85,
+      "previousRank": 81,
+      "builderBaseTrophies": 5087,
+      "clan": {
+        "tag": "#8UL899YQ",
+        "name": "Svensk Senap",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JUGritYkouMFcpQAQN02hkotWzZ7-5s_ayDIH3CjAoU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JUGritYkouMFcpQAQN02hkotWzZ7-5s_ayDIH3CjAoU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JUGritYkouMFcpQAQN02hkotWzZ7-5s_ayDIH3CjAoU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#GYPUJU8P",
+      "name": "⚡️⚡️AndErs⚡️⚡️",
+      "expLevel": 260,
+      "rank": 86,
+      "previousRank": 82,
+      "builderBaseTrophies": 5087,
+      "clan": {
+        "tag": "#8UL899YQ",
+        "name": "Svensk Senap",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JUGritYkouMFcpQAQN02hkotWzZ7-5s_ayDIH3CjAoU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JUGritYkouMFcpQAQN02hkotWzZ7-5s_ayDIH3CjAoU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JUGritYkouMFcpQAQN02hkotWzZ7-5s_ayDIH3CjAoU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9YCPVJLV",
+      "name": "theo",
+      "expLevel": 211,
+      "rank": 87,
+      "previousRank": 83,
+      "builderBaseTrophies": 5086,
+      "clan": {
+        "tag": "#CUCU22V0",
+        "name": "Bunnings Snags",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eiTOeCkOEJF7mISschFggIjZ9UzxLDtRflV1A8lnJV4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eiTOeCkOEJF7mISschFggIjZ9UzxLDtRflV1A8lnJV4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eiTOeCkOEJF7mISschFggIjZ9UzxLDtRflV1A8lnJV4.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#RVYQJJCL",
+      "name": "sternelands",
+      "expLevel": 222,
+      "rank": 88,
+      "previousRank": 84,
+      "builderBaseTrophies": 5085,
+      "clan": {
+        "tag": "#99RUPVLY",
+        "name": "Swedish Outlaws",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YPY0QYYL",
+      "name": "SIGGE 07",
+      "expLevel": 223,
+      "rank": 89,
+      "previousRank": 86,
+      "builderBaseTrophies": 5084,
+      "clan": {
+        "tag": "#2GLCLGQRU",
+        "name": "Tolosa Nóstra 2",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0mIIvT1qMEwyYZIFEWCcGSfI0L3yixIp9ZlMPnZpHXg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0mIIvT1qMEwyYZIFEWCcGSfI0L3yixIp9ZlMPnZpHXg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0mIIvT1qMEwyYZIFEWCcGSfI0L3yixIp9ZlMPnZpHXg.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#UJ9Q2CYR",
+      "name": "Rob",
+      "expLevel": 259,
+      "rank": 90,
+      "previousRank": 85,
+      "builderBaseTrophies": 5084,
+      "clan": {
+        "tag": "#9RYG0C20",
+        "name": "Metal Heads",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#U9YJQUPR",
+      "name": "Tofas",
+      "expLevel": 215,
+      "rank": 91,
+      "previousRank": 87,
+      "builderBaseTrophies": 5084,
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PY0UCPQ88",
+      "name": "hesus",
+      "expLevel": 215,
+      "rank": 92,
+      "previousRank": 88,
+      "builderBaseTrophies": 5080,
+      "clan": {
+        "tag": "#2PCVCYGVC",
+        "name": "BABY YODA",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/YfoMqzFrfRgvOrag2LEC12H4TIPELv_FdmxYjwerkHE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/YfoMqzFrfRgvOrag2LEC12H4TIPELv_FdmxYjwerkHE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/YfoMqzFrfRgvOrag2LEC12H4TIPELv_FdmxYjwerkHE.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2GJR2GJ9Y",
+      "name": "Jonas",
+      "expLevel": 251,
+      "rank": 93,
+      "previousRank": 89,
+      "builderBaseTrophies": 5080,
+      "clan": {
+        "tag": "#2PPYCU2UQ",
+        "name": "Krigarna",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PP28GVRQP",
+      "name": "na",
+      "expLevel": 215,
+      "rank": 94,
+      "previousRank": 91,
+      "builderBaseTrophies": 5077,
+      "clan": {
+        "tag": "#2LC02LVY0",
+        "name": "DB Revolution",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/7C2SruGmxB83a_dspOpi3Qj_vqDswGzZzhh1O2GgfuM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/7C2SruGmxB83a_dspOpi3Qj_vqDswGzZzhh1O2GgfuM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/7C2SruGmxB83a_dspOpi3Qj_vqDswGzZzhh1O2GgfuM.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8YQPJYLJ",
+      "name": "Ppont_a",
+      "expLevel": 218,
+      "rank": 95,
+      "previousRank": 92,
+      "builderBaseTrophies": 5077,
+      "clan": {
+        "tag": "#2PGQJ9LCL",
+        "name": "ärevarefettQ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/8zYCCrBMh8UeQsF7ESLahyhZ29jEpZQ6zpAidtnGJ1g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/8zYCCrBMh8UeQsF7ESLahyhZ29jEpZQ6zpAidtnGJ1g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/8zYCCrBMh8UeQsF7ESLahyhZ29jEpZQ6zpAidtnGJ1g.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8VR88CPGP",
+      "name": "Karabau_017",
+      "expLevel": 221,
+      "rank": 96,
+      "previousRank": 96,
+      "builderBaseTrophies": 5076,
+      "clan": {
+        "tag": "#2PQCPQRR8",
+        "name": "ҰЛЫ ЖҮЗ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SYVA93oc2KmokhNnoNXDOMYkVL-58BrKnkEYEVkp6L8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SYVA93oc2KmokhNnoNXDOMYkVL-58BrKnkEYEVkp6L8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SYVA93oc2KmokhNnoNXDOMYkVL-58BrKnkEYEVkp6L8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2R00CPYP2",
+      "name": "yzblueforce",
+      "expLevel": 218,
+      "rank": 97,
+      "previousRank": 93,
+      "builderBaseTrophies": 5076,
+      "clan": {
+        "tag": "#2J829R2P8",
+        "name": "Arbetarklassen",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/vbTBkl1mNyvyzcaoEbFLi1uPAT4B6_SGTpYnTLiCte8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/vbTBkl1mNyvyzcaoEbFLi1uPAT4B6_SGTpYnTLiCte8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/vbTBkl1mNyvyzcaoEbFLi1uPAT4B6_SGTpYnTLiCte8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YGPJ9P09G",
+      "name": "Milda Milton",
+      "expLevel": 217,
+      "rank": 98,
+      "previousRank": 95,
+      "builderBaseTrophies": 5076,
+      "clan": {
+        "tag": "#28LV0JVYL",
+        "name": "SWE BEAST",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2RJ8CU2YJ",
+      "name": "αℓιαѕgнαя",
+      "expLevel": 249,
+      "rank": 99,
+      "previousRank": 94,
+      "builderBaseTrophies": 5076,
+      "clan": {
+        "tag": "#2GP99JCVJ",
+        "name": "REQ N REQ N GO",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fG8lVXQps8kelphi71OJGZcK53x_O9ibpAcw0XylqS4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fG8lVXQps8kelphi71OJGZcK53x_O9ibpAcw0XylqS4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fG8lVXQps8kelphi71OJGZcK53x_O9ibpAcw0XylqS4.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9P2VVPJP",
+      "name": "Mr Lurker jr",
+      "expLevel": 254,
+      "rank": 100,
+      "previousRank": 97,
+      "builderBaseTrophies": 5075,
+      "clan": {
+        "tag": "#UYP9G2J",
+        "name": "Gamereactor",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2YU20RGPL",
+      "name": "T.K.Baha",
+      "expLevel": 250,
+      "rank": 101,
+      "previousRank": 98,
+      "builderBaseTrophies": 5074,
+      "clan": {
+        "tag": "#29YLGVPPJ",
+        "name": "Sh?t Happens✌️",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/qdsDu69YuMUoxOV7zme6ewRVJFkePcTD-DSlf8H-ekw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/qdsDu69YuMUoxOV7zme6ewRVJFkePcTD-DSlf8H-ekw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/qdsDu69YuMUoxOV7zme6ewRVJFkePcTD-DSlf8H-ekw.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#L8YR0GGP",
+      "name": "1971",
+      "expLevel": 247,
+      "rank": 102,
+      "previousRank": 99,
+      "builderBaseTrophies": 5074,
+      "clan": {
+        "tag": "#UYP9G2J",
+        "name": "Gamereactor",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2RUGP9YU",
+      "name": "@#m4d",
+      "expLevel": 253,
+      "rank": 103,
+      "previousRank": 101,
+      "builderBaseTrophies": 5073,
+      "clan": {
+        "tag": "#2QPJV2RCR",
+        "name": "The Crew • Swe",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/CA5Wbb0u_guAvM00fbdx8qUclAK9Z-Wq09UZu6VEaIU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#RUR080P2",
+      "name": "Petter",
+      "expLevel": 208,
+      "rank": 104,
+      "previousRank": 100,
+      "builderBaseTrophies": 5073,
+      "clan": {
+        "tag": "#2QJ902QLY",
+        "name": "AAM",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/o_mxPWWH5ZELapxNGI2oNBI_ScoQNhiK5P-rL23isvk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/o_mxPWWH5ZELapxNGI2oNBI_ScoQNhiK5P-rL23isvk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/o_mxPWWH5ZELapxNGI2oNBI_ScoQNhiK5P-rL23isvk.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PGJY0P9P2",
+      "name": "VS Idk",
+      "expLevel": 212,
+      "rank": 105,
+      "previousRank": 103,
+      "builderBaseTrophies": 5072,
+      "clan": {
+        "tag": "#2QYYGRP8Y",
+        "name": "UptownerS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/agr1Cy6wuAwSSGkLpZT18aUem8PnLb7ZU1Df_KAS2tU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/agr1Cy6wuAwSSGkLpZT18aUem8PnLb7ZU1Df_KAS2tU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/agr1Cy6wuAwSSGkLpZT18aUem8PnLb7ZU1Df_KAS2tU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LLLUVJCVQ",
+      "name": "Mr. Train",
+      "expLevel": 225,
+      "rank": 106,
+      "previousRank": 102,
+      "builderBaseTrophies": 5072,
+      "clan": {
+        "tag": "#2J9CY0Q8G",
+        "name": "knarpus",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2QQVP29Y",
+      "name": "TWISTER",
+      "expLevel": 230,
+      "rank": 107,
+      "previousRank": 104,
+      "builderBaseTrophies": 5071,
+      "clan": {
+        "tag": "#2Q9VP8PU9",
+        "name": "elit svenskar",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cYa6tY8bEra1LYpS6J0oyQr2VybusulKdi2dyBBD38k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cYa6tY8bEra1LYpS6J0oyQr2VybusulKdi2dyBBD38k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cYa6tY8bEra1LYpS6J0oyQr2VybusulKdi2dyBBD38k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#CVV2VRV0",
+      "name": "Filip The Beast",
+      "expLevel": 219,
+      "rank": 108,
+      "previousRank": 105,
+      "builderBaseTrophies": 5070,
+      "clan": {
+        "tag": "#28PVQ9J2",
+        "name": "LionsOfSwe",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2YCPPRC8",
+      "name": "viking",
+      "expLevel": 237,
+      "rank": 109,
+      "previousRank": 106,
+      "builderBaseTrophies": 5070,
+      "clan": {
+        "tag": "#PGRVRLLU",
+        "name": "Order in Chaos",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LY9C0LLGR",
+      "name": "anton",
+      "expLevel": 195,
+      "rank": 110,
+      "previousRank": 107,
+      "builderBaseTrophies": 5069,
+      "clan": {
+        "tag": "#2YLCJY8CQ",
+        "name": "Brödraskapet",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#22YLP99L0",
+      "name": "HugoAlmgren",
+      "expLevel": 229,
+      "rank": 111,
+      "previousRank": 108,
+      "builderBaseTrophies": 5069,
+      "clan": {
+        "tag": "#2GUQ2R99R",
+        "name": "Lejonen",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2VRGRRRC",
+      "name": "Lillmastr",
+      "expLevel": 236,
+      "rank": 112,
+      "previousRank": 109,
+      "builderBaseTrophies": 5067,
+      "clan": {
+        "tag": "#YQYU0CP9",
+        "name": "Prinskorv",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8YURG29Y",
+      "name": "Gabbe_123",
+      "expLevel": 244,
+      "rank": 113,
+      "previousRank": 110,
+      "builderBaseTrophies": 5066,
+      "clan": {
+        "tag": "#9RUVGP9G",
+        "name": "SWEnsk Elite cw",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9LLUUGPR",
+      "name": "weehe",
+      "expLevel": 287,
+      "rank": 114,
+      "previousRank": 111,
+      "builderBaseTrophies": 5065,
+      "clan": {
+        "tag": "#2VRGV8Y",
+        "name": "Falukorv",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PJ29YURRJ",
+      "name": "KalleW",
+      "expLevel": 245,
+      "rank": 115,
+      "previousRank": 112,
+      "builderBaseTrophies": 5065,
+      "clan": {
+        "tag": "#2PPVY8UV8",
+        "name": "swe clan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Yafe6MmAlMuwti0JKKcQJWJVHRCL9_FfKpVZJJD-xZs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Yafe6MmAlMuwti0JKKcQJWJVHRCL9_FfKpVZJJD-xZs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Yafe6MmAlMuwti0JKKcQJWJVHRCL9_FfKpVZJJD-xZs.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2YVJPGYY",
+      "name": "Savo",
+      "expLevel": 217,
+      "rank": 116,
+      "previousRank": 220,
+      "builderBaseTrophies": 5064,
+      "clan": {
+        "tag": "#2LQGJVRCQ",
+        "name": "BärsärkSverige",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#CUPQVP90",
+      "name": "Von Avi",
+      "expLevel": 232,
+      "rank": 117,
+      "previousRank": 119,
+      "builderBaseTrophies": 5063,
+      "clan": {
+        "tag": "#2G88CRJPR",
+        "name": "RUSH MODE 2.0",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/f6Yglz_HpPjYzfVEgnowYO5L4EjNR3buOu32Pw5a0SI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/f6Yglz_HpPjYzfVEgnowYO5L4EjNR3buOu32Pw5a0SI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/f6Yglz_HpPjYzfVEgnowYO5L4EjNR3buOu32Pw5a0SI.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QV08VL0U0",
+      "name": "Gaston",
+      "expLevel": 220,
+      "rank": 118,
+      "previousRank": 113,
+      "builderBaseTrophies": 5063,
+      "clan": {
+        "tag": "#29JVUYU88",
+        "name": "BEAST",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Rt-XKPJE0MNcfDj4uhBiDE1bM8a_8U8V3QvpLEBI_ww.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Rt-XKPJE0MNcfDj4uhBiDE1bM8a_8U8V3QvpLEBI_ww.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Rt-XKPJE0MNcfDj4uhBiDE1bM8a_8U8V3QvpLEBI_ww.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PYGC09GCJ",
+      "name": "skillman",
+      "expLevel": 175,
+      "rank": 119,
+      "previousRank": 180,
+      "builderBaseTrophies": 5063,
+      "clan": {
+        "tag": "#8RC2GYCJ",
+        "name": "Warsaw Faction",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/IuD30W8lcoKfT3JwrVAesVApTmgMTPaNCJakp5FaaR4.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2RLY8JC82",
+      "name": "somal",
+      "expLevel": 263,
+      "rank": 120,
+      "previousRank": 115,
+      "builderBaseTrophies": 5063,
+      "clan": {
+        "tag": "#20PV08V",
+        "name": "SWEDEN ARMY",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LCP2CGUR",
+      "name": "simon122",
+      "expLevel": 280,
+      "rank": 121,
+      "previousRank": 116,
+      "builderBaseTrophies": 5062,
+      "clan": {
+        "tag": "#P8Y29JQR",
+        "name": "Vilohemmet",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zepjTrO6-ULKYW5nYTc-UKN81BplFlHU2iZIuen_SsU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zepjTrO6-ULKYW5nYTc-UKN81BplFlHU2iZIuen_SsU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zepjTrO6-ULKYW5nYTc-UKN81BplFlHU2iZIuen_SsU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QPJUJRJJ8",
+      "name": "Kraken",
+      "expLevel": 212,
+      "rank": 122,
+      "previousRank": 117,
+      "builderBaseTrophies": 5061,
+      "clan": {
+        "tag": "#20PJ09L0",
+        "name": "RisingFenix™",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/kgK0jc04dM9UHn56N7KctM44c_Or4ZSkzA1XOqURheY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/kgK0jc04dM9UHn56N7KctM44c_Or4ZSkzA1XOqURheY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/kgK0jc04dM9UHn56N7KctM44c_Or4ZSkzA1XOqURheY.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#Y2QP28VY",
+      "name": "Feilan",
+      "expLevel": 275,
+      "rank": 123,
+      "previousRank": 118,
+      "builderBaseTrophies": 5060,
+      "clan": {
+        "tag": "#2GVGQUGR",
+        "name": "HappySwedes",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6WICn9hmiGlp81plBlXxxzTgyEz0AbmT6K0y_jw4r7g.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QJ2G2292",
+      "name": "jäk",
+      "expLevel": 254,
+      "rank": 124,
+      "previousRank": 120,
+      "builderBaseTrophies": 5059,
+      "clan": {
+        "tag": "#2V28YQLG",
+        "name": "Nike Factory",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/AQ8MdqQfBJiCQmVTrwahdGYHvxAZ4We6kYyqTKrN64Q.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/AQ8MdqQfBJiCQmVTrwahdGYHvxAZ4We6kYyqTKrN64Q.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/AQ8MdqQfBJiCQmVTrwahdGYHvxAZ4We6kYyqTKrN64Q.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#G0G8QJGV0",
+      "name": "Tjuno",
+      "expLevel": 178,
+      "rank": 125,
+      "previousRank": 122,
+      "builderBaseTrophies": 5058,
+      "clan": {
+        "tag": "#2RRC08RRG",
+        "name": "Flash",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/tutOBJwIJHwFwfS343pOvADDPiK0twIBISFCg67TK9Q.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/tutOBJwIJHwFwfS343pOvADDPiK0twIBISFCg67TK9Q.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/tutOBJwIJHwFwfS343pOvADDPiK0twIBISFCg67TK9Q.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#L8G0RR9",
+      "name": "steniswille",
+      "expLevel": 222,
+      "rank": 126,
+      "previousRank": 123,
+      "builderBaseTrophies": 5057,
+      "clan": {
+        "tag": "#8J29C",
+        "name": "The Towers",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FDwK67NjcQZcOR9OBlqOkx0YjvF2X1pHhVAcdjZMj8Y.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#89QJCRCGV",
+      "name": "ХАН",
+      "expLevel": 249,
+      "rank": 127,
+      "previousRank": 124,
+      "builderBaseTrophies": 5055,
+      "clan": {
+        "tag": "#2YL0GLPLP",
+        "name": "KAZ PLAYERS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ntUwhCl_OD6rpUkHITP7Aa9ppiqiaH9h6aJR2kBG8sk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ntUwhCl_OD6rpUkHITP7Aa9ppiqiaH9h6aJR2kBG8sk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ntUwhCl_OD6rpUkHITP7Aa9ppiqiaH9h6aJR2kBG8sk.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QUYR2Q8JQ",
+      "name": "Anakins armé",
+      "expLevel": 214,
+      "rank": 128,
+      "previousRank": 125,
+      "builderBaseTrophies": 5055,
+      "clan": {
+        "tag": "#2YQ2G9RL2",
+        "name": "sverige",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YCG8G0U92",
+      "name": "mini Axel",
+      "expLevel": 221,
+      "rank": 129,
+      "previousRank": 126,
+      "builderBaseTrophies": 5055,
+      "clan": {
+        "tag": "#LPRYLL2",
+        "name": "bert",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nlo6Jvo2BeZ_W6QQlDmwo1_SIhjFce9gdOah2UehX6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nlo6Jvo2BeZ_W6QQlDmwo1_SIhjFce9gdOah2UehX6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nlo6Jvo2BeZ_W6QQlDmwo1_SIhjFce9gdOah2UehX6c.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9LC9YVLCV",
+      "name": "GGG",
+      "expLevel": 207,
+      "rank": 130,
+      "previousRank": 128,
+      "builderBaseTrophies": 5054,
+      "clan": {
+        "tag": "#89CC9CQY",
+        "name": "infinityArchers",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Ha7GqnHoMWJpwlF03t-T73lpPF3zviJeh09-h8QT7Lg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Ha7GqnHoMWJpwlF03t-T73lpPF3zviJeh09-h8QT7Lg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Ha7GqnHoMWJpwlF03t-T73lpPF3zviJeh09-h8QT7Lg.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YQYLYJURU",
+      "name": "King07",
+      "expLevel": 214,
+      "rank": 131,
+      "previousRank": 127,
+      "builderBaseTrophies": 5054,
+      "clan": {
+        "tag": "#2P80L0GPR",
+        "name": "AVENGERS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ny-vo8DRxjkG-UIm0MqAF6xYYo2_phbeZjfHD82RXlY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ny-vo8DRxjkG-UIm0MqAF6xYYo2_phbeZjfHD82RXlY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ny-vo8DRxjkG-UIm0MqAF6xYYo2_phbeZjfHD82RXlY.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9UCY2Q9JJ",
+      "name": "Dcd",
+      "expLevel": 245,
+      "rank": 132,
+      "previousRank": 129,
+      "builderBaseTrophies": 5054,
+      "clan": {
+        "tag": "#C2YRCC09",
+        "name": "TheBigGunz",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9CbTwqsGl3_tzd7N4Gt5Mgqq3VcRTc9ejjAdMuCDhMI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9CbTwqsGl3_tzd7N4Gt5Mgqq3VcRTc9ejjAdMuCDhMI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9CbTwqsGl3_tzd7N4Gt5Mgqq3VcRTc9ejjAdMuCDhMI.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8G92YQLG",
+      "name": "dixter",
+      "expLevel": 221,
+      "rank": 133,
+      "previousRank": 130,
+      "builderBaseTrophies": 5053,
+      "clan": {
+        "tag": "#PYV09JV0",
+        "name": "HAMMARBY A-LAG",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/UsE1MzOdUQOaKTHZlVRQkxQ-pI7gRfN4kLJmuh7gl1U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/UsE1MzOdUQOaKTHZlVRQkxQ-pI7gRfN4kLJmuh7gl1U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/UsE1MzOdUQOaKTHZlVRQkxQ-pI7gRfN4kLJmuh7gl1U.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YCG0JUJV",
+      "name": "Sydsvenskan੨",
+      "expLevel": 214,
+      "rank": 134,
+      "previousRank": 131,
+      "builderBaseTrophies": 5052,
+      "clan": {
+        "tag": "#2YLCJY8CQ",
+        "name": "Brödraskapet",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9YGVYU2VG",
+      "name": "Геракл",
+      "expLevel": 252,
+      "rank": 135,
+      "previousRank": 176,
+      "builderBaseTrophies": 5052,
+      "clan": {
+        "tag": "#J9R9UQGV",
+        "name": "Alakol KZ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9JQQ8008",
+      "name": "marquezez",
+      "expLevel": 254,
+      "rank": 136,
+      "previousRank": 134,
+      "builderBaseTrophies": 5051,
+      "clan": {
+        "tag": "#P00YVGPU",
+        "name": "Apberget",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/u1O0QEYDF2l8_mjAgC_c7VRkM2dLR2SiphG3BgycASM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/u1O0QEYDF2l8_mjAgC_c7VRkM2dLR2SiphG3BgycASM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/u1O0QEYDF2l8_mjAgC_c7VRkM2dLR2SiphG3BgycASM.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QYULUQQG",
+      "name": "⚡️Zzeus⚡️",
+      "expLevel": 234,
+      "rank": 137,
+      "previousRank": 133,
+      "builderBaseTrophies": 5051,
+      "clan": {
+        "tag": "#R2YU8QRR",
+        "name": "Radiant Squad",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/68Wc6eaIEixIxnyUshUOQjutHtLuTtiQLzYWrY9yGN0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/68Wc6eaIEixIxnyUshUOQjutHtLuTtiQLzYWrY9yGN0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/68Wc6eaIEixIxnyUshUOQjutHtLuTtiQLzYWrY9yGN0.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YQVQYU8V",
+      "name": "AdiBeg",
+      "expLevel": 239,
+      "rank": 138,
+      "previousRank": 135,
+      "builderBaseTrophies": 5051,
+      "clan": {
+        "tag": "#CVLVLUL",
+        "name": "Gay Allstars",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/icA6o0_94mwHE06txlT7Ti1SkCdJjKt2tm3lmQxg6yI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/icA6o0_94mwHE06txlT7Ti1SkCdJjKt2tm3lmQxg6yI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/icA6o0_94mwHE06txlT7Ti1SkCdJjKt2tm3lmQxg6yI.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2QVUJJJGU",
+      "name": "mmm",
+      "expLevel": 219,
+      "rank": 139,
+      "previousRank": 136,
+      "builderBaseTrophies": 5051,
+      "clan": {
+        "tag": "#29YGUV8CL",
+        "name": "Väntans Tider",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PJYY9VV0",
+      "name": "kheo",
+      "expLevel": 217,
+      "rank": 140,
+      "previousRank": 137,
+      "builderBaseTrophies": 5051,
+      "clan": {
+        "tag": "#2YQGLQ0R8",
+        "name": "BAKE TF",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nlo6Jvo2BeZ_W6QQlDmwo1_SIhjFce9gdOah2UehX6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nlo6Jvo2BeZ_W6QQlDmwo1_SIhjFce9gdOah2UehX6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nlo6Jvo2BeZ_W6QQlDmwo1_SIhjFce9gdOah2UehX6c.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QCCJV2QY",
+      "name": "samsah",
+      "expLevel": 283,
+      "rank": 141,
+      "previousRank": 138,
+      "builderBaseTrophies": 5049,
+      "clan": {
+        "tag": "#20UV2GLR",
+        "name": "SWE ANGELS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8GRRCQYQ",
+      "name": "playNice",
+      "expLevel": 216,
+      "rank": 142,
+      "previousRank": 195,
+      "builderBaseTrophies": 5049,
+      "clan": {
+        "tag": "#2YR029YLC",
+        "name": "GlobalForce-100",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/qKf1UVr4_Ljd4aKYaz-No_l7vkD741R_tih6XwP8Czo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/qKf1UVr4_Ljd4aKYaz-No_l7vkD741R_tih6XwP8Czo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/qKf1UVr4_Ljd4aKYaz-No_l7vkD741R_tih6XwP8Czo.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LP2YG8GLQ",
+      "name": "Sellis",
+      "expLevel": 236,
+      "rank": 143,
+      "previousRank": 140,
+      "builderBaseTrophies": 5048,
+      "clan": {
+        "tag": "#V2GYGPGY",
+        "name": "#1 Squad",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jA0A1-BAutiOTM9fWQbKkXZMCteT8NswDo_QW1TSnIk.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#GL8GQC2GP",
+      "name": "Alle",
+      "expLevel": 174,
+      "rank": 144,
+      "previousRank": 486,
+      "builderBaseTrophies": 5048,
+      "clan": {
+        "tag": "#2RY9YC0GC",
+        "name": "100 Gubbarna",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3BhL3JPqzF-UGhbY8ddbbBPbcrsPWSZ7jevXoRLzPqw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3BhL3JPqzF-UGhbY8ddbbBPbcrsPWSZ7jevXoRLzPqw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3BhL3JPqzF-UGhbY8ddbbBPbcrsPWSZ7jevXoRLzPqw.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8GCLV9JC9",
+      "name": "Hotdog45TH mini",
+      "expLevel": 246,
+      "rank": 145,
+      "previousRank": 143,
+      "builderBaseTrophies": 5047,
+      "clan": {
+        "tag": "#LJLRLQJ",
+        "name": "Sweden",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Z7P6nCQ1FEK1GqOw9_D18m8AJF2xJF61aU46Jz8sQUs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Z7P6nCQ1FEK1GqOw9_D18m8AJF2xJF61aU46Jz8sQUs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Z7P6nCQ1FEK1GqOw9_D18m8AJF2xJF61aU46Jz8sQUs.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#L8QUCGGYR",
+      "name": "Battleaxe II",
+      "expLevel": 243,
+      "rank": 146,
+      "previousRank": 141,
+      "builderBaseTrophies": 5047,
+      "clan": {
+        "tag": "#PJJ08U92",
+        "name": "Adult",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/7YRC0kPUshqcfUpIvd59y8xMSdTSIyikyoUI85MyOHY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/7YRC0kPUshqcfUpIvd59y8xMSdTSIyikyoUI85MyOHY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/7YRC0kPUshqcfUpIvd59y8xMSdTSIyikyoUI85MyOHY.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#J0U00LPU",
+      "name": "mahmoud",
+      "expLevel": 233,
+      "rank": 147,
+      "previousRank": 142,
+      "builderBaseTrophies": 5047,
+      "clan": {
+        "tag": "#JL2YUY2G",
+        "name": "AVENGERS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FRM-pr7fVwMsSsg7qj-5KX4Yznw3oCq0I6H_zJuH00s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FRM-pr7fVwMsSsg7qj-5KX4Yznw3oCq0I6H_zJuH00s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FRM-pr7fVwMsSsg7qj-5KX4Yznw3oCq0I6H_zJuH00s.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#89C9Y929L",
+      "name": "J A I C K",
+      "expLevel": 247,
+      "rank": 148,
+      "previousRank": 144,
+      "builderBaseTrophies": 5047,
+      "clan": {
+        "tag": "#LRPJYJG0",
+        "name": "Afg makroyanboy",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ITMHqKCB5FrsQsChyzeA3ZQyUUht4mYShfeIPIiiiug.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ITMHqKCB5FrsQsChyzeA3ZQyUUht4mYShfeIPIiiiug.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ITMHqKCB5FrsQsChyzeA3ZQyUUht4mYShfeIPIiiiug.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LJQJVYPLC",
+      "name": "Folopes",
+      "expLevel": 244,
+      "rank": 149,
+      "previousRank": 146,
+      "builderBaseTrophies": 5047,
+      "clan": {
+        "tag": "#2JVQ280V",
+        "name": "Fältherrar",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zepjTrO6-ULKYW5nYTc-UKN81BplFlHU2iZIuen_SsU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zepjTrO6-ULKYW5nYTc-UKN81BplFlHU2iZIuen_SsU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zepjTrO6-ULKYW5nYTc-UKN81BplFlHU2iZIuen_SsU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9PY9JGV20",
+      "name": "Fiskfot",
+      "expLevel": 229,
+      "rank": 150,
+      "previousRank": 172,
+      "builderBaseTrophies": 5046,
+      "clan": {
+        "tag": "#QPPPYU2Q",
+        "name": "berg",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9RP08LVQ",
+      "name": "Axeledstrm",
+      "expLevel": 265,
+      "rank": 151,
+      "previousRank": 149,
+      "builderBaseTrophies": 5045,
+      "clan": {
+        "tag": "#2QUUR2C9",
+        "name": "B1eeding Hearts",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/XJC9r4bMfN6Lu4cCXVZ_d1F7KpUPwt-M6c6XXX3ZReE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/XJC9r4bMfN6Lu4cCXVZ_d1F7KpUPwt-M6c6XXX3ZReE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/XJC9r4bMfN6Lu4cCXVZ_d1F7KpUPwt-M6c6XXX3ZReE.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2C9YU8U0",
+      "name": "Trollet",
+      "expLevel": 259,
+      "rank": 152,
+      "previousRank": 148,
+      "builderBaseTrophies": 5045,
+      "clan": {
+        "tag": "#2PG8LLUVL",
+        "name": "Kings castle",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pG_Bra5X69OUSae2lYf0D1fBt9hBIoPG9ciQW6G2TUs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pG_Bra5X69OUSae2lYf0D1fBt9hBIoPG9ciQW6G2TUs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pG_Bra5X69OUSae2lYf0D1fBt9hBIoPG9ciQW6G2TUs.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8U8YY8GQY",
+      "name": "Тимур",
+      "expLevel": 216,
+      "rank": 153,
+      "previousRank": 150,
+      "builderBaseTrophies": 5044,
+      "clan": {
+        "tag": "#289GJ9VQ",
+        "name": "class.uz",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zq2i8CKKaJvoLMl4VecipmCewASxzYBJC6d9vL0j8a0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zq2i8CKKaJvoLMl4VecipmCewASxzYBJC6d9vL0j8a0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zq2i8CKKaJvoLMl4VecipmCewASxzYBJC6d9vL0j8a0.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#RCRUY809",
+      "name": "aggemannen",
+      "expLevel": 219,
+      "rank": 154,
+      "previousRank": 151,
+      "builderBaseTrophies": 5044,
+      "clan": {
+        "tag": "#2Q2Q0YVY",
+        "name": "Svea af d bästa",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#28P8JGY80",
+      "name": "Eatyou",
+      "expLevel": 280,
+      "rank": 155,
+      "previousRank": 153,
+      "builderBaseTrophies": 5043,
+      "clan": {
+        "tag": "#2VRGV8Y",
+        "name": "Falukorv",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#Q28UGCCR",
+      "name": "取月❤️sebu",
+      "expLevel": 256,
+      "rank": 156,
+      "previousRank": 154,
+      "builderBaseTrophies": 5042,
+      "clan": {
+        "tag": "#YJ928JL",
+        "name": "SWElite",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YLPVQJ9V8",
+      "name": "Fillefile",
+      "expLevel": 205,
+      "rank": 157,
+      "previousRank": 155,
+      "builderBaseTrophies": 5042,
+      "clan": {
+        "tag": "#2LR8YQGUC",
+        "name": "Helsingborg 2",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/-JLZy7Ok79_GXFWhdNLhNAwuQd2a1Yd3yFyLS4ftst0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/-JLZy7Ok79_GXFWhdNLhNAwuQd2a1Yd3yFyLS4ftst0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/-JLZy7Ok79_GXFWhdNLhNAwuQd2a1Yd3yFyLS4ftst0.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9G82YP0U",
+      "name": "Elliot Lindblom",
+      "expLevel": 261,
+      "rank": 158,
+      "previousRank": 179,
+      "builderBaseTrophies": 5041,
+      "clan": {
+        "tag": "#PGRJCGVP",
+        "name": "Old Hogs",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cpz9Cy2JKOxf_U8sbHzvNloYf4q2wYlFuXLZasjurLI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cpz9Cy2JKOxf_U8sbHzvNloYf4q2wYlFuXLZasjurLI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cpz9Cy2JKOxf_U8sbHzvNloYf4q2wYlFuXLZasjurLI.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#L9GRGLLY",
+      "name": "Fredde",
+      "expLevel": 238,
+      "rank": 159,
+      "previousRank": 156,
+      "builderBaseTrophies": 5040,
+      "clan": {
+        "tag": "#2GGQ2UG",
+        "name": "BlåMärket",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/e2y9RfFIg6mSnPEvuDHA6xdmODTTrvNut6K37Tr5_kY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/e2y9RfFIg6mSnPEvuDHA6xdmODTTrvNut6K37Tr5_kY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/e2y9RfFIg6mSnPEvuDHA6xdmODTTrvNut6K37Tr5_kY.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2RPJR9JQG",
+      "name": "Sam",
+      "expLevel": 211,
+      "rank": 160,
+      "previousRank": 256,
+      "builderBaseTrophies": 5039,
+      "clan": {
+        "tag": "#2LQLP2VLY",
+        "name": "Maveric Legends",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/OsF88NUmuAGzN7ekTf3QNQUjLy_k1X8S60E2GyxaGjo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OsF88NUmuAGzN7ekTf3QNQUjLy_k1X8S60E2GyxaGjo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OsF88NUmuAGzN7ekTf3QNQUjLy_k1X8S60E2GyxaGjo.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LJQRCCQVR",
+      "name": "wahid",
+      "expLevel": 218,
+      "rank": 161,
+      "previousRank": 158,
+      "builderBaseTrophies": 5039,
+      "clan": {
+        "tag": "#RJVRVQUJ",
+        "name": "مدار بسته",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/EVbWpgRMFF8UE2j-mnxnhqLmiuFzQPJhjEhdLa874ZU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/EVbWpgRMFF8UE2j-mnxnhqLmiuFzQPJhjEhdLa874ZU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/EVbWpgRMFF8UE2j-mnxnhqLmiuFzQPJhjEhdLa874ZU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8YLCURYG",
+      "name": "CHIEF",
+      "expLevel": 220,
+      "rank": 162,
+      "previousRank": 159,
+      "builderBaseTrophies": 5039,
+      "clan": {
+        "tag": "#YVCYY9C9",
+        "name": "CHIEF'S",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xUo2kMu1WXvJWD3UCP4xxKs23-EIfz2TCiXmSnkRUTY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xUo2kMu1WXvJWD3UCP4xxKs23-EIfz2TCiXmSnkRUTY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xUo2kMu1WXvJWD3UCP4xxKs23-EIfz2TCiXmSnkRUTY.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2Y80VPVGC",
+      "name": "Kyan",
+      "expLevel": 223,
+      "rank": 163,
+      "previousRank": 160,
+      "builderBaseTrophies": 5038,
+      "clan": {
+        "tag": "#2PGYV9UV2",
+        "name": "EL-WARIORS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/wbt018oDyvtEq6JHgNkBHDj_AXaXcNd4t4ai3hyU9yw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/wbt018oDyvtEq6JHgNkBHDj_AXaXcNd4t4ai3hyU9yw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/wbt018oDyvtEq6JHgNkBHDj_AXaXcNd4t4ai3hyU9yw.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YCRYV8PJP",
+      "name": "Spinotyrannus",
+      "expLevel": 197,
+      "rank": 164,
+      "previousRank": 161,
+      "builderBaseTrophies": 5038,
+      "clan": {
+        "tag": "#L0G20LRL",
+        "name": "TheLastOfUs",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/T2sx5ii7mDfjEecwjhHK-3udlKsPbksrhmfVRZanzHQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/T2sx5ii7mDfjEecwjhHK-3udlKsPbksrhmfVRZanzHQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/T2sx5ii7mDfjEecwjhHK-3udlKsPbksrhmfVRZanzHQ.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#G2J0YRV9",
+      "name": "GUTTORM",
+      "expLevel": 313,
+      "rank": 165,
+      "previousRank": 162,
+      "builderBaseTrophies": 5037,
+      "clan": {
+        "tag": "#VG0VUVYP",
+        "name": "REQ AND LEAVE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/GlqzQptxPseSHrgu8R_I45nJdCxyQvGMaybHCIlMLsA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/GlqzQptxPseSHrgu8R_I45nJdCxyQvGMaybHCIlMLsA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/GlqzQptxPseSHrgu8R_I45nJdCxyQvGMaybHCIlMLsA.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#Q80V28RGJ",
+      "name": "Omega",
+      "expLevel": 216,
+      "rank": 166,
+      "previousRank": 173,
+      "builderBaseTrophies": 5037,
+      "clan": {
+        "tag": "#2L9ULG9QL",
+        "name": "swe C of C",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#Y02LV2QL",
+      "name": "PP Snooze",
+      "expLevel": 269,
+      "rank": 167,
+      "previousRank": 163,
+      "builderBaseTrophies": 5037,
+      "clan": {
+        "tag": "#LPRYLL2",
+        "name": "bert",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nlo6Jvo2BeZ_W6QQlDmwo1_SIhjFce9gdOah2UehX6c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nlo6Jvo2BeZ_W6QQlDmwo1_SIhjFce9gdOah2UehX6c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nlo6Jvo2BeZ_W6QQlDmwo1_SIhjFce9gdOah2UehX6c.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#PQP2UP0P",
+      "name": "Aker...",
+      "expLevel": 158,
+      "rank": 168,
+      "previousRank": 164,
+      "builderBaseTrophies": 5036,
+      "clan": {
+        "tag": "#RVLY90CY",
+        "name": "Tjong..",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JIPeBGuiTi9IQX4UNVNs_Lh7Is5zijVatMSw6OQFhWE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JIPeBGuiTi9IQX4UNVNs_Lh7Is5zijVatMSw6OQFhWE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JIPeBGuiTi9IQX4UNVNs_Lh7Is5zijVatMSw6OQFhWE.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8RP0JQY8V",
+      "name": "MaJa",
+      "expLevel": 225,
+      "rank": 169,
+      "previousRank": 145,
+      "builderBaseTrophies": 5035,
+      "clan": {
+        "tag": "#YG2VQV2J",
+        "name": "Vargmust",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nZ-pAKmsrZQ03w02y844xJEeXHAaPkcyX9HgfIhvCLU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nZ-pAKmsrZQ03w02y844xJEeXHAaPkcyX9HgfIhvCLU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nZ-pAKmsrZQ03w02y844xJEeXHAaPkcyX9HgfIhvCLU.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#20LVQYJU",
+      "name": "hanniv",
+      "expLevel": 229,
+      "rank": 170,
+      "previousRank": 168,
+      "builderBaseTrophies": 5034,
+      "clan": {
+        "tag": "#2QQR8YJVQ",
+        "name": "SWE Lajka",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YC0PJQ0Q",
+      "name": "marcus98",
+      "expLevel": 279,
+      "rank": 171,
+      "previousRank": 165,
+      "builderBaseTrophies": 5034,
+      "clan": {
+        "tag": "#YL00C2Q",
+        "name": "DIF",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/u1O0QEYDF2l8_mjAgC_c7VRkM2dLR2SiphG3BgycASM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/u1O0QEYDF2l8_mjAgC_c7VRkM2dLR2SiphG3BgycASM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/u1O0QEYDF2l8_mjAgC_c7VRkM2dLR2SiphG3BgycASM.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#LRP92PQY",
+      "name": "Aldvar",
+      "expLevel": 258,
+      "rank": 172,
+      "previousRank": 167,
+      "builderBaseTrophies": 5034,
+      "clan": {
+        "tag": "#82VG9CQV",
+        "name": "swe ! no cw",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2QUY09CJ",
+      "name": "UnBroken‼️",
+      "expLevel": 255,
+      "rank": 173,
+      "previousRank": 166,
+      "builderBaseTrophies": 5034,
+      "clan": {
+        "tag": "#CQCP8QP2",
+        "name": "DiRtY SoUtH",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/RaxtPHkfA0yX_7aRYDvXW7eVU9argrCQ2mKJrKLmlWw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/RaxtPHkfA0yX_7aRYDvXW7eVU9argrCQ2mKJrKLmlWw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/RaxtPHkfA0yX_7aRYDvXW7eVU9argrCQ2mKJrKLmlWw.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#Q0VR90GY",
+      "name": "nyden",
+      "expLevel": 230,
+      "rank": 174,
+      "previousRank": 169,
+      "builderBaseTrophies": 5033,
+      "clan": {
+        "tag": "#2QVY8RUL8",
+        "name": "AKTIVA SOLDATER",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#22JY9CJ0Y",
+      "name": "Andreas",
+      "expLevel": 271,
+      "rank": 175,
+      "previousRank": 170,
+      "builderBaseTrophies": 5031,
+      "clan": {
+        "tag": "#PGQJPL0",
+        "name": "Göteborg",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/rU0ub0XoQRV14xrgDq2B8N0KvC_kPTBBWK4nm7W2H-8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/rU0ub0XoQRV14xrgDq2B8N0KvC_kPTBBWK4nm7W2H-8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/rU0ub0XoQRV14xrgDq2B8N0KvC_kPTBBWK4nm7W2H-8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QYYUP9LVC",
+      "name": "Skipper",
+      "expLevel": 223,
+      "rank": 176,
+      "previousRank": 171,
+      "builderBaseTrophies": 5030,
+      "clan": {
+        "tag": "#20QCCC2RG",
+        "name": "LOVELY BOYS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/C7XKVZnPspVnVM_wtUWvqdNEj8ot-WoADUWeu6PL_z0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/C7XKVZnPspVnVM_wtUWvqdNEj8ot-WoADUWeu6PL_z0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/C7XKVZnPspVnVM_wtUWvqdNEj8ot-WoADUWeu6PL_z0.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2G02Q2G8C",
+      "name": "Tallish",
+      "expLevel": 229,
+      "rank": 177,
+      "previousRank": 174,
+      "builderBaseTrophies": 5029,
+      "clan": {
+        "tag": "#29PULV99J",
+        "name": "SWE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#GLYVGPJ0",
+      "name": "thyyy",
+      "expLevel": 220,
+      "rank": 178,
+      "previousRank": 132,
+      "builderBaseTrophies": 5029,
+      "clan": {
+        "tag": "#29LRY9LLL",
+        "name": "sweden boys",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9Y0Q2C0GQ",
+      "name": "Ariya",
+      "expLevel": 254,
+      "rank": 179,
+      "previousRank": 175,
+      "builderBaseTrophies": 5029,
+      "clan": {
+        "tag": "#YJ928JL",
+        "name": "SWElite",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/QiuCSelKop8nGDZ6jqqIsmjiBuwgKy3nO1tBK5HEuB0.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#QVV9GP0QL",
+      "name": "Mauri",
+      "expLevel": 188,
+      "rank": 180,
+      "previousRank": 177,
+      "builderBaseTrophies": 5028,
+      "clan": {
+        "tag": "#2J28VUUJL",
+        "name": "NightCrusaderz",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/-hnxidKL89mF0NOXVXo8OJnlXNrx4MY2IIE3Gw4BMtM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/-hnxidKL89mF0NOXVXo8OJnlXNrx4MY2IIE3Gw4BMtM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/-hnxidKL89mF0NOXVXo8OJnlXNrx4MY2IIE3Gw4BMtM.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8GQ22PCP2",
+      "name": "Ali Reza",
+      "expLevel": 248,
+      "rank": 181,
+      "previousRank": 178,
+      "builderBaseTrophies": 5028,
+      "clan": {
+        "tag": "#2RYJPYR0C",
+        "name": "غرب کابل",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#GJRU028L",
+      "name": "TOLZ",
+      "expLevel": 232,
+      "rank": 182,
+      "previousRank": 181,
+      "builderBaseTrophies": 5027,
+      "clan": {
+        "tag": "#999V8QUU",
+        "name": "ADRENALIN X",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/yWeRKKiASbcIeEcJfImeE33uRtxJ0T6-umFSbQl3kPw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/yWeRKKiASbcIeEcJfImeE33uRtxJ0T6-umFSbQl3kPw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/yWeRKKiASbcIeEcJfImeE33uRtxJ0T6-umFSbQl3kPw.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YRPRU09CQ",
+      "name": "Death step⚔️⚔️",
+      "expLevel": 227,
+      "rank": 183,
+      "previousRank": 182,
+      "builderBaseTrophies": 5027,
+      "clan": {
+        "tag": "#28YRVPVYU",
+        "name": "Afghan Boys",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/X3K6hZjRBbC3GSHimRpF0Exz6dNIwWwxFiyqcRI6m2c.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2JQVRQU2J",
+      "name": "jimbo",
+      "expLevel": 276,
+      "rank": 184,
+      "previousRank": 183,
+      "builderBaseTrophies": 5027,
+      "clan": {
+        "tag": "#29YLGVPPJ",
+        "name": "Sh?t Happens✌️",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/qdsDu69YuMUoxOV7zme6ewRVJFkePcTD-DSlf8H-ekw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/qdsDu69YuMUoxOV7zme6ewRVJFkePcTD-DSlf8H-ekw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/qdsDu69YuMUoxOV7zme6ewRVJFkePcTD-DSlf8H-ekw.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#GY8VQV9V",
+      "name": "skånesimpa",
+      "expLevel": 215,
+      "rank": 185,
+      "previousRank": 184,
+      "builderBaseTrophies": 5027,
+      "clan": {
+        "tag": "#2QUCCRCQJ",
+        "name": "by sweden",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zzjNZyDI7LkrwpU21-HxJsMjB9or0khYBRjHKbIr7e8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zzjNZyDI7LkrwpU21-HxJsMjB9or0khYBRjHKbIr7e8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zzjNZyDI7LkrwpU21-HxJsMjB9or0khYBRjHKbIr7e8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8R2P9QQG2",
+      "name": "Hell-king",
+      "expLevel": 226,
+      "rank": 186,
+      "previousRank": 185,
+      "builderBaseTrophies": 5027,
+      "clan": {
+        "tag": "#2G8GCYRCC",
+        "name": "PPB",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0mIsEmPZ2x0kC5U0f6SQihPXIREYvVmNnVzRlZra0dM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0mIsEmPZ2x0kC5U0f6SQihPXIREYvVmNnVzRlZra0dM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0mIsEmPZ2x0kC5U0f6SQihPXIREYvVmNnVzRlZra0dM.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2LUJJUV80",
+      "name": "george",
+      "expLevel": 258,
+      "rank": 187,
+      "previousRank": 186,
+      "builderBaseTrophies": 5026,
+      "clan": {
+        "tag": "#29VCPLGY0",
+        "name": "2pac",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/b5koqyTFkUOh7ZJJGIcV1uOv0PMJzq1HhWMalUT9A4U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/b5koqyTFkUOh7ZJJGIcV1uOv0PMJzq1HhWMalUT9A4U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/b5koqyTFkUOh7ZJJGIcV1uOv0PMJzq1HhWMalUT9A4U.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#YRYUG2PCU",
+      "name": "whxappuchte",
+      "expLevel": 235,
+      "rank": 188,
+      "previousRank": 187,
+      "builderBaseTrophies": 5026,
+      "clan": {
+        "tag": "#9JCCPR22",
+        "name": "GEBRUG ISLAND",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SYVA93oc2KmokhNnoNXDOMYkVL-58BrKnkEYEVkp6L8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SYVA93oc2KmokhNnoNXDOMYkVL-58BrKnkEYEVkp6L8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SYVA93oc2KmokhNnoNXDOMYkVL-58BrKnkEYEVkp6L8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#98UCPUJ9Y",
+      "name": "Wassup",
+      "expLevel": 216,
+      "rank": 189,
+      "previousRank": 188,
+      "builderBaseTrophies": 5026,
+      "clan": {
+        "tag": "#2YLCJY8CQ",
+        "name": "Brödraskapet",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/heuS7PN8jMymR-2Mp9mrSWDp_5YSNb9ajSpkDCJLu74.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#GGCPRJ0P",
+      "name": "Steve",
+      "expLevel": 228,
+      "rank": 190,
+      "previousRank": 189,
+      "builderBaseTrophies": 5026,
+      "clan": {
+        "tag": "#2YYQVJGY9",
+        "name": "UK wardogs",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FtK1cjWcrW6RDy-vUwo6OWeKUkH3lv89zqJJYs90a-4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FtK1cjWcrW6RDy-vUwo6OWeKUkH3lv89zqJJYs90a-4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FtK1cjWcrW6RDy-vUwo6OWeKUkH3lv89zqJJYs90a-4.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9YRQG8LCY",
+      "name": "Torolf",
+      "expLevel": 264,
+      "rank": 191,
+      "previousRank": 231,
+      "builderBaseTrophies": 5025,
+      "clan": {
+        "tag": "#YL00C2Q",
+        "name": "DIF",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/u1O0QEYDF2l8_mjAgC_c7VRkM2dLR2SiphG3BgycASM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/u1O0QEYDF2l8_mjAgC_c7VRkM2dLR2SiphG3BgycASM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/u1O0QEYDF2l8_mjAgC_c7VRkM2dLR2SiphG3BgycASM.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8RGGPQQ8Y",
+      "name": "Nilsfh",
+      "expLevel": 262,
+      "rank": 192,
+      "previousRank": 190,
+      "builderBaseTrophies": 5025,
+      "clan": {
+        "tag": "#82VG9CQV",
+        "name": "swe ! no cw",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4gnbEC0KAm_euvxsvnnEHrzD1ouGUHgSbIv4pwBTD7k.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2Y0LGGJLJ",
+      "name": "forza",
+      "expLevel": 225,
+      "rank": 193,
+      "previousRank": 191,
+      "builderBaseTrophies": 5025,
+      "clan": {
+        "tag": "#2QQQL98UP",
+        "name": "SweWar Clan",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/knYuxu4pCc0CogrP0c_9pmDJubm_ELKNIg43BcGYbS8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#RUUQRYY9",
+      "name": "Try 2G",
+      "expLevel": 245,
+      "rank": 194,
+      "previousRank": 192,
+      "builderBaseTrophies": 5025,
+      "clan": {
+        "tag": "#2JV982PV",
+        "name": "Hellfire",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/PL0B8PmKJPMhrdzRjoMH1sxxaF-XljbDDGAOx5AKZqI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/PL0B8PmKJPMhrdzRjoMH1sxxaF-XljbDDGAOx5AKZqI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/PL0B8PmKJPMhrdzRjoMH1sxxaF-XljbDDGAOx5AKZqI.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8GCJJ0VP9",
+      "name": "NUREKE87",
+      "expLevel": 244,
+      "rank": 195,
+      "previousRank": 157,
+      "builderBaseTrophies": 5024,
+      "clan": {
+        "tag": "#29RRCRU0G",
+        "name": "Endeavour",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/iPGDiPOoqA_4TczplEucNCFKJW0C6Bh9vfwP1EreN08.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/iPGDiPOoqA_4TczplEucNCFKJW0C6Bh9vfwP1EreN08.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/iPGDiPOoqA_4TczplEucNCFKJW0C6Bh9vfwP1EreN08.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#URR0CRYL",
+      "name": "凌乱的风吹裤衩",
+      "expLevel": 260,
+      "rank": 196,
+      "previousRank": 193,
+      "builderBaseTrophies": 5024,
+      "clan": {
+        "tag": "#2LPRPLJ0R",
+        "name": "kush killers",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/8EQBE6OT2lO2k7IAB6UnIZFU_duNd9iJG0kSvlZHi4Y.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/8EQBE6OT2lO2k7IAB6UnIZFU_duNd9iJG0kSvlZHi4Y.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/8EQBE6OT2lO2k7IAB6UnIZFU_duNd9iJG0kSvlZHi4Y.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#2G0GY0PVR",
+      "name": "Bad Cajsa",
+      "expLevel": 257,
+      "rank": 197,
+      "previousRank": 243,
+      "builderBaseTrophies": 5024,
+      "clan": {
+        "tag": "#9208CRR0",
+        "name": "Stockholm city!",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/eMp5h0LHHy1yqJoaq6XVEQYJTjaWnIbOfW1hR_2ndtc.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#9YY082VJ",
+      "name": "Ted",
+      "expLevel": 246,
+      "rank": 198,
+      "previousRank": 194,
+      "builderBaseTrophies": 5024,
+      "clan": {
+        "tag": "#C0LY2JG",
+        "name": "Warriors",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OnyoVzsqn5OaD1w8kiki9N4Z_fVD5RkueWVuq1gkKiE.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#8P8GRLP",
+      "name": "Mini Golem",
+      "expLevel": 194,
+      "rank": 199,
+      "previousRank": 197,
+      "builderBaseTrophies": 5023,
+      "clan": {
+        "tag": "#2GLJ29GRL",
+        "name": "HP ARMY 2.0❤️",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SYVA93oc2KmokhNnoNXDOMYkVL-58BrKnkEYEVkp6L8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SYVA93oc2KmokhNnoNXDOMYkVL-58BrKnkEYEVkp6L8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SYVA93oc2KmokhNnoNXDOMYkVL-58BrKnkEYEVkp6L8.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    },
+    {
+      "tag": "#22YU90RUV",
+      "name": "(⁎⚈᷀᷁ᴗ⚈᷀᷁⁎)",
+      "expLevel": 233,
+      "rank": 200,
+      "previousRank": 196,
+      "builderBaseTrophies": 5023,
+      "clan": {
+        "tag": "#2R8PUYLJU",
+        "name": "Thee Avengerz",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4ezo0t5gD-rzUl4WppK7Gm9MqZeH91MLjULmy8Gh9ow.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4ezo0t5gD-rzUl4WppK7Gm9MqZeH91MLjULmy8Gh9ow.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4ezo0t5gD-rzUl4WppK7Gm9MqZeH91MLjULmy8Gh9ow.png"
+        }
+      },
+      "builderBaseLeague": {
+        "id": 44000035,
+        "name": "Emerald League III"
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}

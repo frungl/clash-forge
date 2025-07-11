@@ -6,12 +6,12 @@ use serde::{Deserialize, Serialize};
 
 // ---------- Verify Token ----------
 
-#[derive(Debug, Serialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Deserialize, Serialize)]
 pub struct APIVerifyTokenRequest {
     pub token: String,
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Deserialize, Serialize)]
 pub struct APIVerifyTokenResponse {
     pub tag: String,
     pub token: String,
@@ -90,7 +90,8 @@ pub struct APIPlayerLegendStatistics {
 #[derive(Debug, Clone, PartialEq, Eq, Deserialize, Serialize)]
 #[serde(rename_all = "camelCase")]
 pub struct APILegendLeagueTournamentSeasonResult {
-    pub id: String,
+    // current season doesn't have id
+    pub id: Option<String>,
     pub rank: i64,
     pub trophies: i64,
 }

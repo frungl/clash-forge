@@ -1,14 +1,24 @@
+use crate::api;
 use crate::errors::{Error, Result};
 use reqwest::header::{HeaderMap, HeaderValue, ACCEPT, AUTHORIZATION};
 use std::collections::HashMap;
 use std::time::Duration;
-use crate::api;
 
 #[derive(Debug, Clone)]
 pub struct RestManagerConfig {
     pub timeout: Duration,
     pub base_url: String,
     pub user_agent: String,
+}
+
+impl RestManagerConfig {
+    pub fn new(timeout: u64, base_url: impl AsRef<str>, user_agent: impl AsRef<str>) -> Self {
+        Self {
+            timeout: Duration::from_secs(timeout),
+            base_url: base_url.as_ref().to_string(),
+            user_agent: user_agent.as_ref().to_string(),
+        }
+    }
 }
 
 impl Default for RestManagerConfig {

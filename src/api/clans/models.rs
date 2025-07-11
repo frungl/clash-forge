@@ -283,6 +283,7 @@ pub struct APIClanCapitalRaidSeason {
     pub enemy_districts_destroyed: i64,
     pub offensive_reward: i64,
     pub defensive_reward: i64,
+    // only for last season
     pub members: Option<Vec<APIClanCapitalRaidSeasonMember>>,
     pub attack_log: Vec<APIClanCapitalRaidSeasonAttackLogEntry>,
     pub defense_log: Vec<APIClanCapitalRaidSeasonDefenseLogEntry>,
@@ -346,6 +347,7 @@ pub struct APIClanCapitalRaidSeasonDistrict {
     pub stars: i64,
     pub attack_count: i64,
     pub total_looted: i64,
+    // only for ongoing seasons
     pub attacks: Option<Vec<APIClanCapitalRaidSeasonAttack>>,
 }
 
