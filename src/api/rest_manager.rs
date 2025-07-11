@@ -2,6 +2,7 @@ use crate::api;
 use crate::errors::{Error, Result};
 use reqwest::header::{HeaderMap, HeaderValue, ACCEPT, AUTHORIZATION};
 use std::collections::HashMap;
+use std::sync::Arc;
 use std::time::Duration;
 
 #[derive(Debug, Clone)]
@@ -34,7 +35,7 @@ impl Default for RestManagerConfig {
 #[derive(Debug, Clone)]
 pub struct RestManager {
     http_client: reqwest::Client,
-    config: RestManagerConfig,
+    config: Arc<RestManagerConfig>,
 }
 
 impl RestManager {
@@ -56,6 +57,7 @@ impl RestManager {
             .user_agent(&config.user_agent)
             .build()?;
 
+        let config = Arc::new(config);
         Ok(RestManager { http_client, config })
     }
     
