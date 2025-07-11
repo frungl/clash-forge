@@ -18,7 +18,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing an `APIPlayer` if successful; if an error occurs, it contains an `Error`.
     pub async fn player(&self, tag: impl AsRef<str>) -> Result<APIPlayer> {
-        let tag = utils::normalize_tag(tag.as_ref())?;
+        let tag = utils::normalize_tag(tag.as_ref());
         let url = encode_url!("{}", tag);
         self.get(&url, None).await
     }
@@ -32,7 +32,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a boolean indicating whether the token verification was successful (`true`) or not (`false`); if an error occurs, it contains an `Error`.
     pub async fn verify(&self, tag: impl AsRef<str>, token: impl AsRef<str>) -> Result<bool> {
-        let tag = utils::normalize_tag(tag.as_ref())?;
+        let tag = utils::normalize_tag(tag.as_ref());
         let token = token.as_ref().to_string();
         let url = encode_url!("{}/verifytoken", tag);
         let request = APIVerifyTokenRequest { token };

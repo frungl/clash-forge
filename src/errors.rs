@@ -5,7 +5,6 @@ pub enum Error {
     Http(reqwest::Error),
     Json(serde_json::Error),
     Api(crate::api::errors::Error),
-    InvalidTag(String),
     InvalidToken,
 }
 
@@ -15,7 +14,6 @@ impl fmt::Display for Error {
             Error::Http(err) => write!(f, "HTTP error: {err}"),
             Error::Json(err) => write!(f, "JSON error: {err}"),
             Error::Api(err) => write!(f, "API error: {err}"),
-            Error::InvalidTag(tag) => write!(f, "Invalid tag: {tag}"),
             Error::InvalidToken => write!(f, "Invalid API token"),
         }
     }

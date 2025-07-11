@@ -37,7 +37,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing the `APIClan` if successful; if an error occurs, it contains an `Error`.
     pub async fn clan_info(&self, tag: impl AsRef<str>) -> Result<APIClan> {
-        let tag = normalize_tag(tag.as_ref())?;
+        let tag = normalize_tag(tag.as_ref());
         let url = format_url!("{}", tag);
         self.get(&url, None).await
     }
@@ -51,7 +51,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APIClanMember>` if successful; if an error occurs, it contains an `Error`.
     pub async fn clan_members(&self, tag: impl AsRef<str>, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APIClanMember>> {
-        let tag = normalize_tag(tag.as_ref())?;
+        let tag = normalize_tag(tag.as_ref());
         let url = format_url!("{}/members", tag);
         self.get(&url, pagination_options.to_query_parameters().into()).await
     }
@@ -65,7 +65,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APIClanWarLogEntry>` if successful; if an error occurs, it contains an `Error`.
     pub async fn war_log(&self, tag: impl AsRef<str>, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APIClanWarLogEntry>> {
-        let tag = normalize_tag(tag.as_ref())?;
+        let tag = normalize_tag(tag.as_ref());
         let url = format_url!("{}/warlog", tag);
         self.get(&url, pagination_options.to_query_parameters().into()).await
     }
@@ -78,7 +78,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing the `APIClanWar` if successful; if an error occurs, it contains an `Error`.
     pub async fn current_war(&self, tag: impl AsRef<str>) -> Result<APIClanWar> {
-        let tag = normalize_tag(tag.as_ref())?;
+        let tag = normalize_tag(tag.as_ref());
         let url = format_url!("{}/currentwar", tag);
         self.get(&url, None).await
     }
@@ -91,7 +91,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIClanWarLeagueGroup` if successful; if an error occurs, it contains an `Error`.
     pub async fn clan_war_league_group(&self, tag: impl AsRef<str>) -> Result<APIClanWarLeagueGroup> {
-        let tag = normalize_tag(tag.as_ref())?;
+        let tag = normalize_tag(tag.as_ref());
         let url = format_url!("{}/currentwar/leaguegroup", tag);
         self.get(&url, None).await
     }
@@ -104,7 +104,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing the `APIClanWarLeagueGroup` if successful; if an error occurs, it contains an `Error`.
     pub async fn clan_war_league_war(&self, war_tag: impl AsRef<str>) -> Result<APIClanWar> {
-        let war_tag = normalize_tag(war_tag.as_ref())?;
+        let war_tag = normalize_tag(war_tag.as_ref());
         let url = format!("clanwarleagues/wars/{war_tag}");
         self.get(&url, None).await
     }
@@ -118,7 +118,7 @@ impl RestManager {
     /// # Returns
     /// `Result` containing a `APIPagedResponse<APIClanCapitalRaidSeason>` if successful; if an error occurs, it contains an `Error`.
     pub async fn clan_capital_raid_seasons(&self, tag: impl AsRef<str>, pagination_options: PaginationOptions) -> Result<APIPagedResponse<APIClanCapitalRaidSeason>> {
-        let tag = normalize_tag(tag.as_ref())?;
+        let tag = normalize_tag(tag.as_ref());
         let url = format_url!("{}/capitalraidseasons", tag);
         self.get(&url, pagination_options.to_query_parameters().into()).await
     }
