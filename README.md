@@ -1,5 +1,8 @@
 # Clash Forge
-[![Build Status](https://github.com/frungl/clash-forge/workflows/CI/badge.svg)](https://github.com/frungl/clash-forge/actions)
+[![crates.io](https://img.shields.io/crates/v/clash-forge.svg)](https://crates.io/crates/clash-forge)
+[![docs.rs](https://docs.rs/clash-forge/badge.svg)](https://docs.rs/clash-forge)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/frungl/clash-forge/workflows/CI/badge.svg)](https://github.com/frungl/clash-forge/actions)
 [![Codecov](https://codecov.io/gh/frungl/clash-forge/branch/master/graph/badge.svg)](https://codecov.io/gh/frungl/clash-forge)
 
 Clash Forge is a Rust library for interacting with the Clash of Clans API, allowing developers to easily access and manipulate game data.
