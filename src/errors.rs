@@ -12,10 +12,10 @@ pub enum Error {
 impl fmt::Display for Error {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         match self {
-            Error::Http(err) => write!(f, "HTTP error: {}", err),
-            Error::Json(err) => write!(f, "JSON error: {}", err),
-            Error::Api(err) => write!(f, "API error: {}", err),
-            Error::InvalidTag(tag) => write!(f, "Invalid tag: {}", tag),
+            Error::Http(err) => write!(f, "HTTP error: {err}"),
+            Error::Json(err) => write!(f, "JSON error: {err}"),
+            Error::Api(err) => write!(f, "API error: {err}"),
+            Error::InvalidTag(tag) => write!(f, "Invalid tag: {tag}"),
             Error::InvalidToken => write!(f, "Invalid API token"),
         }
     }

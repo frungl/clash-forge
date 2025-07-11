@@ -105,7 +105,7 @@ impl RestManager {
     /// `Result` containing the `APIClanWarLeagueGroup` if successful; if an error occurs, it contains an `Error`.
     pub async fn clan_war_league_war(&self, war_tag: impl AsRef<str>) -> Result<APIClanWar> {
         let war_tag = normalize_tag(war_tag.as_ref())?;
-        let url = format!("clanwarleagues/wars/{}", war_tag);
+        let url = format!("clanwarleagues/wars/{war_tag}");
         self.get(&url, None).await
     }
 

@@ -11,7 +11,7 @@ pub fn normalize_tag(tag: &str) -> Result<String> {
     }
 
     if !cleaned.chars().skip(1).all(|c| c.is_ascii_alphanumeric()) {
-        return Err(Error::InvalidTag(format!("Invalid tag format: {}", tag)));
+        return Err(Error::InvalidTag(format!("Invalid tag format: {tag}")));
     }
 
     Ok(urlencoding::encode(&cleaned).to_string())

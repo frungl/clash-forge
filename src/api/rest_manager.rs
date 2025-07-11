@@ -46,7 +46,7 @@ impl RestManager {
         let token = token.as_ref();
 
         let mut headers = HeaderMap::new();
-        let auth_value = HeaderValue::from_str(&format!("Bearer {}", token))
+        let auth_value = HeaderValue::from_str(&format!("Bearer {token}"))
             .map_err(|_| Error::InvalidToken)?;
         headers.insert(AUTHORIZATION, auth_value);
         headers.insert(ACCEPT, HeaderValue::from_static("application/json"));

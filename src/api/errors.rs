@@ -26,7 +26,7 @@ impl Error {
 
     pub async fn from_response(response: reqwest::Response) -> Self {
         let status_code = response.status();
-        let data: ApiErrorResponse = response.json().await.unwrap_or_else(|_| ApiErrorResponse {
+        let data: ApiErrorResponse = response.json().await.unwrap_or(ApiErrorResponse {
             reason: None,
             message: None,
         });
